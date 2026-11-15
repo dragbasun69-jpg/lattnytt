@@ -278,6 +278,16 @@ async function renderPdfs(quiz) {
   await rm(tmp, { recursive: true, force: true });
 }
 
+// Gör PDF:er för quiz som saknar dem (t.ex. quiz som lagts in utan Chrome)
+async function renderMissing() {
+  const index = await readJson(path.join(QUIZ_DATA, "index.json"), { quizzes: [] });
+  for (const q of index.quizzes) {
+    if (existsSync(path.join(QUIZ_OUT, `${q.id}-elev.pdf`)) && existsSync(path.join(QUIZ_OUT, `${q.id}-larare.pdf`))) continue;
+    const quiz = await readJson(path.join(QUIZ_DATA, `${q.id}.json`), null);
+    if (quiz) await renderPdfs(quiz);
+  }
+}
+
 async function updateIndex(quiz) {
   const file = path.join(QUIZ_DATA, "index.json");
   const index = await readJson(file, { quizzes: [] });
@@ -305,7 +315,9 @@ async function main() {
   const quizFile = path.join(QUIZ_DATA, `${id}.json`);
   const force = process.env.FORCE_QUIZ === "1" || args[0] === "--input";
 
-  if (existsSync(quizFile) && !force) { console.log(`Quiz för ${id} finns redan.`); return; }
+  if (args[0] === "--prompt") {
+    if (existsSync(quizFile)) { console.log(`QUIZ_FINNS_REDAN ${id}`); return; }
+  } else if (existsSync(quizFile) && !force) { console.log(`Quiz för ${id} finns redan.`); await renderMissing(); return; }
   if (now.wd.startsWith("mån") && now.h < 6 && !force) { console.log("Veckans quiz skapas måndag kl. 06."); return; }
 
   // Nyheter från de senaste 7 dagarna
@@ -321,13 +333,21 @@ async function main() {
   const siteUrl = process.env.SITE_URL || `https://${owner}.github.io/${name}/`;
   const meta = { id, year, week, title: `Nyhetsquiz vecka ${week}`, period, siteUrl, created: new Date().toISOString(), model: MODEL };
 
+  if (args[0] === "--prompt") {
+    console.log(`QUIZ_ID ${id}\n`);
+    console.log(buildPrompt(items, period).replace("Spara quizet med verktyget skapa_quiz.",
+      "Spara quizet som JSON i en fil med exakt den här strukturen och kör sedan: node scripts/make-quiz.mjs --input <filen>\n\n" +
+      JSON.stringify(TOOL.input_schema, null, 1)));
+    return;
+  }
+
   let raw, errs = [];
   if (args[0] === "--input") {
     raw = JSON.parse(await readFile(args[1], "utf8"));
     meta.model = "manuellt";
     errs = validate(raw, items);
   } else {
-    if (!process.env.ANTHROPIC_API_KEY) { console.log("Ingen ANTHROPIC_API_KEY – hoppar över quizet."); return; }
+    if (!process.env.ANTHROPIC_API_KEY) { console.log("Ingen ANTHROPIC_API_KEY – quizet görs av den schemalagda uppgiften i stället."); await renderMissing(); return; }
     // Max 3 misslyckade körningar per vecka, så att ett fel inte kostar pengar varje timme
     const failFile = path.join(QUIZ_DATA, `.misslyckat-${id}`);
     const fails = parseInt(await readFile(failFile, "utf8").catch(() => "0"), 10) || 0;
