@@ -221,6 +221,14 @@
     els.pause.setAttribute("aria-label", "Pausa");
     document.getElementById(`card-${queue[pos].id}`)?.scrollIntoView({ behavior: "smooth", block: "center" });
     speakCurrent();
+    // Räkna uppläsningar i besöksstatistiken (syns som händelser i GoatCounter)
+    try {
+      window.goatcounter?.count?.({
+        path: continuous ? "lyssna-pa-alla" : "lyssna-" + queue[pos].sourceId,
+        title: continuous ? "Lyssna på alla" : "Lyssna: " + queue[pos].source,
+        event: true,
+      });
+    } catch { /* räknaren får aldrig störa uppläsningen */ }
   }
 
   function nextItem(auto = false) {
