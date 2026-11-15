@@ -188,7 +188,7 @@ async function pool(items, limit, fn) {
 // ---------- Arkiv för veckoquizet ----------
 // Sparar alla nyheter från de senaste dagarna, så att quizet kan bygga på hela veckan
 // och inte bara på de 40 senaste nyheterna.
-const ARCHIVE_DAYS = 10;
+const ARCHIVE_DAYS = 14;
 
 async function updateArchive(items) {
   const file = path.join(path.dirname(OUT_FILE), "archive.json");
@@ -210,10 +210,11 @@ async function updateArchive(items) {
     .filter((x) => new Date(x.date || x.firstSeen).getTime() >= cutoff)
     .sort((a, b) => (b.date || b.firstSeen).localeCompare(a.date || a.firstSeen));
 
-  if (JSON.stringify(kept) === JSON.stringify(old)) return;
+  if (JSON.stringify(kept) === JSON.stringify(old)) return kept;
   await mkdir(path.dirname(file), { recursive: true });
   await writeFile(file, JSON.stringify({ items: kept }, null, 2) + "\n", "utf8");
   console.log(`Arkivet har ${kept.length} nyheter från de senaste ${ARCHIVE_DAYS} dagarna.`);
+  return kept;
 }
 
 // ---------- Huvudprogram ----------
@@ -276,7 +277,13 @@ async function main() {
     return;
   }
 
-  await updateArchive(all);
+  // Sajten visar hela arkivet (två veckor), så att eleverna hittar svaren till veckans quiz
+  const colors = Object.fromEntries(config.sources.map((s) => [s.id, s.color]));
+  const archived = await updateArchive(all);
+  all = archived.map((x, i) => ({
+    title: x.title, link: x.link, summary: x.summary, date: x.date, image: x.image,
+    sourceId: x.sourceId, source: x.source, color: colors[x.sourceId] || "#14213d", id: `${x.sourceId}-${i}`,
+  }));
 
   // Skriv bara om något faktiskt ändrats, så att repot inte fylls av tomma ändringar
   try {

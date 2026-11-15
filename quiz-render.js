@@ -26,7 +26,7 @@
     return list
       .map((q, i) => `
       <div class="q">
-        <p class="qtext"><span class="qnum">${prefix}${start + i}</span> ${esc(q.q)} ${q.news ? `<span class="ref">(nyhet ${q.news})</span>` : ""}</p>
+        <p class="qtext"><span class="qnum">${prefix}${start + i}</span> ${esc(q.q)} ${teacher && q.news ? `<span class="ref">(nyhet ${q.news})</span>` : ""}</p>
         ${options(q, teacher)}
         ${teacher ? `<p class="facit"><b>Rätt svar: ${LETTERS[q.answer]}.</b> ${esc(q.explanation || "")}</p>` : ""}
       </div>`)
@@ -70,17 +70,25 @@
     ${quiz.lessonTips?.length ? `<p><b>Förslag på upplägg</b></p><ul>${quiz.lessonTips.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
   </section>` : ""}
 
+  ${teacher ? `
   <section>
-    <h2>Veckans nyheter</h2>
+    <h2>Nyheterna i quizet</h2>
+    <p class="instr">Eleverna letar själva efter nyheterna på sajten. Här är de sex nyheterna frågorna bygger på.</p>
     <ol class="news">
       ${quiz.news.map((n) => `
       <li>
-        <p class="ntitle">${esc(n.title)}</p>
+        <p class="ntitle">${esc(n.title)} <span class="ref">– på sajten: ”${esc(n.originalTitle || n.title)}”</span></p>
         <p>${esc(n.studentSummary)}</p>
-        ${teacher ? `<p class="bg"><b>Bakgrund:</b> ${esc(n.teacherBackground || "")}</p><p class="src">Källa: ${esc(n.source)} – ${esc(n.link)}</p>` : ""}
+        <p class="bg"><b>Bakgrund:</b> ${esc(n.teacherBackground || "")}</p>
+        <p class="src">Källa: ${esc(n.source)} – ${esc(n.link)}</p>
       </li>`).join("")}
     </ol>
-  </section>
+  </section>` : `
+  <section class="findbox">
+    <p class="findtitle">🔍 Leta efter svaren</p>
+    <p>Alla svar finns i nyheterna på <b>${esc((quiz.siteUrl || "").replace(/^https?:\/\//, ""))}</b></p>
+    <p>Läs nyheterna från ${esc(quiz.period)}. Du kan söka efter ord i sökrutan.</p>
+  </section>`}
 
   <section class="part">
     <h2>Del A <span class="lvl">Lättare</span></h2>
@@ -107,7 +115,7 @@
     <p class="instr">Diskutera i par eller i grupp.${teacher ? "" : " Skriv gärna stödord."}</p>
     ${B.discussion.map((d, i) => `
     <div class="q disc">
-      <p class="qtext"><span class="qnum">${i + 1}.</span> ${esc(d.q)} ${d.news ? `<span class="ref">(nyhet ${d.news})</span>` : ""}</p>
+      <p class="qtext"><span class="qnum">${i + 1}.</span> ${esc(d.q)} ${teacher && d.news ? `<span class="ref">(nyhet ${d.news})</span>` : ""}</p>
       ${teacher ? `<p class="facit"><b>Tips:</b> ${esc(d.tips || "")}</p>` : `<div class="lines"><span></span><span></span></div>`}
     </div>`).join("")}
   </section>
@@ -137,6 +145,8 @@
 .namebox .line { display:inline-block; width:170px; border-bottom:1px solid var(--ink); }
 .namebox .line.short { width:90px; }
 .pointsbox { border:2px solid var(--ink); border-radius:8px; padding:.5rem .8rem; font-size:.9rem; white-space:nowrap; }
+.findbox { border:3px dashed var(--accent); border-radius:10px; padding:.7rem 1rem; margin-top:1rem; }
+.findbox p { margin:.15rem 0; } .findtitle { font-weight:800; font-size:1.15rem; }
 .note { background:#fff6e6; border-left:5px solid var(--accent); padding:.6rem .9rem; margin-top:1rem; border-radius:4px; }
 .note p { margin:.3rem 0; } .note ul { margin:.2rem 0 .3rem 1.1rem; padding:0; }
 .small { font-size:.85rem; color:var(--soft); }

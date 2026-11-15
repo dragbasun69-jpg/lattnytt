@@ -114,7 +114,7 @@ const TOOL = {
           properties: {
             sourceIndex: { type: "integer", description: "Numret på nyheten i listan du fick" },
             title: { type: "string", description: "Kort rubrik på lätt svenska" },
-            studentSummary: { type: "string", description: "2–3 korta meningar på lätt svenska" },
+            studentSummary: { type: "string", description: "2–3 korta meningar som sammanfattar nyheten för läraren" },
             teacherBackground: { type: "string", description: "2–4 meningar bakgrund till läraren" },
           },
           required: ["sourceIndex", "title", "studentSummary", "teacherBackground"],
@@ -166,12 +166,12 @@ Gör så här:
 
 2. Skriv för varje nyhet:
    - title: en kort rubrik på lätt svenska.
-   - studentSummary: 2–3 korta meningar på lätt svenska (nivå A2). Använd bara fakta som står i nyhetstexten.
+   - studentSummary: 2–3 korta meningar på lätt svenska som sammanfattar nyheten för läraren. Använd bara fakta som står i nyhetstexten.
    - teacherBackground: 2–4 meningar som ger läraren sammanhang. Använd bara välkänd, säker allmänkunskap. Hitta inte på siffror, namn, datum eller citat. Är du osäker, skriv allmänt och föreslå vad läraren kan kontrollera.
 
 3. Del A (lättare, nivå A2):
    - 6 flervalsfrågor, en per vald nyhet, i samma ordning som nyheterna. 3 svarsalternativ.
-   - 4 ordfrågor: ord som finns i elevtexterna. 3 alternativ.
+   - 4 ordfrågor: ord som finns i nyheterna. Skriv meningen där ordet finns i fältet context. 3 alternativ.
 
 4. Del B (svårare, nivå B1–B2):
    - 6 flervalsfrågor, en per nyhet. 4 svarsalternativ. Frågorna ska kräva att eleven förstår och drar slutsatser, inte bara hittar ett ord.
@@ -179,7 +179,8 @@ Gör så här:
    - 4 diskussionsfrågor som är öppna och knyter an till elevernas vardag eller samhället. Ge läraren tips på vad samtalet kan handla om.
 
 Viktiga regler:
-- Varje flervalsfråga ska gå att besvara med hjälp av elevtexten (studentSummary) för samma nyhet. Fältet news är nyhetens nummer i quizet (1–6).
+- Eleverna får inte nyhetstexterna på papper. De ska leta upp nyheterna själva på sajten, där bara rubriken och ingressen syns. Därför måste varje flervalsfråga gå att besvara med hjälp av rubriken och ingressen ovan, inte med fakta som bara står i hela artikeln eller i din bakgrundstext.
+- Skriv frågorna så att det framgår vilken nyhet de handlar om, men ge inte bort svaret i frågan. Fältet news är nyhetens nummer i quizet (1–6).
 - Det ska finnas exakt ett rätt svar. Felaktiga alternativ ska vara rimliga men tydligt fel.
 - Skriv inte "alla ovanstående" eller "inget av alternativen".
 - Ange rätt svar med index (0 = första alternativet).
@@ -330,7 +331,10 @@ async function main() {
 
   const dates = items.map((x) => x.date || x.firstSeen).sort();
   const period = periodText(dates[0], dates[dates.length - 1]);
-  const meta = { id, year, week, title: `Nyhetsquiz vecka ${week}`, period, created: new Date().toISOString(), model: MODEL };
+  const repo = process.env.GITHUB_REPOSITORY || "dragbasun69-jpg/lattnytt";
+  const [owner, name] = repo.split("/");
+  const siteUrl = process.env.SITE_URL || `https://${owner}.github.io/${name}/`;
+  const meta = { id, year, week, title: `Nyhetsquiz vecka ${week}`, period, siteUrl, created: new Date().toISOString(), model: MODEL };
 
   let raw, errs = [];
   if (args[0] === "--input") {

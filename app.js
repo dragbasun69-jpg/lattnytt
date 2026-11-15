@@ -18,6 +18,7 @@
 
   let data = { items: [], sources: [] };
   let filter = "alla";
+  let query = "";
 
   // Uppläsningens läge
   const reader = {
@@ -57,7 +58,10 @@
     return d.toLocaleDateString("sv-SE", { day: "numeric", month: "long" });
   }
 
-  const visibleItems = () => data.items.filter((x) => filter === "alla" || x.sourceId === filter);
+  const norm = (t) => (t || "").toLowerCase();
+  const visibleItems = () => data.items.filter((x) =>
+    (filter === "alla" || x.sourceId === filter) &&
+    (!query || query.split(/\s+/).every((w) => norm(x.title + " " + x.summary).includes(w))));
 
   // ---------- Rendera ----------
   function renderFilters() {
@@ -73,7 +77,7 @@
     const items = visibleItems();
     if (!items.length) {
       els.grid.innerHTML = "";
-      els.status.textContent = "Inga nyheter att visa just nu.";
+      els.status.textContent = query ? `Hittade inga nyheter som innehåller ”${query}”.` : "Inga nyheter att visa just nu.";
       els.status.hidden = false;
       return;
     }
@@ -295,6 +299,16 @@
     stop();
     renderFilters();
     renderGrid();
+  });
+
+  let searchTimer;
+  $("search").addEventListener("input", (e) => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      query = norm(e.target.value.trim());
+      if (reader.playing) stop();
+      renderGrid();
+    }, 200);
   });
 
   els.grid.addEventListener("click", (e) => {

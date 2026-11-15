@@ -1,6 +1,6 @@
 {
   "maxPerSource": 15,
-  "maxTotal": 40,
+  "maxTotal": 60,
   "sources": [
     {
       "id": "8sidor",

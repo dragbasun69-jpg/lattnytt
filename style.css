@@ -57,6 +57,10 @@ body {
 }
 .chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
 .settings { display: flex; gap: .4rem; }
+.search-wrap { flex: 1 1 100%; }
+#search { width: 100%; font: inherit; padding: .7rem 1rem; border: 2px solid var(--line); border-radius: 999px; background: #fff; min-height: 48px; }
+#search:focus { outline: 3px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 
 .status { color: var(--ink-soft); }
 
