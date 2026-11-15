@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "2026-11-15-stort-snoovader-i-norra-sverige",
+      "title": "Stort snöoväder i norra Sverige",
+      "emoji": "❄️",
+      "color": "#1d4e89",
+      "paragraphs": [
+        "Torsdagen den 12 november kom ett stort snöoväder till norra Sverige. Det snöade mycket och blåste hårt.",
+        "Värst var det vid kusten i Västerbotten och i södra Norrbotten, till exempel runt Skellefteå. På vissa platser kunde det komma upp till 40 centimeter snö.",
+        "SMHI är Sveriges myndighet för väder. SMHI gav en orange varning. Det betyder att vädret kan ställa till stora problem.",
+        "Trafikverket bad människor att inte köra bil om de inte måste. Vägarna blev hala och det var svårt att se. Bussar och tåg kunde bli sena eller inställda."
+      ],
+      "tip": {
+        "label": "Bra att veta",
+        "text": "Om du måste köra bil i snöväder ska du ha vinterdäck, varma kläder, en filt och en laddad mobil."
+      },
+      "sources": [
+        {
+          "title": "Trafikverket: pressmeddelande 11 november",
+          "url": "https://via.tt.se/pressmeddelande/4637607/besvarligt-vader-vantas-ge-dig-inte-ut-i-trafiken-i-onodan?publisherId=44450"
+        },
+        {
+          "title": "TV4: Orange varning för snö",
+          "url": "https://www.tv4.se/artikel/3YO3ghQhWdCH5SeaWfNGjy/risk-foer-snoekanoner-dopning-av-nederboerdsomradet"
+        },
+        {
+          "title": "SVT Västerbotten: Snö och blåst",
+          "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/sno-och-blast-drar-in-over-vasterbotten-folj-var-rapportering-har"
+        }
+      ],
+      "date": "2026-11-15T20:44:10.540Z"
+    },
+    {
+      "id": "2026-11-15-elen-ar-dyr-i-sodra-sverige",
+      "title": "Elen är dyr i södra Sverige",
+      "emoji": "⚡",
+      "color": "#b5450b",
+      "paragraphs": [
+        "Elen är mycket dyr i södra Sverige just nu. Det gäller mest elområde 4. Där ligger bland annat Skåne, Blekinge, Halland, Kronoberg och Kalmar.",
+        "I början av november kostade elen nästan 3 kronor per kilowattimme på elbörsen i elområde 4. Det är det högsta priset hittills i år. I norra Sverige är elen mycket billigare.",
+        "En orsak är att flera kärnkraftverk har varit stängda för reparationer. Då finns det mindre el i södra Sverige. Några av kärnkraftverken ska starta igen i november. Då kan priset bli lägre."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "En kilowattimme (kWh) är ett mått på hur mycket el man använder."
+      },
+      "sources": [
+        {
+          "title": "TT via Dagens PS: Elpriserna skenar",
+          "url": "https://www.dagensps.se/privatekonomi/elpriserna-skenar-blir-varre-i-veckan/"
+        },
+        {
+          "title": "TT via TV4: Elpriserna skenar",
+          "url": "https://www.tv4.se/artikel/tt-261109-elpris1-a23997e7/elpriserna-skenar-blir-varre-i-veckan"
+        },
+        {
+          "title": "Hurbra: Elpriset i november",
+          "url": "https://hurbra.se/?p=46542"
+        }
+      ],
+      "date": "2026-11-15T20:44:10.540Z"
+    },
+    {
+      "id": "2026-11-15-musikhjalpen-kommer-till-linkoping",
+      "title": "Musikhjälpen kommer till Linköping",
+      "emoji": "🎵",
+      "color": "#1f7a6f",
+      "paragraphs": [
+        "Musikhjälpen är en insamling av pengar. Den sänds i P3 och SVT. Programledarna bor i en glasbur i en vecka och samlar in pengar.",
+        "I år står glasburen på Stora torget i Linköping. Musikhjälpen börjar den 30 november och slutar den 6 december. Det är andra gången Musikhjälpen är i Linköping. Första gången var 2015.",
+        "Årets tema är ”För psykisk hälsa i krig och kris”. Pengarna ska hjälpa människor som mår dåligt psykiskt på grund av krig och kriser."
+      ],
+      "tip": {
+        "label": "Gör så här",
+        "text": "Du kan ge pengar på musikhjalpen.se. Man kan också starta en egen insamling, till exempel med sin klass."
+      },
+      "sources": [
+        {
+          "title": "Radiohjälpen: Årets tema",
+          "url": "https://via.tt.se/pressmeddelande/4573285/musikhjalpen-2026-for-psykisk-halsa-i-krig-och-kris?lang=sv"
+        },
+        {
+          "title": "Radiohjälpen: Musikhjälpen till Linköping",
+          "url": "https://via.tt.se/pressmeddelande/4493629/klart-musikhjalpen-2026-till-linkoping"
+        },
+        {
+          "title": "Sveriges Radio: Frågor och svar",
+          "url": "https://sverigesradio.se/artikel/vanliga-fragor-och-svar-om-musikhjalpen"
+        }
+      ],
+      "date": "2026-11-15T20:44:10.540Z"
+    },
+    {
+      "id": "2026-11-15-ny-vag-ska-ga-under-gota-kanal",
+      "title": "Ny väg ska gå under Göta kanal",
+      "emoji": "🛣️",
+      "color": "#5b3f86",
+      "paragraphs": [
+        "I Söderköping i Östergötland har Trafikverket börjat bygga en ny väg. Den heter E22 Förbifart Söderköping och blir ungefär en mil lång.",
+        "I dag går vägen E22 rakt genom Söderköping. Den nya vägen ska gå runt staden. Då blir det säkrare och lättare att köra.",
+        "Den nya vägen ska gå under Göta kanal. Kanalen ligger ovanför och bilarna kör under. Då kan båtarna åka på kanalen, och bilarna behöver inte vänta.",
+        "Vägen ska vara klar sommaren 2030."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "En akvedukt är en bro för vatten. Den nya vägen får en akvedukt."
+      },
+      "sources": [
+        {
+          "title": "Trafikverket: pressmeddelande 6 november",
+          "url": "https://via.tt.se/pressmeddelande/4629526/bygget-av-e22-forbifart-soderkoping-har-startat-med-en-akvedukt-vid-gota-kanal?publisherId=44450"
+        }
+      ],
+      "date": "2026-11-15T20:44:10.540Z"
+    }
+  ]
+}

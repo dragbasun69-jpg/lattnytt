@@ -133,3 +133,16 @@ body {
 }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+/* Lätt nytts egna nyheter */
+.own .card-body { gap: .5rem; }
+.own .summary { margin: 0; }
+.own .ph .emoji { font-size: 3.2rem; }
+.tipbox { background: #fff6e6; border-left: 4px solid var(--accent); padding: .45rem .7rem; border-radius: 4px; margin: .3rem 0 0; font-size: .95rem; }
+.sources { font-size: .85rem; color: var(--ink-soft); }
+.sources summary { cursor: pointer; font-weight: 600; min-height: 32px; display: flex; align-items: center; }
+.sources ul { margin: .3rem 0 0 1rem; padding: 0; }
+.sources a { color: var(--ink); }
+.ai { font-size: .78rem; color: var(--ink-soft); margin: .2rem 0 0; font-style: italic; }
+.draft-banner { background: #fff3cd; border: 2px dashed #e0a800; padding: .8rem 1rem; border-radius: 10px; margin: 1rem 0 0; }
+.own .card-img { aspect-ratio: 3 / 1; }

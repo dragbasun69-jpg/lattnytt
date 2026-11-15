@@ -42,6 +42,15 @@ Frågorna skrivs av Claude via Anthropics API. Svarsalternativen blandas och fac
 
 Ett quiz kostar ungefär en krona. Misslyckas det tre gånger samma vecka slutar skriptet försöka tills du kör det manuellt.
 
+## Lätt nytts egna nyheter
+
+Egna nyheter på lätt svenska, skrivna med AI utifrån fakta från myndigheter och flera medier. De visas med etiketten **Lätt nytt** och har källor under varje nyhet.
+
+- Nya utkast hamnar i `data/egna/utkast.json` och kan förhandsvisas på `utkast.html` (sidan är inte länkad och syns inte på Google).
+- **Publicera:** Actions → Uppdatera nyheter → Run workflow → kryssa i **Publicera utkasten**.
+- **Radera:** samma sak men kryssa i **Radera utkasten**.
+- Publicerade nyheter visas i 14 dagar.
+
 ## Uppläsningen
 
 - Använder webbläsarens inbyggda röst. Det kostar inget och kräver ingen inloggning.
@@ -67,5 +76,6 @@ Sajten visar bara rubrik, kort ingress och bild från flödena och länkar allti
 | `sources.json` | Vilka nyhetskällor som används |
 | `scripts/fetch-news.mjs` | Hämtar nyheterna och skriver `data/news.json` och `data/archive.json` |
 | `quiz.html`, `quiz-render.js` | Quizsidan och layouten för elev- och lärarversion |
+| `scripts/own-news.mjs`, `utkast.html` | Egna nyheter: instruktioner, kontroll, publicering och förhandsvisning |
 | `scripts/make-quiz.mjs` | Skapar veckans quiz med AI och gör PDF:erna i `quiz/` |
 | `.github/workflows/update-news.yml` | Kör hämtningen varje timme och publicerar sajten |

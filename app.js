@@ -15,6 +15,7 @@
 
   const synth = "speechSynthesis" in window ? window.speechSynthesis : null;
   const REFRESH_MS = 10 * 60 * 1000;
+  const MODE = window.LATTNYTT_MODE || "alla"; // "utkast" på förhandsvisningssidan
 
   let data = { items: [], sources: [] };
   let filter = "alla";
@@ -61,7 +62,7 @@
   const norm = (t) => (t || "").toLowerCase();
   const visibleItems = () => data.items.filter((x) =>
     (filter === "alla" || x.sourceId === filter) &&
-    (!query || query.split(/\s+/).every((w) => norm(x.title + " " + x.summary).includes(w))));
+    (!query || query.split(/\s+/).every((w) => norm(x.title + " " + x.summary + " " + (x.own?.tip?.text || "")).includes(w))));
 
   // ---------- Rendera ----------
   function renderFilters() {
@@ -77,12 +78,14 @@
     const items = visibleItems();
     if (!items.length) {
       els.grid.innerHTML = "";
-      els.status.textContent = query ? `Hittade inga nyheter som innehåller ”${query}”.` : "Inga nyheter att visa just nu.";
+      els.status.textContent = query ? `Hittade inga nyheter som innehåller ”${query}”.`
+        : MODE === "utkast" ? "Det finns inga utkast just nu." : "Inga nyheter att visa just nu.";
       els.status.hidden = false;
       return;
     }
     els.status.hidden = true;
     els.grid.innerHTML = items.map((x) => {
+      if (x.own) return ownCard(x);
       const img = safeUrl(x.image);
       const sentences = splitSentences(x.summary);
       return `
@@ -108,6 +111,52 @@
     markReading();
   }
 
+  // Lätt nytts egna nyheter: hela texten visas, med ordruta och källor
+  function ownCard(x) {
+    const o = x.own;
+    let n = 0;
+    const paras = o.paragraphs.map((p) =>
+      `<p class="summary">${splitSentences(p).map((sn) => `<span class="sent" data-chunk="${++n}">${esc(sn)}</span>`).join(" ")}</p>`).join("");
+    return `
+      <article class="card own" id="card-${esc(x.id)}" data-id="${esc(x.id)}">
+        <div class="card-img"><div class="ph" style="background:${esc(o.color || "#14213d")}"><span class="emoji" aria-hidden="true">${esc(o.emoji || "📰")}</span></div></div>
+        <div class="card-body">
+          <div class="meta">
+            <span class="badge" style="background:#14213d">Lätt nytt</span>
+            <time datetime="${esc(x.date || "")}">${esc(relTime(x.date))}</time>
+          </div>
+          <h2 data-chunk="0">${esc(x.title)}</h2>
+          ${paras}
+          ${o.tip ? `<p class="tipbox"><b>${esc(o.tip.label)}:</b> ${esc(o.tip.text)}</p>` : ""}
+          <details class="sources"><summary>Källor (${o.sources.length})</summary><ul>${o.sources
+            .map((c) => `<li><a href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener">${esc(c.title)}</a></li>`).join("")}</ul></details>
+          <p class="ai">Skriven av Lätt nytt med hjälp av AI. Fakta är kontrollerade mot källorna.</p>
+          <div class="card-actions">
+            ${synth ? `<button class="listen" type="button" data-listen="${esc(x.id)}" aria-pressed="false">🔊 Lyssna</button>` : ""}
+          </div>
+        </div>
+      </article>`;
+  }
+
+  // Gör om en egen nyhet till samma form som övriga nyheter
+  const OWN_DAYS = 14;
+  function ownToItem(o) {
+    return {
+      id: `lattnytt-${o.id}`, sourceId: "lattnytt", source: "Lätt nytt", color: "#14213d",
+      title: o.title, date: o.date, link: "", image: "",
+      summary: o.paragraphs.join(" "), own: o,
+    };
+  }
+
+  async function loadOwn(file) {
+    try {
+      const r = await fetch(`data/egna/${file}?t=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) return [];
+      const d = await r.json();
+      return (d.items || []).map(ownToItem);
+    } catch { return []; }
+  }
+
   function renderFooter() {
     els.updated.textContent = data.updated
       ? `Senast uppdaterad ${new Date(data.updated).toLocaleString("sv-SE", { dateStyle: "long", timeStyle: "short" })}.`
@@ -122,7 +171,17 @@
       const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
       if (!res.ok) throw new Error(res.status);
       const fresh = await res.json();
-      const changed = fresh.updated !== data.updated;
+      let own;
+      if (MODE === "utkast") {
+        own = await loadOwn("utkast.json");
+        fresh.items = own;
+      } else {
+        const cutoff = Date.now() - OWN_DAYS * 864e5;
+        own = (await loadOwn("publicerade.json")).filter((x) => new Date(x.date).getTime() >= cutoff);
+        fresh.items = [...own, ...fresh.items].sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+      }
+      const changed = fresh.updated !== data.updated || own.length !== data._own;
+      fresh._own = own.length;
       data = fresh;
       if (changed && !reader.playing) {
         renderFilters();
