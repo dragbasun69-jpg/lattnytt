@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "title": "P3 Nyheter på ett lättare sätt – en veckosammanfattning",
-      "link": "https://www.sverigesradio.se/artikel/9340577",
-      "summary": "Här hittar du innehåll från Sveriges Radio på lättare svenska och i ett lugnare tempo. Det är olika radioprogram som vi gjort om så att de ska bli lättare att förstå.",
-      "date": "2026-11-13T17:00:00.000Z",
-      "image": "",
-      "source": "Sveriges Radio på ett lättare sätt",
-      "sourceId": "srlattare",
-      "firstSeen": "2026-11-15T20:30:48.043Z"
-    },
-    {
       "title": "DO: Väktare diskriminerade flicka med assistanshund",
       "link": "https://www.sverigesradio.se/artikel/9340708",
       "summary": "Ett vaktbolag diskriminerade en flicka med assistanshund. Det säger myndigheten Diskiminerings-ombudsmannen, DO. Nu vill DO att bolaget ska betala 20 000 kronor i diskriminerings-ersättning till flickan.",
@@ -409,16 +399,6 @@
       "source": "Klartext",
       "sourceId": "klartext",
       "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "P3 Nyheter på ett lättare sätt – en veckosammanfattning",
-      "link": "https://www.sverigesradio.se/artikel/9336317",
-      "summary": "Här hittar du innehåll från Sveriges Radio på lättare svenska och i ett lugnare tempo. Det är olika radioprogram som vi gjort om så att de ska bli lättare att förstå.",
-      "date": "2026-11-06T17:00:00.000Z",
-      "image": "",
-      "source": "Sveriges Radio på ett lättare sätt",
-      "sourceId": "srlattare",
-      "firstSeen": "2026-11-15T20:30:48.043Z"
     }
   ]
 }

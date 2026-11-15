@@ -22,27 +22,6 @@
       "url": "https://api.sr.se/api/rss/program/493",
       "color": "#2a9d8f",
       "enabled": true
-    },
-    {
-      "id": "svtlatt",
-      "name": "SVT Nyheter på lätt svenska",
-      "url": "https://www.svt.se/nyheter/latt-svenska/rss.xml",
-      "color": "#6a4c93",
-      "enabled": true
-    },
-    {
-      "id": "srlattare",
-      "name": "Sveriges Radio på ett lättare sätt",
-      "url": "https://api.sr.se/api/rss/program/5472",
-      "color": "#e76f51",
-      "enabled": true
-    },
-    {
-      "id": "allavaljare",
-      "name": "Alla Väljare",
-      "url": "https://allavaljare.se/feed",
-      "color": "#264653",
-      "enabled": true
     }
   ]
 }

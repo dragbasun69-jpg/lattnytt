@@ -18,38 +18,9 @@
       "name": "Klartext",
       "ok": true,
       "count": 15
-    },
-    {
-      "id": "svtlatt",
-      "name": "SVT Nyheter på lätt svenska",
-      "ok": false,
-      "error": "HTTP 404"
-    },
-    {
-      "id": "srlattare",
-      "name": "Sveriges Radio på ett lättare sätt",
-      "ok": true,
-      "count": 15
-    },
-    {
-      "id": "allavaljare",
-      "name": "Alla Väljare",
-      "ok": false,
-      "error": "fetch failed"
     }
   ],
   "items": [
-    {
-      "title": "P3 Nyheter på ett lättare sätt – en veckosammanfattning",
-      "link": "https://www.sverigesradio.se/artikel/9340577",
-      "summary": "Här hittar du innehåll från Sveriges Radio på lättare svenska och i ett lugnare tempo. Det är olika radioprogram som vi gjort om så att de ska bli lättare att förstå.",
-      "date": "2026-11-13T17:00:00.000Z",
-      "image": "",
-      "sourceId": "srlattare",
-      "source": "Sveriges Radio på ett lättare sätt",
-      "color": "#e76f51",
-      "id": "srlattare-0"
-    },
     {
       "title": "DO: Väktare diskriminerade flicka med assistanshund",
       "link": "https://www.sverigesradio.se/artikel/9340708",
@@ -489,17 +460,6 @@
       "source": "Klartext",
       "color": "#2a9d8f",
       "id": "klartext-40"
-    },
-    {
-      "title": "P3 Nyheter på ett lättare sätt – en veckosammanfattning",
-      "link": "https://www.sverigesradio.se/artikel/9336317",
-      "summary": "Här hittar du innehåll från Sveriges Radio på lättare svenska och i ett lugnare tempo. Det är olika radioprogram som vi gjort om så att de ska bli lättare att förstå.",
-      "date": "2026-11-06T17:00:00.000Z",
-      "image": "",
-      "sourceId": "srlattare",
-      "source": "Sveriges Radio på ett lättare sätt",
-      "color": "#e76f51",
-      "id": "srlattare-41"
     }
   ]
 }
