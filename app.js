@@ -347,6 +347,17 @@
     els.sourceStatus.textContent = "Din webbläsare kan inte läsa upp text.";
   }
 
+  // Visa antal besökare från GoatCounter i sidfoten (döljs om det inte går att hämta)
+  fetch("https://lattnytt.goatcounter.com/counter/TOTAL.json")
+    .then((r) => (r.ok ? r.json() : Promise.reject()))
+    .then((d) => {
+      if (!d || !d.count) return;
+      const el = $("visits");
+      el.textContent = `${String(d.count).replace(/[,.]/g, " ")} besökare hittills.`;
+      el.hidden = false;
+    })
+    .catch(() => { /* t.ex. annonsblockerare – visa ingenting */ });
+
   load();
   setInterval(load, REFRESH_MS);
 })();
