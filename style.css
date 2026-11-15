@@ -43,6 +43,8 @@ body {
 .btn-primary { background: var(--accent); color: var(--accent-ink); font-size: 1.05rem; }
 .btn-primary:hover { filter: brightness(1.08); }
 .btn-ghost { background: #fff; color: var(--ink); border: 2px solid var(--line); padding: .45rem .9rem; }
+.top-actions { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; }
+.btn-quiz { text-decoration: none; display: inline-flex; align-items: center; font-size: 1.05rem; padding: .55rem 1.1rem; }
 .btn:focus-visible, .ctrl:focus-visible, .chip:focus-visible, a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 
 /* Verktygsrad */

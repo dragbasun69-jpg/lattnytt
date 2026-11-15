@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 * * * *"   # varje timme, 17 minuter över (UTC)
   workflow_dispatch:        # gör att du kan köra den manuellt under fliken Actions
+    inputs:
+      nytt_quiz:
+        description: "Skapa om veckans nyhetsquiz"
+        type: boolean
+        default: false
   push:
     branches: [main]
 
@@ -30,22 +35,34 @@ jobs:
         run: node scripts/fetch-news.mjs
         continue-on-error: true   # sajten publiceras ändå med förra nyheterna
 
-      - name: Spara nyheterna i repot om något ändrats
+      - name: Typsnitt till quizets PDF
+        run: sudo apt-get install -y -qq fonts-inter >/dev/null 2>&1 || echo "Kunde inte installera Inter, använder standardtypsnitt."
+
+      - name: Skapa veckans nyhetsquiz (måndagar)
+        run: node scripts/make-quiz.mjs
+        continue-on-error: true   # ett misslyckat quiz ska inte stoppa nyheterna
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE_QUIZ: ${{ inputs.nytt_quiz && '1' || '0' }}
+
+      - name: Spara ändringar i repot
         run: |
           git config user.name "nyhetsroboten"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data quiz
           if git diff --cached --quiet; then
-            echo "Inga nya nyheter."
+            echo "Inga ändringar."
           else
-            git commit -m "Nya nyheter $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git commit -m "Uppdatering $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase -q origin main || true
             git push
           fi
 
       - name: Packa sajten
         run: |
           mkdir _site
-          cp -r index.html style.css app.js data _site/
+          cp -r index.html quiz.html style.css app.js quiz-render.js data _site/
+          if [ -d quiz ]; then cp -r quiz _site/; fi
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

@@ -162,7 +162,8 @@ function parseFeed(xml, source) {
     let link = isAtom ? attr(it, "link", "href", (a) => !/rel=/i.test(a) || /rel=["']alternate/i.test(a)) : decodeEntities(tag(it, "link"));
     if (!link) link = decodeEntities(tag(it, "guid"));
     const rawDesc = tag(it, "description", "summary", "itunes:summary") || tag(it, "content:encoded", "content");
-    const summary = shorten(stripHtml(rawDesc));
+    let summary = shorten(stripHtml(rawDesc));
+    if (/^[\d\s.,:-]*$/.test(summary)) summary = ""; // t.ex. "261113" i 8 Sidors dagssammanfattning
     const date = parseDate(tag(it, "pubDate", "published", "updated", "dc:date"));
     let image = findImage(it);
     if (image) image = decodeEntities(image);
@@ -182,6 +183,37 @@ async function pool(items, limit, fn) {
   });
   await Promise.all(workers);
   return out;
+}
+
+// ---------- Arkiv för veckoquizet ----------
+// Sparar alla nyheter från de senaste dagarna, så att quizet kan bygga på hela veckan
+// och inte bara på de 40 senaste nyheterna.
+const ARCHIVE_DAYS = 10;
+
+async function updateArchive(items) {
+  const file = path.join(path.dirname(OUT_FILE), "archive.json");
+  let old = [];
+  try { old = JSON.parse(await readFile(file, "utf8")).items || []; } catch { /* ingen fil än */ }
+
+  const now = new Date().toISOString();
+  const byLink = new Map(old.map((x) => [x.link, x]));
+  for (const x of items) {
+    const prev = byLink.get(x.link);
+    byLink.set(x.link, {
+      title: x.title, link: x.link, summary: x.summary, date: x.date,
+      image: x.image, source: x.source, sourceId: x.sourceId,
+      firstSeen: prev?.firstSeen || now,
+    });
+  }
+  const cutoff = Date.now() - ARCHIVE_DAYS * 864e5;
+  const kept = [...byLink.values()]
+    .filter((x) => new Date(x.date || x.firstSeen).getTime() >= cutoff)
+    .sort((a, b) => (b.date || b.firstSeen).localeCompare(a.date || a.firstSeen));
+
+  if (JSON.stringify(kept) === JSON.stringify(old)) return;
+  await mkdir(path.dirname(file), { recursive: true });
+  await writeFile(file, JSON.stringify({ items: kept }, null, 2) + "\n", "utf8");
+  console.log(`Arkivet har ${kept.length} nyheter från de senaste ${ARCHIVE_DAYS} dagarna.`);
 }
 
 // ---------- Huvudprogram ----------
@@ -243,6 +275,8 @@ async function main() {
     process.exitCode = 1;
     return;
   }
+
+  await updateArchive(all);
 
   // Skriv bara om något faktiskt ändrats, så att repot inte fylls av tomma ändringar
   try {

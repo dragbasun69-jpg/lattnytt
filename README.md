@@ -22,6 +22,25 @@ Sedan sköter den sig själv. Nyheterna hämtas 17 minuter över varje hel timme
 
 Sätt `"enabled": false` för att pausa en källa. När du sparar ändringen körs uppdateringen direkt.
 
+## Nyhetsquiz
+
+Varje måndag från kl. 06 skapas ett nytt quiz av veckans nyheter på sidan `quiz.html`. Det finns en elevversion och en lärarversion med facit, bakgrund och förslag på upplägg, båda som PDF.
+
+- **Del A (lättare):** 6 flervalsfrågor och 4 ordfrågor
+- **Del B (svårare):** 6 flervalsfrågor, 4 ordfrågor och 4 diskussionsfrågor
+
+Frågorna skrivs av Claude via Anthropics API. Svarsalternativen blandas och facit kontrolleras automatiskt, men läs alltid igenom lärarversionen före lektionen.
+
+### Så slår du på quizet
+
+1. Skapa ett konto på console.anthropic.com och fyll på lite krediter (t.ex. 5 dollar räcker länge).
+2. Skapa en API-nyckel under **API Keys** och kopiera den.
+3. I repot på GitHub: **Settings → Secrets and variables → Actions → New repository secret**.
+   Namn: `ANTHROPIC_API_KEY`, värde: nyckeln. Klicka **Add secret**.
+4. Vill du ha ett quiz direkt: **Actions → Uppdatera nyheter → Run workflow**, kryssa i **Skapa om veckans nyhetsquiz**.
+
+Ett quiz kostar ungefär en krona. Misslyckas det tre gånger samma vecka slutar skriptet försöka tills du kör det manuellt.
+
 ## Uppläsningen
 
 - Använder webbläsarens inbyggda röst. Det kostar inget och kräver ingen inloggning.
@@ -45,5 +64,7 @@ Sajten visar bara rubrik, kort ingress och bild från flödena och länkar allti
 |---|---|
 | `index.html`, `style.css`, `app.js` | Själva sajten |
 | `sources.json` | Vilka nyhetskällor som används |
-| `scripts/fetch-news.mjs` | Hämtar nyheterna och skriver `data/news.json` |
+| `scripts/fetch-news.mjs` | Hämtar nyheterna och skriver `data/news.json` och `data/archive.json` |
+| `quiz.html`, `quiz-render.js` | Quizsidan och layouten för elev- och lärarversion |
+| `scripts/make-quiz.mjs` | Skapar veckans quiz med AI och gör PDF:erna i `quiz/` |
 | `.github/workflows/update-news.yml` | Kör hämtningen varje timme och publicerar sajten |

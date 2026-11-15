@@ -1,0 +1,336 @@
+{
+  "id": "2026-v46",
+  "year": 2026,
+  "week": 46,
+  "title": "Nyhetsquiz vecka 46",
+  "period": "9–13 november 2026",
+  "created": "2026-11-15T12:20:28.732Z",
+  "model": "manuellt",
+  "teacherIntro": "Veckans quiz handlar om vardag, teknik, väder och ekonomi: en pizzaautomat i Halmstad, Musikhjälpen, snöovädret i norr, hur många som använder AI, de höga elpriserna och en hund som räddade ett liv. Del A passar SFI och elever som är nya i svenskan. Del B passar elever som behöver mer utmaning.",
+  "lessonTips": [
+    "Läs avsnittet Veckans nyheter högt tillsammans, eller låt eleverna lyssna på nyheterna på sajten först.",
+    "Låt eleverna göra Del A enskilt och Del B i par, ungefär 10–15 minuter.",
+    "Gå igenom svaren tillsammans och be eleverna visa var i texten svaret står.",
+    "Avsluta med en eller två diskussionsfrågor i grupp."
+  ],
+  "news": [
+    {
+      "n": 1,
+      "title": "Pizza från en automat",
+      "studentSummary": "I Halmstad finns en automat som säljer pizza. Den står på ett torg. En del tycker att automaten är bra. Men flera pizzabagare är oroliga. De tror att de kan förlora kunder.",
+      "teacherBackground": "Automater som lagar och säljer mat blir vanligare i flera länder. Nyheten passar bra för att prata om hur ny teknik kan förändra jobb och hur små företag påverkas när det kommer nya konkurrenter. Nyheten kommer från P4 Halland.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9340670",
+      "originalTitle": "Automat som bakar pizza väcker oro hos pizzabagare"
+    },
+    {
+      "n": 2,
+      "title": "De leder Musikhjälpen",
+      "studentSummary": "Musikhjälpen samlar in pengar. I år leder Fahra Abadi, Assia Dahir och Hampus Hedström programmet. I slutet av november går de in i en bur på stora torget i Linköping. De stannar där i en vecka och samlar in pengar. Temat är psykisk hälsa i krig och kris.",
+      "teacherBackground": "Musikhjälpen är en årlig insamling som Sveriges Radio och SVT gör tillsammans med Radiohjälpen. Programledarna sänder från en glasbur i en vecka, och lyssnarna kan önska låtar när de skänker pengar. Varje år har insamlingen ett nytt tema.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9340435",
+      "originalTitle": "De leder Musikhjälpen"
+    },
+    {
+      "n": 3,
+      "title": "Snöoväder i norra Sverige",
+      "studentSummary": "SMHI är Sveriges vädermyndighet. SMHI varnar för ett snöoväder i norra Sverige, längs kusten från söder om Skellefteå och uppåt. Det kan komma ungefär 80 centimeter snö. Det blåser också mycket.",
+      "teacherBackground": "SMHI (Sveriges meteorologiska och hydrologiska institut) ger ut vädervarningar i tre nivåer: gul, orange och röd. Vid mycket snö och blåst kan vägar och tåg stoppas och strömmen kan gå. Det är ett bra tillfälle att prata om hur man förbereder sig, till exempel med råd från Krisinformation.se.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9339723",
+      "originalTitle": "Varning för snöoväder i norra Sverige"
+    },
+    {
+      "n": 4,
+      "title": "Allt fler använder AI",
+      "studentSummary": "Allt fler använder AI. Tre av fyra personer i Sverige använder AI varje vecka eller oftare. De flesta litar på svaren som AI ger. Det visar en undersökning från företaget Insight Intelligence.",
+      "teacherBackground": "AI-tjänster som chattbottar kan svara på frågor och skriva texter, men svaren kan vara fel. Nyheten passar för att prata om källkritik: varför man behöver kontrollera svar från AI på samma sätt som andra källor.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9338818",
+      "originalTitle": "Allt fler använder AI"
+    },
+    {
+      "n": 5,
+      "title": "Dyr el i södra Sverige",
+      "studentSummary": "Elen är dyr just nu i södra Sverige. Priserna i november kan bli de högsta på flera år. En anledning är att kriget i Mellanöstern gör naturgas dyrare. En annan anledning är att det görs lite el i södra Sverige just nu. Maria i Kristianstad försöker spara på elen.",
+      "teacherBackground": "Sverige är indelat i fyra elområden, och priset är oftast högre i södra Sverige än i norra. Det beror bland annat på att mycket el produceras i norr medan många människor bor i söder. Vanliga sätt att spara el är att sänka värmen inomhus lite, duscha kortare och tvätta när elen är billigare.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9338068",
+      "originalTitle": "Höga elpriser i södra Sverige – Maria sparar på värmen"
+    },
+    {
+      "n": 6,
+      "title": "Hunden Hjördis får pris",
+      "studentSummary": "Hunden Hjördis får ett pris. Hon räddade livet på en kvinna. Kvinnan fick en stroke i hjärnan.",
+      "teacherBackground": "En stroke betyder att blodet inte kommer fram till en del av hjärnan. Då är det viktigt att snabbt ringa 112. I Sverige används AKUT-testet för att känna igen stroke: Ansikte, Kroppsdel, Uttal, Tid. Läs gärna hela artikeln hos 8 Sidor för att få veta hur Hjördis hjälpte kvinnan.",
+      "source": "8 Sidor",
+      "link": "https://8sidor.se/sverige/2026/11/hunden-hjordis-far-pris/",
+      "originalTitle": "Hunden Hjördis får pris"
+    }
+  ],
+  "partA": {
+    "mc": [
+      {
+        "q": "Var står pizzaautomaten?",
+        "options": [
+          "På en skola i Malmö",
+          "På ett torg i Halmstad",
+          "På en tågstation i Göteborg"
+        ],
+        "answer": 1,
+        "explanation": "I texten står det att automaten står på ett torg i Halmstad.",
+        "news": 1
+      },
+      {
+        "q": "Vad gör programledarna i Musikhjälpen?",
+        "options": [
+          "De bygger ett nytt torg",
+          "De säljer biljetter till en konsert",
+          "De samlar in pengar"
+        ],
+        "answer": 2,
+        "explanation": "Programledarna stannar i en bur i en vecka och samlar in pengar.",
+        "news": 2
+      },
+      {
+        "q": "Vad varnar SMHI för?",
+        "options": [
+          "Regn och åska",
+          "Mycket värme",
+          "Ett snöoväder"
+        ],
+        "answer": 2,
+        "explanation": "SMHI varnar för ett snöoväder i norra Sverige.",
+        "news": 3
+      },
+      {
+        "q": "Hur många i Sverige använder AI varje vecka eller oftare?",
+        "options": [
+          "En av tio",
+          "Tre av fyra",
+          "Alla"
+        ],
+        "answer": 1,
+        "explanation": "Undersökningen visar att tre av fyra använder AI varje vecka eller oftare.",
+        "news": 4
+      },
+      {
+        "q": "Var är elen dyr just nu?",
+        "options": [
+          "Bara i Stockholm",
+          "I södra Sverige",
+          "I norra Sverige"
+        ],
+        "answer": 1,
+        "explanation": "Texten säger att elen är dyr i södra Sverige.",
+        "news": 5
+      },
+      {
+        "q": "Varför får hunden Hjördis ett pris?",
+        "options": [
+          "Hon vann en tävling i att springa",
+          "Hon räddade livet på en kvinna",
+          "Hon hittade en katt som var borta"
+        ],
+        "answer": 1,
+        "explanation": "Hjördis räddade livet på en kvinna som fick en stroke.",
+        "news": 6
+      }
+    ],
+    "words": [
+      {
+        "word": "automat",
+        "context": "I Halmstad finns en automat som säljer pizza.",
+        "options": [
+          "En person som lagar mat",
+          "En stor affär",
+          "En maskin som gör eller säljer saker"
+        ],
+        "answer": 2,
+        "explanation": "En automat är en maskin. Man kan till exempel köpa mat, dryck eller biljetter i en automat."
+      },
+      {
+        "word": "oroliga",
+        "context": "Men flera pizzabagare är oroliga.",
+        "options": [
+          "Trötta efter jobbet",
+          "Rädda att något dåligt ska hända",
+          "Glada och nöjda"
+        ],
+        "answer": 1,
+        "explanation": "Den som är orolig är rädd att något dåligt ska hända."
+      },
+      {
+        "word": "varnar",
+        "context": "SMHI varnar för ett snöoväder.",
+        "options": [
+          "Säger att något farligt kan hända",
+          "Bjuder in till en fest",
+          "Säljer något billigt"
+        ],
+        "answer": 0,
+        "explanation": "Att varna betyder att säga till om en fara, så att andra kan vara försiktiga."
+      },
+      {
+        "word": "litar på",
+        "context": "De flesta litar på svaren som AI ger.",
+        "options": [
+          "Skrattar åt något",
+          "Glömmer bort något",
+          "Tror att något är sant och riktigt"
+        ],
+        "answer": 2,
+        "explanation": "Om man litar på något tror man att det är sant eller att det fungerar."
+      }
+    ]
+  },
+  "partB": {
+    "mc": [
+      {
+        "q": "Varför är pizzabagarna oroliga för automaten?",
+        "options": [
+          "De tror att automaten snart går sönder",
+          "De tror att den kan ta kunder från deras restauranger",
+          "De tror att pizzan från automaten är farlig att äta",
+          "De tror att automaten gör torget smutsigt"
+        ],
+        "answer": 1,
+        "explanation": "Pizzabagarna tror att de kan förlora kunder. Det är konkurrens om samma kunder.",
+        "news": 1
+      },
+      {
+        "q": "Vad handlar årets insamling i Musikhjälpen om?",
+        "options": [
+          "Barn som inte får gå i skolan",
+          "Psykisk hälsa i krig och kris",
+          "Rent vatten i världen",
+          "Djur som riskerar att dö ut"
+        ],
+        "answer": 1,
+        "explanation": "Temat för årets insamling är psykisk hälsa i krig och kris.",
+        "news": 2
+      },
+      {
+        "q": "Varför kan det vara svårt att resa i norra Sverige just nu?",
+        "options": [
+          "Mycket snö och hård vind kan göra vägarna farliga",
+          "Det finns ingen bensin att köpa",
+          "Det är för varmt för vinterdäck",
+          "Alla vägar lagas samtidigt"
+        ],
+        "answer": 0,
+        "explanation": "Det kan komma ungefär 80 centimeter snö och det blåser mycket. Det gör det svårt och farligt att resa.",
+        "news": 3
+      },
+      {
+        "q": "Vad visar undersökningen om AI?",
+        "options": [
+          "Få använder AI, och ingen litar på svaren",
+          "Bara unga personer använder AI",
+          "AI används bara på jobbet",
+          "Många använder AI ofta, och de flesta litar på svaren"
+        ],
+        "answer": 3,
+        "explanation": "Tre av fyra använder AI varje vecka eller oftare, och de flesta litar på svaren.",
+        "news": 4
+      },
+      {
+        "q": "Vilken är en anledning till att elen är dyr i södra Sverige?",
+        "options": [
+          "Det görs lite el i södra Sverige just nu",
+          "Det har varit väldigt varmt i november",
+          "Det är förbjudet att köpa el från norra Sverige",
+          "Alla elbolag har gått i konkurs"
+        ],
+        "answer": 0,
+        "explanation": "Texten ger två anledningar: dyrare naturgas på grund av kriget i Mellanöstern, och att det görs lite el i södra Sverige just nu.",
+        "news": 5
+      },
+      {
+        "q": "Vilken slutsats kan man dra av nyheten om Hjördis?",
+        "options": [
+          "Alla hundar kan känna igen sjukdomar",
+          "Kvinnan fick stroke för att hon var rädd för hundar",
+          "Hjördis fick priset för att hon var snabbast i en tävling",
+          "Djur kan ibland hjälpa människor när något farligt händer"
+        ],
+        "answer": 3,
+        "explanation": "Hjördis räddade livet på en kvinna som fick en stroke. Det visar att djur ibland kan hjälpa människor i nödsituationer.",
+        "news": 6
+      }
+    ],
+    "words": [
+      {
+        "word": "insamling",
+        "context": "Musikhjälpen samlar in pengar.",
+        "options": [
+          "När man delar ut gratis mat",
+          "En tävling i musik",
+          "Ett möte med politiker",
+          "När man samlar ihop pengar eller saker till något"
+        ],
+        "answer": 3,
+        "explanation": "En insamling är när många ger pengar eller saker till ett gemensamt mål."
+      },
+      {
+        "word": "undersökning",
+        "context": "Det visar en undersökning från företaget Insight Intelligence.",
+        "options": [
+          "En dator som kan tänka själv",
+          "När man frågar eller tar reda på fakta för att få veta något",
+          "En lag som riksdagen bestämmer",
+          "En reklamfilm om en produkt"
+        ],
+        "answer": 1,
+        "explanation": "I en undersökning tar man reda på något, till exempel genom att fråga många människor."
+      },
+      {
+        "word": "anledning",
+        "context": "En anledning är att kriget i Mellanöstern gör naturgas dyrare.",
+        "options": [
+          "Orsak, det som gör att något händer",
+          "En plats där man bor",
+          "Slutet på något",
+          "En sorts energi"
+        ],
+        "answer": 0,
+        "explanation": "Anledning betyder orsak. Man kan fråga: Vad är anledningen till att elen är dyr?"
+      },
+      {
+        "word": "snöoväder",
+        "context": "SMHI varnar för ett snöoväder i norra Sverige.",
+        "options": [
+          "Lite snö på marken",
+          "En kall dag med sol",
+          "Regn som fryser till is",
+          "Mycket snö tillsammans med hård vind"
+        ],
+        "answer": 3,
+        "explanation": "Ett snöoväder är när det snöar mycket och blåser hårt samtidigt."
+      }
+    ],
+    "discussion": [
+      {
+        "q": "Skulle du köpa pizza från en automat? Varför eller varför inte? Vad händer med jobb när maskiner gör mer?",
+        "tips": "Lyft både fördelar (öppet dygnet runt, kanske billigare) och nackdelar (färre jobb, mindre service, svårare för små restauranger). Koppla till andra maskiner eleverna känner till, till exempel självutcheckning i mataffären.",
+        "news": 1
+      },
+      {
+        "q": "Använder du AI? Hur kan man veta om ett svar från AI är rätt?",
+        "tips": "Bra tillfälle att prata om källkritik: jämför med andra källor, fråga var informationen kommer ifrån och var extra försiktig med siffror och fakta. Be eleverna ge exempel på när AI har haft fel.",
+        "news": 4
+      },
+      {
+        "q": "Vad kan man göra hemma för att använda mindre el?",
+        "tips": "Samla elevernas idéer på tavlan: sänka värmen lite, duscha kortare, släcka lampor, tvätta när elen är billig. Prata om varför priset ofta är högre i södra Sverige.",
+        "news": 5
+      },
+      {
+        "q": "Musikhjälpen samlar in pengar till människor i krig och kris. Varför vill många människor ge pengar? Finns det andra sätt att hjälpa?",
+        "tips": "Låt eleverna berätta om insamlingar eller frivilligt arbete de känner till, även från andra länder. Var lyhörd, eftersom temat kan beröra elever med egen erfarenhet av krig.",
+        "news": 2
+      }
+    ]
+  }
+}
