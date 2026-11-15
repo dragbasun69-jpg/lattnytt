@@ -82,12 +82,7 @@
         <p class="src">Källa: ${esc(n.source)} – ${esc(n.link)}</p>
       </li>`).join("")}
     </ol>
-  </section>` : `
-  <section class="findbox">
-    <p class="findtitle">🔍 Leta efter svaren</p>
-    <p>Alla svar finns i nyheterna på <b>${esc((quiz.siteUrl || "").replace(/^https?:\/\//, ""))}</b></p>
-    <p>Läs nyheterna från ${esc(quiz.period)}. Du kan söka efter ord i sökrutan.</p>
-  </section>`}
+  </section>` : ""}
 
   <section class="part">
     <h2>Frågor om nyheterna</h2>
