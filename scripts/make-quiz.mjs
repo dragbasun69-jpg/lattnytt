@@ -120,15 +120,7 @@ const TOOL = {
           required: ["sourceIndex", "title", "studentSummary", "teacherBackground"],
         },
       },
-      partA: {
-        type: "object",
-        properties: {
-          mc: { type: "array", items: QUESTION(3), minItems: 6, maxItems: 6 },
-          words: { type: "array", items: WORD(3), minItems: 4, maxItems: 4 },
-        },
-        required: ["mc", "words"],
-      },
-      partB: {
+      questions: {
         type: "object",
         properties: {
           mc: { type: "array", items: QUESTION(4), minItems: 6, maxItems: 6 },
@@ -145,7 +137,7 @@ const TOOL = {
         required: ["mc", "words", "discussion"],
       },
     },
-    required: ["teacherIntro", "lessonTips", "news", "partA", "partB"],
+    required: ["teacherIntro", "lessonTips", "news", "questions"],
   },
 };
 
@@ -154,7 +146,7 @@ function buildPrompt(items, period) {
     .map((x, i) => `[${i + 1}] ${x.source}, ${x.date ? x.date.slice(0, 10) : "okänt datum"}\nRubrik: ${x.title}\nIngress: ${x.summary}`)
     .join("\n\n");
 
-  return `Du skriver ett nyhetsquiz för klassrummet. Eleverna läser svenska som andraspråk (SFI) eller går på gymnasiet. Quizet bygger på veckans nyheter på lätt svenska, ${period}.
+  return `Du skriver ett nyhetsquiz för klassrummet. Eleverna går på gymnasiet eller läser svenska som andraspråk på högre nivå. Quizet bygger på veckans nyheter på lätt svenska, ${period}.
 
 Här är veckans nyheter:
 
@@ -169,13 +161,9 @@ Gör så här:
    - studentSummary: 2–3 korta meningar på lätt svenska som sammanfattar nyheten för läraren. Använd bara fakta som står i nyhetstexten.
    - teacherBackground: 2–4 meningar som ger läraren sammanhang. Använd bara välkänd, säker allmänkunskap. Hitta inte på siffror, namn, datum eller citat. Är du osäker, skriv allmänt och föreslå vad läraren kan kontrollera.
 
-3. Del A (lättare, nivå A2):
-   - 6 flervalsfrågor, en per vald nyhet, i samma ordning som nyheterna. 3 svarsalternativ.
-   - 4 ordfrågor: ord som finns i nyheterna. Skriv meningen där ordet finns i fältet context. 3 alternativ.
-
-4. Del B (svårare, nivå B1–B2):
-   - 6 flervalsfrågor, en per nyhet. 4 svarsalternativ. Frågorna ska kräva att eleven förstår och drar slutsatser, inte bara hittar ett ord.
-   - 4 ordfrågor med svårare ord från nyheterna. 4 alternativ.
+3. Frågor (nivå B1–B2):
+   - 6 flervalsfrågor, en per vald nyhet, i samma ordning som nyheterna. 4 svarsalternativ. Frågorna ska kräva att eleven förstår och drar slutsatser, inte bara hittar ett ord.
+   - 4 ordfrågor med ord från nyheterna som kan vara svåra för eleverna. Skriv meningen där ordet finns i fältet context. 4 alternativ.
    - 4 diskussionsfrågor som är öppna och knyter an till elevernas vardag eller samhället. Ge läraren tips på vad samtalet kan handla om.
 
 Viktiga regler:
@@ -227,13 +215,11 @@ function validate(raw, items) {
     if (!items[n.sourceIndex - 1]) errs.push(`Nyhet ${i + 1}: okänt sourceIndex ${n.sourceIndex}`);
     if (!n.studentSummary) errs.push(`Nyhet ${i + 1}: elevtext saknas`);
   });
-  raw.partA?.mc?.forEach((q, i) => checkQ(q, 3, `A flerval ${i + 1}`));
-  raw.partA?.words?.forEach((q, i) => checkQ(q, 3, `A ord ${i + 1}`));
-  raw.partB?.mc?.forEach((q, i) => checkQ(q, 4, `B flerval ${i + 1}`));
-  raw.partB?.words?.forEach((q, i) => checkQ(q, 4, `B ord ${i + 1}`));
-  if (raw.partA?.mc?.length !== 6 || raw.partB?.mc?.length !== 6) errs.push("Ska vara 6 flervalsfrågor per del");
-  if (raw.partA?.words?.length !== 4 || raw.partB?.words?.length !== 4) errs.push("Ska vara 4 ordfrågor per del");
-  if (raw.partB?.discussion?.length !== 4) errs.push("Ska vara 4 diskussionsfrågor");
+  raw.questions?.mc?.forEach((q, i) => checkQ(q, 4, `Flerval ${i + 1}`));
+  raw.questions?.words?.forEach((q, i) => checkQ(q, 4, `Ord ${i + 1}`));
+  if (raw.questions?.mc?.length !== 6) errs.push("Ska vara 6 flervalsfrågor");
+  if (raw.questions?.words?.length !== 4) errs.push("Ska vara 4 ordfrågor");
+  if (raw.questions?.discussion?.length !== 4) errs.push("Ska vara 4 diskussionsfrågor");
   return errs;
 }
 
@@ -247,11 +233,10 @@ function finalize(raw, items, meta) {
       const src = items[n.sourceIndex - 1];
       return { n: i + 1, title: n.title, studentSummary: n.studentSummary, teacherBackground: n.teacherBackground, source: src.source, link: src.link, originalTitle: src.title };
     }),
-    partA: { mc: raw.partA.mc.map((q) => shuffleOptions(q, rnd)), words: raw.partA.words.map((q) => shuffleOptions(q, rnd)) },
-    partB: {
-      mc: raw.partB.mc.map((q) => shuffleOptions(q, rnd)),
-      words: raw.partB.words.map((q) => shuffleOptions(q, rnd)),
-      discussion: raw.partB.discussion,
+    questions: {
+      mc: raw.questions.mc.map((q) => shuffleOptions(q, rnd)),
+      words: raw.questions.words.map((q) => shuffleOptions(q, rnd)),
+      discussion: raw.questions.discussion,
     },
   };
 }

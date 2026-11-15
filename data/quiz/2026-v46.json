@@ -6,11 +6,11 @@
   "period": "9–13 november 2026",
   "created": "2026-11-15T12:20:28.732Z",
   "model": "manuellt",
-  "teacherIntro": "Veckans quiz handlar om vardag, teknik, väder och ekonomi: en pizzaautomat i Halmstad, Musikhjälpen, snöovädret i norr, hur många som använder AI, de höga elpriserna och en hund som räddade ett liv. Del A passar SFI och elever som är nya i svenskan. Del B passar elever som behöver mer utmaning.",
+  "teacherIntro": "Veckans quiz handlar om vardag, teknik, väder och ekonomi: en pizzaautomat i Halmstad, Musikhjälpen, snöovädret i norr, hur många som använder AI, de höga elpriserna och en hund som räddade ett liv. Eleverna letar själva upp nyheterna på sajten och svarar på frågorna.",
   "lessonTips": [
-    "Läs avsnittet Veckans nyheter högt tillsammans, eller låt eleverna lyssna på nyheterna på sajten först.",
-    "Låt eleverna göra Del A enskilt och Del B i par, ungefär 10–15 minuter.",
-    "Gå igenom svaren tillsammans och be eleverna visa var i texten svaret står.",
+    "Visa sajten och sökrutan för klassen. Eleverna kan söka på ord från frågorna för att hitta rätt nyhet.",
+    "Låt eleverna arbeta i par med flervals- och ordfrågorna, ungefär 15–20 minuter.",
+    "Gå igenom svaren tillsammans och be eleverna visa var på sajten svaret står.",
     "Avsluta med en eller två diskussionsfrågor i grupp."
   ],
   "news": [
@@ -69,123 +69,8 @@
       "originalTitle": "Hunden Hjördis får pris"
     }
   ],
-  "partA": {
-    "mc": [
-      {
-        "q": "Var står pizzaautomaten?",
-        "options": [
-          "På en skola i Malmö",
-          "På ett torg i Halmstad",
-          "På en tågstation i Göteborg"
-        ],
-        "answer": 1,
-        "explanation": "I texten står det att automaten står på ett torg i Halmstad.",
-        "news": 1
-      },
-      {
-        "q": "Vad gör programledarna i Musikhjälpen?",
-        "options": [
-          "De bygger ett nytt torg",
-          "De säljer biljetter till en konsert",
-          "De samlar in pengar"
-        ],
-        "answer": 2,
-        "explanation": "Programledarna stannar i en bur i en vecka och samlar in pengar.",
-        "news": 2
-      },
-      {
-        "q": "Vad varnar SMHI för?",
-        "options": [
-          "Regn och åska",
-          "Mycket värme",
-          "Ett snöoväder"
-        ],
-        "answer": 2,
-        "explanation": "SMHI varnar för ett snöoväder i norra Sverige.",
-        "news": 3
-      },
-      {
-        "q": "Hur många i Sverige använder AI varje vecka eller oftare?",
-        "options": [
-          "En av tio",
-          "Tre av fyra",
-          "Alla"
-        ],
-        "answer": 1,
-        "explanation": "Undersökningen visar att tre av fyra använder AI varje vecka eller oftare.",
-        "news": 4
-      },
-      {
-        "q": "Var är elen dyr just nu?",
-        "options": [
-          "Bara i Stockholm",
-          "I södra Sverige",
-          "I norra Sverige"
-        ],
-        "answer": 1,
-        "explanation": "Texten säger att elen är dyr i södra Sverige.",
-        "news": 5
-      },
-      {
-        "q": "Varför får hunden Hjördis ett pris?",
-        "options": [
-          "Hon vann en tävling i att springa",
-          "Hon räddade livet på en kvinna",
-          "Hon hittade en katt som var borta"
-        ],
-        "answer": 1,
-        "explanation": "Hjördis räddade livet på en kvinna som fick en stroke.",
-        "news": 6
-      }
-    ],
-    "words": [
-      {
-        "word": "automat",
-        "context": "I Halmstad finns en automat som säljer pizza.",
-        "options": [
-          "En person som lagar mat",
-          "En stor affär",
-          "En maskin som gör eller säljer saker"
-        ],
-        "answer": 2,
-        "explanation": "En automat är en maskin. Man kan till exempel köpa mat, dryck eller biljetter i en automat."
-      },
-      {
-        "word": "oroliga",
-        "context": "Men flera pizzabagare är oroliga.",
-        "options": [
-          "Trötta efter jobbet",
-          "Rädda att något dåligt ska hända",
-          "Glada och nöjda"
-        ],
-        "answer": 1,
-        "explanation": "Den som är orolig är rädd att något dåligt ska hända."
-      },
-      {
-        "word": "varnar",
-        "context": "SMHI varnar för ett snöoväder.",
-        "options": [
-          "Säger att något farligt kan hända",
-          "Bjuder in till en fest",
-          "Säljer något billigt"
-        ],
-        "answer": 0,
-        "explanation": "Att varna betyder att säga till om en fara, så att andra kan vara försiktiga."
-      },
-      {
-        "word": "litar på",
-        "context": "De flesta litar på svaren som AI ger.",
-        "options": [
-          "Skrattar åt något",
-          "Glömmer bort något",
-          "Tror att något är sant och riktigt"
-        ],
-        "answer": 2,
-        "explanation": "Om man litar på något tror man att det är sant eller att det fungerar."
-      }
-    ]
-  },
-  "partB": {
+  "siteUrl": "https://dragbasun69-jpg.github.io/lattnytt/",
+  "questions": {
     "mc": [
       {
         "q": "Varför är pizzabagarna oroliga för automaten?",
@@ -332,6 +217,5 @@
         "news": 2
       }
     ]
-  },
-  "siteUrl": "https://dragbasun69-jpg.github.io/lattnytt/"
+  }
 }

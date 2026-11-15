@@ -8,9 +8,8 @@
   const LETTERS = "ABCD";
 
   function points(quiz) {
-    const a = quiz.partA.mc.length + quiz.partA.words.length;
-    const b = quiz.partB.mc.length + quiz.partB.words.length;
-    return { a, b, total: a + b };
+    const Q = quiz.questions || quiz.partB;
+    return { total: Q.mc.length + Q.words.length };
   }
 
   function options(q, teacher) {
@@ -26,7 +25,7 @@
     return list
       .map((q, i) => `
       <div class="q">
-        <p class="qtext"><span class="qnum">${prefix}${start + i}</span> ${esc(q.q)} ${teacher && q.news ? `<span class="ref">(nyhet ${q.news})</span>` : ""}</p>
+        <p class="qtext"><span class="qnum">${prefix}${start + i}.</span> ${esc(q.q)} ${teacher && q.news ? `<span class="ref">(nyhet ${q.news})</span>` : ""}</p>
         ${options(q, teacher)}
         ${teacher ? `<p class="facit"><b>Rätt svar: ${LETTERS[q.answer]}.</b> ${esc(q.explanation || "")}</p>` : ""}
       </div>`)
@@ -37,7 +36,7 @@
     return list
       .map((w, i) => `
       <div class="q">
-        <p class="qtext"><span class="qnum">${prefix}${start + i}</span> Vad betyder <b>${esc(w.word)}</b>?</p>
+        <p class="qtext"><span class="qnum">${prefix}${start + i}.</span> Vad betyder <b>${esc(w.word)}</b>?</p>
         ${w.context ? `<p class="context">”${esc(w.context)}”</p>` : ""}
         ${options(w, teacher)}
         ${teacher ? `<p class="facit"><b>Rätt svar: ${LETTERS[w.answer]}.</b> ${esc(w.explanation || "")}</p>` : ""}
@@ -48,7 +47,7 @@
   function render(quiz, version) {
     const teacher = version === "larare";
     const p = points(quiz);
-    const A = quiz.partA, B = quiz.partB;
+    const B = quiz.questions || quiz.partB;
 
     return `
 <article class="quiz ${teacher ? "teacher" : "student"}">
@@ -59,7 +58,7 @@
       <p class="period">Nyheter från ${esc(quiz.period)}</p>
     </div>
     ${teacher
-      ? `<div class="pointsbox"><b>Poäng</b><br>Del A: ${p.a} p<br>Del B: ${p.b} p<br><b>Totalt: ${p.total} p</b></div>`
+      ? `<div class="pointsbox"><b>Poäng</b><br>1 p per fråga<br><b>Totalt: ${p.total} p</b></div>`
       : `<div class="namebox">Namn: <span class="line"></span><br>Klass: <span class="line short"></span></div>`}
   </header>
 
@@ -91,30 +90,18 @@
   </section>`}
 
   <section class="part">
-    <h2>Del A <span class="lvl">Lättare</span></h2>
-    <h3>Frågor om nyheterna</h3>
+    <h2>Frågor om nyheterna</h2>
     <p class="instr">Sätt ett kryss vid rätt svar.</p>
-    ${mcBlock(A.mc, "A", teacher, 1)}
-    <h3>Ord</h3>
+    ${mcBlock(B.mc, "", teacher, 1)}
+    <h2>Ord</h2>
     <p class="instr">Vad betyder ordet? Sätt ett kryss.</p>
-    ${wordBlock(A.words, "A", teacher, A.mc.length + 1)}
-  </section>
-
-  <section class="part part-b">
-    <h2>Del B <span class="lvl">Svårare</span></h2>
-    <h3>Frågor om nyheterna</h3>
-    <p class="instr">Sätt ett kryss vid rätt svar.</p>
-    ${mcBlock(B.mc, "B", teacher, 1)}
-    <h3>Ord</h3>
-    <p class="instr">Vad betyder ordet? Sätt ett kryss.</p>
-    ${wordBlock(B.words, "B", teacher, B.mc.length + 1)}
+    ${wordBlock(B.words, "", teacher, B.mc.length + 1)}
   </section>
 
   <section class="part disc-part">
-    <h2>Prata om nyheterna</h2>
-    <p class="instr">Diskutera i par eller i grupp.${teacher ? "" : " Skriv gärna stödord."}</p>
     ${B.discussion.map((d, i) => `
     <div class="q disc">
+      ${i === 0 ? `<h2>Prata om nyheterna</h2><p class="instr">Diskutera i par eller i grupp.${teacher ? "" : " Skriv gärna stödord."}</p>` : ""}
       <p class="qtext"><span class="qnum">${i + 1}.</span> ${esc(d.q)} ${teacher && d.news ? `<span class="ref">(nyhet ${d.news})</span>` : ""}</p>
       ${teacher ? `<p class="facit"><b>Tips:</b> ${esc(d.tips || "")}</p>` : `<div class="lines"><span></span><span></span></div>`}
     </div>`).join("")}
@@ -123,8 +110,7 @@
   ${teacher ? `
   <section class="part">
     <h2>Facit i korthet</h2>
-    <p>Del A: ${[...A.mc, ...A.words].map((q, i) => `A${i + 1}&nbsp;${LETTERS[q.answer]}`).join(" · ")}</p>
-    <p>Del B: ${[...B.mc, ...B.words].map((q, i) => `B${i + 1}&nbsp;${LETTERS[q.answer]}`).join(" · ")}</p>
+    <p>${[...B.mc, ...B.words].map((q, i) => `${i + 1}.&nbsp;${LETTERS[q.answer]}`).join(" · ")}</p>
   </section>` : ""}
 
   <footer class="qfoot">Lätt nytt – nyheter på lätt svenska · ${esc(quiz.id)}</footer>
@@ -177,10 +163,11 @@
   .part { break-before:auto; }
   .opts { display:grid; grid-template-columns:1fr 1fr; column-gap:1.2rem; }
   .q { margin:.35rem 0 .55rem; }
-  .disc-part { break-inside:avoid; }
-  .part-b { break-before:page; }
-  .part-b h2 { margin-top:0; }
-  .student .lines span { height:1.5rem; }
+  .student .lines span { height:1.25rem; }
+  .disc { margin:.25rem 0 .4rem; }
+  .qfoot { margin-top:.5rem; padding-top:.2rem; break-before:avoid; }
+  .disc-part h2 { margin-top:1rem; }
+  .quiz h2 { margin:1.1rem 0 .4rem; }
 }`;
 
   root.QuizRender = { render, CSS, points };

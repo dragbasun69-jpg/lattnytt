@@ -26,8 +26,9 @@ Sätt `"enabled": false` för att pausa en källa. När du sparar ändringen kö
 
 Varje måndag från kl. 06 skapas ett nytt quiz av veckans nyheter på sidan `quiz.html`. Det finns en elevversion och en lärarversion med facit, bakgrund och förslag på upplägg, båda som PDF.
 
-- **Del A (lättare):** 6 flervalsfrågor och 4 ordfrågor
-- **Del B (svårare):** 6 flervalsfrågor, 4 ordfrågor och 4 diskussionsfrågor
+- 6 flervalsfrågor, 4 ordfrågor och 4 diskussionsfrågor
+- Eleverna får inga nyhetstexter, utan letar själva upp svaren på sajten (det finns ett sökfält)
+- Elevversionen ryms på ett dubbelsidigt A4
 
 Frågorna skrivs av Claude via Anthropics API. Svarsalternativen blandas och facit kontrolleras automatiskt, men läs alltid igenom lärarversionen före lektionen.
 
