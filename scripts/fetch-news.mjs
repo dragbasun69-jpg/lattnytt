@@ -72,8 +72,11 @@ function attr(xml, tagName, attrName, filter) {
 }
 
 function stripHtml(html) {
+  // Avkoda först, så att dubbelkodad HTML (&lt;p&gt;) blir riktiga taggar som kan tas bort
+  let s = html;
+  for (let i = 0; i < 3 && /&(lt|gt|amp|#60|#62);/i.test(s); i++) s = decodeEntities(s);
   return decodeEntities(
-    html
+    s
       .replace(/<script[\s\S]*?<\/script>/gi, " ")
       .replace(/<style[\s\S]*?<\/style>/gi, " ")
       .replace(/<br\s*\/?>/gi, " ")
