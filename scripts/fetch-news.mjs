@@ -115,18 +115,32 @@ function findImage(itemXml) {
   return "";
 }
 
-// Hämtar og:image från artikelsidan om flödet saknar bild
-async function findOgImage(url) {
+const LOGO_RE = /logo|ikon|icon|avatar|sprite|placeholder|favicon|\.svg(\?|$)/i;
+
+// Hämtar bilder från artikelsidan: og:image och första riktiga bilden i artikeln
+async function findPageImages(url) {
   try {
     const html = await fetchText(url);
-    const head = html.slice(0, 200000);
     const m =
-      head.match(/<meta[^>]+property=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i) ||
-      head.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::url)?["']/i) ||
-      head.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
-    return m ? new URL(decodeEntities(m[1]), url).href : "";
+      html.match(/<meta[^>]+property=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::url)?["']/i) ||
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    const og = m ? new URL(decodeEntities(m[1]), url).href : "";
+
+    // Leta i <article> eller <main> i första hand, annars hela sidan
+    const body = (html.match(/<article[\s\S]*?<\/article>/i) || html.match(/<main[\s\S]*?<\/main>/i) || [html])[0];
+    let content = "";
+    for (const img of body.match(/<img\b[^>]*>/gi) || []) {
+      const src = (img.match(/\b(?:data-src|src)\s*=\s*["']([^"']+)["']/i) || [])[1];
+      if (!src || src.startsWith("data:") || LOGO_RE.test(src) || LOGO_RE.test(img)) continue;
+      const w = parseInt((img.match(/\bwidth=["']?(\d+)/i) || [])[1] || "0", 10);
+      if (w && w < 200) continue;
+      content = new URL(decodeEntities(src), url).href;
+      break;
+    }
+    return { og, content };
   } catch {
-    return "";
+    return { og: "", content: "" };
   }
 }
 
@@ -200,9 +214,22 @@ async function main() {
 
   // Bildreserv: og:image från artikelsidan, annars kanalens logga
   await pool(all, 4, async (item) => {
-    if (!item.image && /^https?:/i.test(item.link)) item.image = await findOgImage(item.link);
+    if (!item.image && /^https?:/i.test(item.link)) {
+      const { og, content } = await findPageImages(item.link);
+      item.image = og && !LOGO_RE.test(og) ? og : content || og;
+      item._alt = content;
+    }
     if (!item.image && item._channelImage) item.image = item._channelImage;
-    delete item._channelImage;
+  });
+
+  // Samma bild på många nyheter från samma källa är nästan alltid en logga.
+  // Byt då till artikelns egen bild om en sådan hittades.
+  const uses = {};
+  all.forEach((x) => { const k = x.sourceId + "|" + x.image; uses[k] = (uses[k] || 0) + 1; });
+  all.forEach((x) => {
+    if (x.image && uses[x.sourceId + "|" + x.image] >= 3 && x._alt && x._alt !== x.image) x.image = x._alt;
+    delete x._alt;
+    delete x._channelImage;
   });
 
   all.forEach((x, i) => (x.id = `${x.sourceId}-${i}`));
