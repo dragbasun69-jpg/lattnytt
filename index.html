@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lätt nytt – nyheter på lätt svenska</title>
+  <meta name="description" content="Nyheter på lätt svenska som du kan läsa eller lyssna på.">
+  <meta name="theme-color" content="#14213d">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#news">Hoppa till nyheterna</a>
+
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Lätt nytt</h1>
+        <p class="tagline">Nyheter på lätt svenska. Läs eller lyssna.</p>
+      </div>
+      <button id="playAll" class="btn btn-primary" type="button">
+        <span aria-hidden="true">▶</span> Lyssna på alla
+      </button>
+    </div>
+  </header>
+
+  <div class="wrap toolbar" role="region" aria-label="Inställningar">
+    <div id="filters" class="filters" role="group" aria-label="Välj källa"></div>
+    <div class="settings">
+      <button id="textSmaller" class="btn btn-ghost" type="button" aria-label="Mindre text">A−</button>
+      <button id="textBigger" class="btn btn-ghost" type="button" aria-label="Större text">A+</button>
+    </div>
+  </div>
+
+  <main id="news" class="wrap">
+    <p id="status" class="status" aria-live="polite">Hämtar nyheter …</p>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <p id="updated"></p>
+    <p>Rubriker, ingresser och bilder kommer från källorna. Klicka på en nyhet för att läsa hela texten hos källan.</p>
+    <p id="sourceStatus" class="small"></p>
+  </footer>
+
+  <!-- Spelaren visas när något läses upp -->
+  <div id="player" class="player" hidden role="region" aria-label="Uppläsning">
+    <div class="wrap player-inner">
+      <div class="now">
+        <span class="now-label">Läser upp</span>
+        <span id="nowTitle" class="now-title"></span>
+      </div>
+      <div class="controls">
+        <button id="prevBtn" class="ctrl" type="button" aria-label="Föregående nyhet">⏮</button>
+        <button id="pauseBtn" class="ctrl ctrl-main" type="button" aria-label="Pausa">⏸</button>
+        <button id="nextBtn" class="ctrl" type="button" aria-label="Nästa nyhet">⏭</button>
+        <button id="stopBtn" class="ctrl" type="button" aria-label="Stoppa">⏹</button>
+      </div>
+      <div class="voice-settings">
+        <label>Hastighet
+          <select id="rate">
+            <option value="0.7">Långsam</option>
+            <option value="0.85">Lite långsam</option>
+            <option value="1" selected>Normal</option>
+            <option value="1.15">Snabb</option>
+          </select>
+        </label>
+        <label>Röst
+          <select id="voice"></select>
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

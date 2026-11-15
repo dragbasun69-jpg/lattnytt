@@ -1,0 +1,27 @@
+{
+  "maxPerSource": 15,
+  "maxTotal": 40,
+  "sources": [
+    {
+      "id": "8sidor",
+      "name": "8 Sidor",
+      "url": "https://8sidor.se/feed",
+      "color": "#d62828",
+      "enabled": true
+    },
+    {
+      "id": "radiosweden",
+      "name": "Radio Sweden på lätt svenska",
+      "url": "https://api.sr.se/api/rss/program/4916",
+      "color": "#1d4e89",
+      "enabled": true
+    },
+    {
+      "id": "klartext",
+      "name": "Klartext",
+      "url": "https://api.sr.se/api/rss/program/493",
+      "color": "#2a9d8f",
+      "enabled": true
+    }
+  ]
+}
