@@ -1,5 +1,465 @@
 {
-  "updated": null,
-  "sources": [],
-  "items": []
+  "updated": "2026-11-15T11:34:24.806Z",
+  "sources": [
+    {
+      "id": "8sidor",
+      "name": "8 Sidor",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "id": "radiosweden",
+      "name": "Radio Sweden på lätt svenska",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "id": "klartext",
+      "name": "Klartext",
+      "ok": true,
+      "count": 15
+    }
+  ],
+  "items": [
+    {
+      "title": "DO: Väktare diskriminerade flicka med assistanshund",
+      "link": "https://www.sverigesradio.se/artikel/9340708",
+      "summary": "<ul><li><p>Ett vaktbolag diskriminerade en flicka med assistanshund. Det säger myndigheten Diskiminerings-ombudsmannen, DO.<br>Nu vill DO att bolaget ska betala 20 000 kronor i diskriminerings-ersättning till flickan.</p></li><li><p>Det var när flickan besökte ett köpcentrum tillsammans med sin kontaktperson och sin …",
+      "date": "2026-11-13T15:28:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/e5bedfd1-efb6-4ad9-b9ed-0dc39c47540f.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-0"
+    },
+    {
+      "title": "Automat som bakar pizza väcker oro hos pizzabagare",
+      "link": "https://www.sverigesradio.se/artikel/9340670",
+      "summary": "<p><strong>I Halmstad kan man köpa pizza i en automat som står på ett torg. Det har väckt olika känslor hos människor. En del tycker att den är bra. Men flera pizzabagare är oroliga. De tror att automaten kan ta kunder från deras restauranger.",
+      "date": "2026-11-13T15:22:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/41e3de5e-c59a-4c15-864f-d38023e3ec36.png?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-1"
+    },
+    {
+      "title": "Kommunen stoppade smink och hudvårdsprodukter i butiker i Södertälje",
+      "link": "https://www.sverigesradio.se/artikel/9340526",
+      "summary": "<p><strong>I Södertälje har kommunen förbjudit butiker att sälja flera smink- och hudvårdsprodukter. Det rapporterar SVT Södertälje. </strong></p>",
+      "date": "2026-11-13T14:35:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/5da07482-6803-4660-9f75-76a0549d1ea8.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-2"
+    },
+    {
+      "title": "De leder Musikhjälpen",
+      "link": "https://www.sverigesradio.se/artikel/9340435",
+      "summary": "<ul><li><p>Det blir Fahra Abadi, Assia Dahir och Hampus Hedström som programleder Musikhjälpen i år.</p></li><li><p>Sista november går programledarna in i buren på stora torget i Linköping.<br>I en vecka ska de samla in så mycket pengar det bara går.</p></li><li><p>Temat för årets insamling är ”För psykisk hälsa i …",
+      "date": "2026-11-13T14:24:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/a50fd42f-ac0b-45d1-8864-4d49b0982df3.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-3"
+    },
+    {
+      "title": "Advokater protesterar mot nya regler för asylsökande",
+      "link": "https://www.sverigesradio.se/artikel/9340478",
+      "summary": "<p><strong>Asylsökande får inte längre en egen jurist när de söker asyl. Sedan i somras får de i stället bara några timmar med allmän juridisk rådgivning. Men hjälpen handlar inte om deras eget ärende. Det har fått många migrationsadvokater att protestera.",
+      "date": "2026-11-13T13:20:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/207e5eca-272d-417c-8f04-eb7559346e70.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-4"
+    },
+    {
+      "title": "Stefan Holm kan straffas",
+      "link": "https://8sidor.se/sverige/2026/11/stefan-holm-kan-straffas/",
+      "summary": "Förre höjdhopparen Stefan Holm kan bli straffad. Det gäller bråket med journalisten Emil Persson.",
+      "date": "2026-11-13T12:49:30.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-5"
+    },
+    {
+      "title": "Centerpartiet ska bestämma sig",
+      "link": "https://8sidor.se/politik/2026/11/centerpartiet-ska-bestamma-sig/",
+      "summary": "Politikerna i Centerpartiet ska tänka på vilken regering de vill ha. Nästa vecka berättar de.",
+      "date": "2026-11-13T12:47:03.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-6"
+    },
+    {
+      "title": "Mycket snö i Norrland – problem på vägarna",
+      "link": "https://www.sverigesradio.se/artikel/9340216",
+      "summary": "<p><strong>Det snöar kraftigt på flera platser i norra Sverige. Snön gör att vägarna inte är säkra att köra på. </strong></p>",
+      "date": "2026-11-13T10:33:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/5944b87b-af1a-4c27-8b8c-6aa2755862cc.png?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-7"
+    },
+    {
+      "title": "De fixade egna resor när personalregler satte stopp: ”Jättekul”",
+      "link": "https://www.sverigesradio.se/artikel/9340255",
+      "summary": "<ul><li><p>Regler för personalens arbetstider gör att personer på LSS-boenden kan ha svårt att åka på semester. Därför har systrarna Anna och Lisa Berglund börjat ordna särskilda semesterresor, där deltagarna kan få mycket stöd.</p></li><li><p>Deltagarna betalar själva för resorna.",
+      "date": "2026-11-13T10:12:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/954ef7a2-40c7-4bfe-a3b5-95baad8a8484.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-8"
+    },
+    {
+      "title": "Nya samtal om fred",
+      "link": "https://8sidor.se/varlden/2026/11/nya-samtal-om-fred/",
+      "summary": "Ukrainas ledare vill att Europa ska vara med i nya samtal om fred.",
+      "date": "2026-11-13T09:50:08.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/samtal1.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-9"
+    },
+    {
+      "title": "Hunden Hjördis får pris",
+      "link": "https://8sidor.se/sverige/2026/11/hunden-hjordis-far-pris/",
+      "summary": "Hunden Hjördis får ett pris. Hon räddade livet på en kvinna som fick en stroke i hjärnan.",
+      "date": "2026-11-13T09:09:38.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-10"
+    },
+    {
+      "title": "Politiker slutar i riksdagen",
+      "link": "https://8sidor.se/politik/2026/11/politiker-slutar-i-riksdagen/",
+      "summary": "Rasmus Giertz slutar jobba för Sverigedemokraterna i riksdagen. Flera kvinnor säger att han gjort sexuella saker som inte är okej.",
+      "date": "2026-11-13T08:58:15.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-11"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 13 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-13-november-4/",
+      "summary": "261113",
+      "date": "2026-11-13T08:44:44.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-12"
+    },
+    {
+      "title": "Poliserna varnar för snön",
+      "link": "https://8sidor.se/sverige/2026/11/poliserna-varnar-for-snon/",
+      "summary": "Poliserna säger att folk som bor där det snöar som mest bara ska ge sig ut på vägarna om de måste.",
+      "date": "2026-11-13T08:29:09.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-13"
+    },
+    {
+      "title": "Hon fick inte skriva fritt",
+      "link": "https://8sidor.se/kultur/2026/11/hon-fick-inte-skriva-fritt/",
+      "summary": "Forskaren Pinar Selek från Turkiet har flytt till Frankrike för att kunna skriva fritt.",
+      "date": "2026-11-13T08:16:22.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-14"
+    },
+    {
+      "title": "Dag med fotboll på schemat",
+      "link": "https://8sidor.se/sverige/2026/11/dag-med-fotboll-pa-schemat/",
+      "summary": "Att röra sig är bra för hälsan. Flera dagliga verksamheter samlades för att spela fotboll. – Det här vill vi ha mer av, säger de.",
+      "date": "2026-11-13T08:15:41.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/41-8-fotboll.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-15"
+    },
+    {
+      "title": "Lätt att laga vego",
+      "link": "https://8sidor.se/din-vardag/2026/11/latt-att-laga-vego/",
+      "summary": "En del tror att det är svårt att laga vegetarisk mat. Men det kan faktiskt vara lätt.",
+      "date": "2026-11-13T08:12:55.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-16"
+    },
+    {
+      "title": "Vänsterpartiet kräver fortfarande att få vara med i en regering",
+      "link": "https://www.sverigesradio.se/artikel/9339845",
+      "summary": "<p><strong>Vänsterpartiet säger att de kan förhandla med Centerpartiet, för att kunna bilda en regering med de rödgröna partierna. Men Vänsterpartiet kräver fortfarande att få vara med i regeringen och ha ministrar. Och det har Centerpartiet sagt nej till.</strong></p>",
+      "date": "2026-11-12T15:27:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/6d50aa14-14ec-4bab-9d8b-55fa778ab38f.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-17"
+    },
+    {
+      "title": "Så vill övergångsregeringen använda Sveriges pengar",
+      "link": "https://www.sverigesradio.se/artikel/9339768",
+      "summary": "<ul><li><p>På torsdagen berättade regeringen om hur de vill använda Sveriges pengar nästa år.<br>Ett sådant budgetförslag gör regeringen varje höst.</p></li><li><p>I vanliga fall brukar regeringen berätta samtidigt vilka nya satsningar de vill göra och hur mycket pengar det kommer kosta.",
+      "date": "2026-11-12T14:47:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/53daa7ed-7930-465c-b3b5-212926ed3aac.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-18"
+    },
+    {
+      "title": "Varning för snöoväder i norra Sverige",
+      "link": "https://www.sverigesradio.se/artikel/9339723",
+      "summary": "<ul><li><p>Vädermyndigheten SMHI varnar för ett riktigt snöoväder från<a class=\"internal-link\" target=\"_self\" href=\"https://www.sverigesradio.se/artikel/sakerhetschefen-handlar-om-att-prioritera-liv-och-halsa\"> söder om Skellefteå </a>och uppåt längs kusten.</p></li><li><p>Det kan komma omkring 80 centimeter snö och …",
+      "date": "2026-11-12T14:28:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/cc80b0ea-019c-4b9e-a2dc-d7a09760845d.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-19"
+    },
+    {
+      "title": "Sista träffen för Seniorexperterna: ”Jag känner mig stolt”",
+      "link": "https://www.sverigesradio.se/artikel/9339700",
+      "summary": "<ul><li><p>I mer än sex år har Seniorexperterna i Karlstad träffats för att göra livet bättre för äldre med intellektuell funktionsnedsättning.<br>Nu är projektet slut.</p></li><li><p>Seniorexperterna lever själva med if.",
+      "date": "2026-11-12T14:26:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/7a2314eb-9f53-469e-8040-d6f92f818414.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-20"
+    },
+    {
+      "title": "Finansministern presenterade budget utan nya satsningar",
+      "link": "https://www.sverigesradio.se/artikel/9339469",
+      "summary": "<p><strong>Idag presenterade finansminister Elisabeth Svantesson regeringens förslag på budget. Eftersom Sverige inte har någon ny regering så är det inga stora förändringar i budgeten. </strong></p>",
+      "date": "2026-11-12T12:06:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/ab8c5283-6cf2-45a3-b18c-0681a60092cc.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-21"
+    },
+    {
+      "title": "Kritik mot stort AI-datacenter i Skellefteå",
+      "link": "https://www.sverigesradio.se/artikel/9339374",
+      "summary": "<p><strong>I Skellefteå planeras ett datacenter som beräknas dra lika mycket el som en kärnkraftsreaktor. Dataingenjören Robin Åsén har samlat in 5 000 namnunderskrifter mot byggplanerna.</strong></p>",
+      "date": "2026-11-12T12:01:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/b34ca0bd-5472-462f-bd40-f7fd788ae3ea.jpeg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-22"
+    },
+    {
+      "title": "Svenskt medborgarskap kan tas tillbaka i vissa fall",
+      "link": "https://www.sverigesradio.se/artikel/9339318",
+      "summary": "<p><strong>Riksdagen röstade i går ja till en ändring i grundlagen. Ändringen gör det möjligt att i framtiden ta tillbaka ett svenskt medborgarskap.</strong></p>",
+      "date": "2026-11-12T09:23:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/76c52e0d-2006-4b66-844f-5a27ca4d066e.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-23"
+    },
+    {
+      "title": "Slagsmål när många ville få gratis choklad",
+      "link": "https://www.sverigesradio.se/artikel/9339071",
+      "summary": "<ul><li><p>På onsdagen blev det bråk om choklad mitt i Stockholm.<br>Det var när hundratals ungdomar hade samlats för att få gratis choklad.</p></li><li><p>Det var ”chokladens dag” på onsdagen.",
+      "date": "2026-11-11T17:09:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/35f6bbd9-5262-4407-b1b9-0fd0f423bbee.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-24"
+    },
+    {
+      "title": "Linda och Christian laddar inför matcherna: ”Vi ska ha kul”",
+      "link": "https://www.sverigesradio.se/artikel/9339061",
+      "summary": "<ul><li><p>För första gången ska handbollsklubben i Forshaga i Värmland ha seriematcher i parahandboll i helgen.</p></li><li><p>Christian Brandt och Linda Bergman ser fram emot matcherna.</p></li><li><p>”Ja, vi ska ha kul och peppa varandra”, säger Linda. <br>”Det är som Linda säger, man ska ha det här som glädje\".",
+      "date": "2026-11-11T17:03:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/046a6928-54ae-43b2-af24-babeeda68bc5.jpeg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-25"
+    },
+    {
+      "title": "Mycket snö kan falla i veckan – SMHI varnar",
+      "link": "https://www.sverigesradio.se/artikel/9338998",
+      "summary": "<ul><li><p>Det ska snöa mycket på flera håll i Sverige under torsdag och fredag.<br>Nu varnar vädermyndigheten SMHI för att det kan bli halka på vägarna </p></li><li><p>Längst kusten mellan Umeå och Luleå kan det falla mellan 20 och 30 centimeter snö.<br>I ett område kring Skellefteå kan det komma mest snö.",
+      "date": "2026-11-11T15:35:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/f4556e64-87ea-43bc-be49-45b5d2f6240d.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-26"
+    },
+    {
+      "title": "300 skolor i Italien stängde efter bluffmejl om bombhot",
+      "link": "https://www.sverigesradio.se/artikel/9338991",
+      "summary": "<ul><li><p>Under morgonen på onsdagen kom ett mejl med bombhot till 6 300 skolor i Italien. <br>Det gjorde att hundratals skolor höll stängt </p></li><li><p>Italiens premiärminister Giorgia Meloni har sagt att det inte ska var någon fara.<br>Polisen och myndigheter i Italien ska nu ta reda på vad som …",
+      "date": "2026-11-11T15:31:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/7f23b3e6-5e11-488d-8a32-816004fc7b37.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-27"
+    },
+    {
+      "title": "Varning för kraftigt snöfall i delar av Sverige",
+      "link": "https://www.sverigesradio.se/artikel/9338929",
+      "summary": "<p><strong>I flera delar av Sverige kan vinterns första snö komma de närmsta dagarna. Och vädermyndigheten SMHI varnar för kraftigt snöfall på en del platser. </strong></p>",
+      "date": "2026-11-11T15:13:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/ab45394b-041b-476d-9bc7-3587e3880bd3.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-28"
+    },
+    {
+      "title": "Allt fler använder AI",
+      "link": "https://www.sverigesradio.se/artikel/9338818",
+      "summary": "<p><strong>Allt fler använder AI. Tre av fyra personer i Sverige använder AI varje vecka eller oftare. Och de flesta litar på svaren som AI ger. Det visar en ny undersökning från analysbolaget Insight Intelligence. </strong></p>",
+      "date": "2026-11-11T15:05:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/2167ee5f-e44e-4c6a-bc16-02f3934e038d.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-29"
+    },
+    {
+      "title": "Granskning: Imamer erbjöd hjälp till män att skaffa flera fruar",
+      "link": "https://www.sverigesradio.se/artikel/9338693",
+      "summary": "<p><strong>Imamer vid flera stora moskéer i Sverige har erbjudit män hjälp att skaffa en fru till. Det visar SVT:s program </strong><a class=\"external-link\" rel=\"noreferrer noopener nofollow\" target=\"_blank\" …",
+      "date": "2026-11-11T12:36:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/5849cdb8-dfb6-4e29-a365-13bca183ac0a.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-30"
+    },
+    {
+      "title": "Så sparar du på elen",
+      "link": "https://www.sverigesradio.se/artikel/9338553",
+      "summary": "<p><strong>Elpriserna i södra och mellersta Sverige ökar. Då är det många som försöker använda mindre el. Det finns flera sätt att göra det.</strong></p>",
+      "date": "2026-11-11T10:17:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/0942c774-a163-4b69-99eb-b5131284e322.png?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-31"
+    },
+    {
+      "title": "Jenny julpyntar huset med 800 tomtar redan i november",
+      "link": "https://www.sverigesradio.se/artikel/9338092",
+      "summary": "<p><strong>Det är en och en halv månad kvar till julafton. Jenny Hein i Mölnlycke brukar dekorera sitt hus med mycket julpynt varje år. Hon brukar vara färdig redan en vecka in i november, men i år är hon försenad. </strong></p>",
+      "date": "2026-11-10T14:48:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/935a7f8f-ecec-450e-b244-d679de632242.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-32"
+    },
+    {
+      "title": "Höga elpriser i södra Sverige – Maria sparar på värmen",
+      "link": "https://www.sverigesradio.se/artikel/9338068",
+      "summary": "<ul><li><p>Elen kostar mycket nu för de som bor i södra Sverige. Priserna i november kan bli de högsta på flera år.</p></li><li><p>En anledning är att kriget i mellanöstern gör naturgas dyrare.",
+      "date": "2026-11-10T14:17:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/c8754b4b-8f2a-40c1-9395-deadae0030ae.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-33"
+    },
+    {
+      "title": "Polisen tar mer saker från kriminella",
+      "link": "https://www.sverigesradio.se/artikel/9337947",
+      "summary": "<p><strong>För två år sedan ändrades lagen. Det gjorde det lättare för polis och åklagare att ta saker från kriminella. Sedan dess har antalet beslag ökat med ungefär 50 procent, enligt Åklagarmyndigheten.</strong></p>",
+      "date": "2026-11-10T13:57:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/1812ff6e-aadf-4c33-bcd2-4b6644233032.jpg?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-34"
+    },
+    {
+      "title": "Vera var hemmasittare – nu går hon på folkhögskola: ”Det känns lätt”",
+      "link": "https://www.sverigesradio.se/artikel/9337459",
+      "summary": "<ul><li><p>På Ågesta folkhögskola i Stockholm har nästan alla eleverna som läser in grundskola och gymnasium varit hemmasittare. <br>Nästan alla lever också med funktionsnedsättning.</p></li><li><p>Rektorn Vegard Tögersen berättar att för det går det bra för nästan alla på folkhögskolan.",
+      "date": "2026-11-10T13:16:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/acfd09d1-47f2-46b1-bf78-2c43e3ee11e9.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-35"
+    },
+    {
+      "title": "Drömmen blev sann – Daniel, 47, fick spela för Malmö FF",
+      "link": "https://www.sverigesradio.se/artikel/9337964",
+      "summary": "<ul><li><p>Fotbollsklubben Malmö FF bjuder in personer med intellektuell funktionsnedsättning och autism att träna fotboll tillsammans.</p></li><li><p>Projektet kallas Himmelsblå.",
+      "date": "2026-11-10T13:12:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/7fd63b25-d4a8-4705-99eb-3fdc3623405d.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-36"
+    },
+    {
+      "title": "Fler kvinnor med utländsk bakgrund startar företag",
+      "link": "https://www.sverigesradio.se/artikel/9337864",
+      "summary": "<p><strong>Fler kvinnor med utländsk bakgrund startar egna företag. Det visar statistik från statistikmyndigheten SCB.</strong></p>",
+      "date": "2026-11-10T12:51:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/e7ecb70b-6da8-4766-b530-53825c4804af.png?w=1200&h=675&q=75",
+      "sourceId": "radiosweden",
+      "source": "Radio Sweden på lätt svenska",
+      "color": "#1d4e89",
+      "id": "radiosweden-37"
+    },
+    {
+      "title": "Magdalena Andersson (S) vill bilda regering med C och MP",
+      "link": "https://www.sverigesradio.se/artikel/9337424",
+      "summary": "<ul><li><p>Socialdemokraternas partiledare Magdalena Andersson sa under söndagen att hon styra landet tillsammans med Centerpartiet och Miljöpartiet.</p></li><li><p>För att det ska bli så behöver de <a class=\"internal-link\" target=\"_self\" …",
+      "date": "2026-11-09T15:10:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/751f46cc-cdc7-43aa-9a66-7064240df0e9.jpg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-38"
+    },
+    {
+      "title": "Lättare att läsa när man gör det tillsammans: ”Jag lär mig så mycket”",
+      "link": "https://www.sverigesradio.se/artikel/9337344",
+      "summary": "<ul><li><p>Petra Romberg och Susan Båge har skrivit en bok med korta texter. Boken ska användas i share reading – alltså, delad läsning.</p></li><li><p>Shared reading finns på många bibliotek runt om i landet.",
+      "date": "2026-11-09T14:33:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/4ad4841e-b76f-4c94-a73e-996352c18b21.jpeg?w=1200&h=675&q=75",
+      "sourceId": "klartext",
+      "source": "Klartext",
+      "color": "#2a9d8f",
+      "id": "klartext-39"
+    }
+  ]
 }
