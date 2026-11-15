@@ -6,7 +6,7 @@
   <title>Nyhetsquiz – Lätt nytt</title>
   <meta name="description" content="Veckans nyhetsquiz på lätt svenska. Elevversion och lärarversion med facit, att skriva ut som PDF.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=202611151344">
   <style>
     .quiz-tools { display:flex; flex-wrap:wrap; gap:.6rem; align-items:center; justify-content:space-between; padding:1rem 0; }
     .quiz-tools .group { display:flex; flex-wrap:wrap; gap:.5rem; align-items:center; }
@@ -58,7 +58,7 @@
     <p>Ett nytt quiz kommer varje måndag morgon. Frågorna skrivs av AI utifrån veckans nyheter, så läs igenom lärarversionen innan lektionen.</p>
   </footer>
 
-  <script src="quiz-render.js"></script>
+  <script src="quiz-render.js?v=202611151344"></script>
   <script>
   (() => {
     const $ = (id) => document.getElementById(id);
@@ -79,7 +79,12 @@
 
     function draw() {
       if (!current) return;
-      $("sheet").innerHTML = QuizRender.render(current, version);
+      try {
+        $("sheet").innerHTML = QuizRender.render(current, version);
+      } catch (err) {
+        console.error(err);
+        $("sheet").innerHTML = "<p>Quizet kunde inte visas. Ladda om sidan (Ctrl + F5). Du kan också ladda ner PDF:en.</p>";
+      }
       $("sheet").hidden = false;
       $("pdf").href = `quiz/${current.id}-${version}.pdf`;
       $("pdf").textContent = version === "elev" ? "⬇ PDF elevversion" : "⬇ PDF lärarversion";
