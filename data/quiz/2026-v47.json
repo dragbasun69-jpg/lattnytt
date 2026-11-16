@@ -1,0 +1,221 @@
+{
+  "id": "2026-v47",
+  "year": 2026,
+  "week": 47,
+  "title": "Nyhetsquiz vecka 47",
+  "period": "9–13 november 2026",
+  "siteUrl": "https://dragbasun69-jpg.github.io/lattnytt/",
+  "created": "2026-11-16T05:12:40.986Z",
+  "model": "manuellt",
+  "teacherIntro": "Veckans quiz bygger på sex nyheter från 9–13 november 2026 med olika ämnen: diskriminering, en pizzaautomat, Musikhjälpen, snöoväder i Norrland, AI i vardagen och nya fredssamtal om Ukraina. Eleverna letar upp nyheterna på Lätt nytt och svarar med hjälp av rubrik och ingress. Ordfrågorna och diskussionsfrågorna kan användas för att fördjupa samtalet.",
+  "lessonTips": [
+    "Låt eleverna arbeta i par: en söker upp nyheten på sajten och den andra läser frågan högt.",
+    "Gå igenom ordfrågorna innan eleverna börjar, så att svåra ord inte stoppar läsningen.",
+    "Avsluta med en eller två diskussionsfrågor i helklass eller i små grupper.",
+    "Be eleverna välja en nyhet och skriva tre egna meningar om den med egna ord."
+  ],
+  "news": [
+    {
+      "n": 1,
+      "title": "Väktare diskriminerade flicka med assistanshund",
+      "studentSummary": "Myndigheten DO säger att ett vaktbolag diskriminerade en flicka som har en assistanshund. DO vill att bolaget betalar 20 000 kronor i diskrimineringsersättning till flickan.",
+      "teacherBackground": "DO, Diskrimineringsombudsmannen, är en statlig myndighet som arbetar mot diskriminering och ser till att diskrimineringslagen följs. Funktionsnedsättning är en av de sju diskrimineringsgrunderna i lagen. En assistanshund är tränad för att hjälpa en person med funktionsnedsättning i vardagen. Om ett företag inte går med på att betala ersättning kan DO driva frågan i domstol.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9340708",
+      "originalTitle": "DO: Väktare diskriminerade flicka med assistanshund"
+    },
+    {
+      "n": 2,
+      "title": "Pizzaautomat oroar pizzabagare",
+      "studentSummary": "På ett torg i Halmstad kan man köpa pizza i en automat. En del tycker att den är bra. Flera pizzabagare är oroliga för att automaten tar kunder från deras restauranger.",
+      "teacherBackground": "Halmstad ligger i Halland på västkusten, och P4 Halland är Sveriges Radios lokala kanal där. Automater och ny teknik har länge förändrat arbetslivet, till exempel självutcheckning i butiker och biljettautomater. Nyheten kan kopplas till samtal om hur teknik påverkar jobb och småföretag.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9340670",
+      "originalTitle": "Automat som bakar pizza väcker oro hos pizzabagare"
+    },
+    {
+      "n": 3,
+      "title": "De leder Musikhjälpen i år",
+      "studentSummary": "Fahra Abadi, Assia Dahir och Hampus Hedström leder Musikhjälpen i år. I slutet av november går de in i en bur på Stora torget i Linköping och samlar in pengar i en vecka. Temat är ”För psykisk hälsa i krig och kris”.",
+      "teacherBackground": "Musikhjälpen är en årlig insamling som Sveriges Radio och SVT gör tillsammans med Radiohjälpen. Programledarna sitter i en glasbur i en vecka och sänder dygnet runt, och publiken kan önska låtar mot ett bidrag. Insamlingen har ett nytt tema varje år. Linköping ligger i Östergötland.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9340435",
+      "originalTitle": "De leder Musikhjälpen"
+    },
+    {
+      "n": 4,
+      "title": "SMHI varnar för snöoväder i norr",
+      "studentSummary": "SMHI varnar för snöoväder från söder om Skellefteå och uppåt längs kusten. Det kan komma omkring 80 centimeter snö och blåsa mycket. Varningen gäller från torsdag eftermiddag till sent fredag kväll.",
+      "teacherBackground": "SMHI, Sveriges meteorologiska och hydrologiska institut, är den myndighet som gör väderprognoser och vädervarningar i Sverige. Varningarna har tre nivåer: gul, orange och röd. Mycket snö och stark vind kan ge dålig sikt, snödrev och svåra vägar. Skellefteå ligger i Västerbotten.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9339723",
+      "originalTitle": "Varning för snöoväder i norra Sverige"
+    },
+    {
+      "n": 5,
+      "title": "Allt fler använder AI",
+      "studentSummary": "En ny undersökning visar att tre av fyra personer i Sverige använder AI varje vecka eller oftare. De flesta litar på svaren som AI ger.",
+      "teacherBackground": "Under de senaste åren har AI-tjänster som chattbotar blivit vanliga i skola, arbete och vardag. AI kan ge svar som låter säkra men som är fel, därför är källkritik viktig. Nyheten passar bra för ett samtal om när man kan lita på AI och hur man kontrollerar svar.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9338818",
+      "originalTitle": "Allt fler använder AI"
+    },
+    {
+      "n": 6,
+      "title": "Ukraina vill ha Europa med i fredssamtal",
+      "studentSummary": "Det ska bli nya samtal om fred. Ukrainas ledare vill att Europa ska vara med i samtalen.",
+      "teacherBackground": "Rysslands fullskaliga invasion av Ukraina började i februari 2022. Under kriget har det vid flera tillfällen förts samtal om fred, och europeiska länder har velat ha en roll i dem. Läget förändras snabbt, så kontrollera gärna de senaste uppgifterna i en nyhetskälla innan lektionen.",
+      "source": "8 Sidor",
+      "link": "https://8sidor.se/varlden/2026/11/nya-samtal-om-fred/",
+      "originalTitle": "Nya samtal om fred"
+    }
+  ],
+  "questions": {
+    "mc": [
+      {
+        "q": "Nyheten om flickan med assistanshund: Vad vill DO att vaktbolaget ska göra?",
+        "options": [
+          "Sluta anställa väktare",
+          "Betala 20 000 kronor i ersättning till flickan",
+          "Be om ursäkt i en tidning",
+          "Ge flickan en ny assistanshund"
+        ],
+        "answer": 1,
+        "explanation": "I ingressen står att DO vill att bolaget betalar 20 000 kronor i diskrimineringsersättning till flickan.",
+        "news": 1
+      },
+      {
+        "q": "Nyheten om pizzaautomaten i Halmstad: Varför är flera pizzabagare oroliga?",
+        "options": [
+          "De tror att pizzan från automaten är farlig att äta",
+          "De är rädda att de måste betala för automaten",
+          "De tycker att automaten låter för mycket på torget",
+          "De tror att automaten kan ta kunder från deras restauranger"
+        ],
+        "answer": 3,
+        "explanation": "Ingressen säger att pizzabagarna tror att automaten kan ta kunder från deras restauranger.",
+        "news": 2
+      },
+      {
+        "q": "Nyheten om Musikhjälpen: Vad handlar årets insamling om?",
+        "options": [
+          "Psykisk hälsa i krig och kris",
+          "Rent vatten i länder med torka",
+          "Djur som har blivit övergivna",
+          "Barn som inte får gå i skolan"
+        ],
+        "answer": 0,
+        "explanation": "Temat för årets insamling är ”För psykisk hälsa i krig och kris”.",
+        "news": 3
+      },
+      {
+        "q": "Nyheten om SMHI:s varning för snöoväder: Var i Sverige gäller varningen?",
+        "options": [
+          "Från söder om Skellefteå och uppåt längs kusten",
+          "I fjällen i västra Jämtland",
+          "Längs kusten i Skåne",
+          "I Stockholm och runt Mälaren"
+        ],
+        "answer": 0,
+        "explanation": "Ingressen säger att SMHI varnar för snöoväder från söder om Skellefteå och uppåt längs kusten.",
+        "news": 4
+      },
+      {
+        "q": "Nyheten om att allt fler använder AI: Vilket påstående stämmer med undersökningen?",
+        "options": [
+          "Tre av fyra i Sverige använder AI minst en gång i veckan",
+          "De flesta i Sverige litar inte på svaren från AI",
+          "Bara en av fyra i Sverige har provat AI",
+          "Färre personer använder AI nu än tidigare"
+        ],
+        "answer": 0,
+        "explanation": "Enligt ingressen använder tre av fyra AI varje vecka eller oftare, och de flesta litar på svaren. Allt fler använder AI.",
+        "news": 5
+      },
+      {
+        "q": "Nyheten om nya samtal om fred: Vad vill Ukrainas ledare?",
+        "options": [
+          "Att inga andra länder ska vara med",
+          "Att Europa ska vara med i samtalen",
+          "Att samtalen ska hållas i Sverige",
+          "Att samtalen ska vänta ett år"
+        ],
+        "answer": 1,
+        "explanation": "Ingressen säger att Ukrainas ledare vill att Europa ska vara med i nya samtal om fred.",
+        "news": 6
+      }
+    ],
+    "words": [
+      {
+        "word": "diskrimineringsersättning",
+        "context": "Nu vill DO att bolaget ska betala 20 000 kronor i diskriminerings-ersättning till flickan.",
+        "options": [
+          "en avgift för att ta med hund in i en butik",
+          "ett straff där man måste sitta i fängelse",
+          "pengar som en person får när hen har blivit diskriminerad",
+          "lön som en väktare får för sitt arbete"
+        ],
+        "answer": 2,
+        "explanation": "Diskrimineringsersättning är pengar som den som blivit diskriminerad kan få av den som diskriminerat."
+      },
+      {
+        "word": "väcker oro",
+        "context": "Automat som bakar pizza väcker oro hos pizzabagare.",
+        "options": [
+          "gör att någon blir hungrig",
+          "gör att någon vaknar tidigt",
+          "gör att någon blir orolig",
+          "gör någon glad och nöjd"
+        ],
+        "answer": 2,
+        "explanation": "Att något väcker oro betyder att det gör människor oroliga eller rädda för vad som ska hända."
+      },
+      {
+        "word": "insamling",
+        "context": "Temat för årets insamling är ”För psykisk hälsa i krig och kris”.",
+        "options": [
+          "när man städar och samlar skräp",
+          "ett möte där man röstar",
+          "när man samlar in pengar till något viktigt",
+          "en tävling i musik"
+        ],
+        "answer": 2,
+        "explanation": "En insamling är när man ber många människor att ge pengar till ett visst ändamål."
+      },
+      {
+        "word": "litar på",
+        "context": "Och de flesta litar på svaren som AI ger.",
+        "options": [
+          "skrattar åt",
+          "glömmer bort",
+          "tror att något stämmer",
+          "är rädda för"
+        ],
+        "answer": 2,
+        "explanation": "Att lita på något betyder att man tror att det är sant eller pålitligt."
+      }
+    ],
+    "discussion": [
+      {
+        "q": "Varför tror du att det finns en lag mot diskriminering i Sverige? Hur kan det kännas att bli nekad något på grund av en funktionsnedsättning?",
+        "tips": "Prata om att diskrimineringslagen har sju diskrimineringsgrunder, bland annat funktionsnedsättning, ålder, kön och religion. Förklara vad en assistanshund gör och varför den behöver få följa med sin ägare. Låt eleverna fundera på vad man kan göra om man blir diskriminerad, till exempel kontakta DO.",
+        "news": 1
+      },
+      {
+        "q": "Skulle du köpa pizza från en automat? Vilka fördelar och nackdelar finns det när maskiner gör jobb som människor brukar göra?",
+        "tips": "Ta upp exempel som eleverna känner igen, till exempel självutcheckning i butiker och beställningsskärmar på snabbmatsrestauranger. Samtalet kan handla om pris, tillgänglighet, jobb, kontakt mellan människor och småföretagares situation.",
+        "news": 2
+      },
+      {
+        "q": "Musikhjälpen samlar in pengar för psykisk hälsa i krig och kris. Varför tror du att människor vill ge pengar till insamlingar? Hur kan man stötta någon som mår dåligt?",
+        "tips": "Håll samtalet allmänt och tryggt. Prata om varför psykisk hälsa är lika viktig som fysisk hälsa. Påminn om att elevhälsan finns på skolan om någon vill prata. Eleverna kan också diskutera andra sätt att hjälpa till, till exempel att engagera sig ideellt.",
+        "news": 3
+      },
+      {
+        "q": "Använder du AI? Till vad? Hur kan du kontrollera att svaren från AI stämmer?",
+        "tips": "Låt eleverna ge exempel på hur de använder AI i skolan och på fritiden. Prata om att AI kan ge felaktiga svar som låter säkra och om hur man kan jämföra med andra källor. Ta gärna upp skolans regler för AI.",
+        "news": 5
+      }
+    ]
+  }
+}
