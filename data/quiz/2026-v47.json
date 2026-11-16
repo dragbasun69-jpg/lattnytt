@@ -3,16 +3,16 @@
   "year": 2026,
   "week": 47,
   "title": "Nyhetsquiz vecka 47",
-  "period": "9–13 november 2026",
+  "period": "9–16 november 2026",
   "siteUrl": "https://dragbasun69-jpg.github.io/lattnytt/",
-  "created": "2026-11-16T05:12:40.986Z",
+  "created": "2026-11-16T10:32:40.096Z",
   "model": "manuellt",
-  "teacherIntro": "Veckans quiz bygger på sex nyheter från 9–13 november 2026 med olika ämnen: diskriminering, en pizzaautomat, Musikhjälpen, snöoväder i Norrland, AI i vardagen och nya fredssamtal om Ukraina. Eleverna letar upp nyheterna på Lätt nytt och svarar med hjälp av rubrik och ingress. Ordfrågorna och diskussionsfrågorna kan användas för att fördjupa samtalet.",
+  "teacherIntro": "Veckans quiz bygger på sex nyheter som inte fanns med i förra veckans quiz: diskriminering av en flicka med assistanshund, stoppade flyg i USA, regnskog i Sverige, svenska dataspel, parahandboll i Forshaga och delad läsning på bibliotek. Eleverna letar upp nyheterna på Lätt nytt och svarar med hjälp av rubrik och ingress.",
   "lessonTips": [
     "Låt eleverna arbeta i par: en söker upp nyheten på sajten och den andra läser frågan högt.",
     "Gå igenom ordfrågorna innan eleverna börjar, så att svåra ord inte stoppar läsningen.",
-    "Avsluta med en eller två diskussionsfrågor i helklass eller i små grupper.",
-    "Be eleverna välja en nyhet och skriva tre egna meningar om den med egna ord."
+    "Gå igenom svaren tillsammans och be eleverna visa var i rubriken eller ingressen svaret står.",
+    "Avsluta med en eller två diskussionsfrågor i små grupper."
   ],
   "news": [
     {
@@ -26,48 +26,48 @@
     },
     {
       "n": 2,
-      "title": "Pizzaautomat oroar pizzabagare",
-      "studentSummary": "På ett torg i Halmstad kan man köpa pizza i en automat. En del tycker att den är bra. Flera pizzabagare är oroliga för att automaten tar kunder från deras restauranger.",
-      "teacherBackground": "Halmstad ligger i Halland på västkusten, och P4 Halland är Sveriges Radios lokala kanal där. Automater och ny teknik har länge förändrat arbetslivet, till exempel självutcheckning i butiker och biljettautomater. Nyheten kan kopplas till samtal om hur teknik påverkar jobb och småföretag.",
-      "source": "Radio Sweden på lätt svenska",
-      "link": "https://www.sverigesradio.se/artikel/9340670",
-      "originalTitle": "Automat som bakar pizza väcker oro hos pizzabagare"
+      "title": "Tusentals flyg stoppades i USA",
+      "studentSummary": "Många tusen flyg blev stoppade i USA i fredags. Det berodde på att man bytte den teknik som styr flygen.",
+      "teacherBackground": "Flygtrafiken styrs av flygledare som använder avancerade tekniska system för att hålla ordning på planen i luften och på marken. När sådana system byts ut eller slutar fungera kan många flyg behöva vänta eller ställas in, även långt bort från platsen där problemet finns. Kontrollera gärna i artikeln vilka flygplatser som drabbades.",
+      "source": "8 Sidor",
+      "link": "https://8sidor.se/varlden/2026/11/manga-flyg-i-usa-stoppade/",
+      "originalTitle": "Många flyg i USA stoppade"
     },
     {
       "n": 3,
-      "title": "De leder Musikhjälpen i år",
-      "studentSummary": "Fahra Abadi, Assia Dahir och Hampus Hedström leder Musikhjälpen i år. I slutet av november går de in i en bur på Stora torget i Linköping och samlar in pengar i en vecka. Temat är ”För psykisk hälsa i krig och kris”.",
-      "teacherBackground": "Musikhjälpen är en årlig insamling som Sveriges Radio och SVT gör tillsammans med Radiohjälpen. Programledarna sitter i en glasbur i en vecka och sänder dygnet runt, och publiken kan önska låtar mot ett bidrag. Insamlingen har ett nytt tema varje år. Linköping ligger i Östergötland.",
-      "source": "Klartext",
-      "link": "https://www.sverigesradio.se/artikel/9340435",
-      "originalTitle": "De leder Musikhjälpen"
+      "title": "Forskare har hittat regnskog i Sverige",
+      "studentSummary": "Forskare har hittat regnskog i Sverige. I skogen finns flera ovanliga växter.",
+      "teacherBackground": "Regnskog förknippas oftast med varma länder nära ekvatorn, men det finns också regnskog i kallare delar av världen där det regnar mycket, till exempel längs Norges kust. Sådan skog kallas ibland tempererad eller boreal regnskog och har ofta mycket mossor och lavar. Kontrollera i artikeln var i Sverige skogen finns.",
+      "source": "8 Sidor",
+      "link": "https://8sidor.se/sverige/2026/11/svensk-regnskog-hittad/",
+      "originalTitle": "Svensk regnskog hittad"
     },
     {
       "n": 4,
-      "title": "SMHI varnar för snöoväder i norr",
-      "studentSummary": "SMHI varnar för snöoväder från söder om Skellefteå och uppåt längs kusten. Det kan komma omkring 80 centimeter snö och blåsa mycket. Varningen gäller från torsdag eftermiddag till sent fredag kväll.",
-      "teacherBackground": "SMHI, Sveriges meteorologiska och hydrologiska institut, är den myndighet som gör väderprognoser och vädervarningar i Sverige. Varningarna har tre nivåer: gul, orange och röd. Mycket snö och stark vind kan ge dålig sikt, snödrev och svåra vägar. Skellefteå ligger i Västerbotten.",
-      "source": "Klartext",
-      "link": "https://www.sverigesradio.se/artikel/9339723",
-      "originalTitle": "Varning för snöoväder i norra Sverige"
+      "title": "Svenska dataspel är populära",
+      "studentSummary": "Många företag i Sverige jobbar med dataspel. De gör populära spel och säljer för mycket pengar.",
+      "teacherBackground": "Sverige har en stor spelbransch med många kända företag. Ett känt exempel är Minecraft, som skapades av ett svenskt företag. Spelbranschen ger jobb inom bland annat programmering, grafik, ljud och berättande.",
+      "source": "8 Sidor",
+      "link": "https://8sidor.se/kultur/2026/11/svenska-spel-ar-populara/",
+      "originalTitle": "Svenska spel är populära"
     },
     {
       "n": 5,
-      "title": "Allt fler använder AI",
-      "studentSummary": "En ny undersökning visar att tre av fyra personer i Sverige använder AI varje vecka eller oftare. De flesta litar på svaren som AI ger.",
-      "teacherBackground": "Under de senaste åren har AI-tjänster som chattbotar blivit vanliga i skola, arbete och vardag. AI kan ge svar som låter säkra men som är fel, därför är källkritik viktig. Nyheten passar bra för ett samtal om när man kan lita på AI och hur man kontrollerar svar.",
-      "source": "Radio Sweden på lätt svenska",
-      "link": "https://www.sverigesradio.se/artikel/9338818",
-      "originalTitle": "Allt fler använder AI"
+      "title": "Forshaga får parahandboll",
+      "studentSummary": "Handbollsklubben i Forshaga i Värmland ska för första gången spela seriematcher i parahandboll. Christian Brandt och Linda Bergman ser fram emot matcherna och vill ha kul och peppa varandra.",
+      "teacherBackground": "Parasport är idrott för personer med funktionsnedsättning, och många idrotter har en paraform. Forshaga ligger i Värmland, nära Karlstad. Nyheten passar för ett samtal om att idrott ska vara till för alla och om glädjen i att träna tillsammans.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9339061",
+      "originalTitle": "Linda och Christian laddar inför matcherna: ”Vi ska ha kul”"
     },
     {
       "n": 6,
-      "title": "Ukraina vill ha Europa med i fredssamtal",
-      "studentSummary": "Det ska bli nya samtal om fred. Ukrainas ledare vill att Europa ska vara med i samtalen.",
-      "teacherBackground": "Rysslands fullskaliga invasion av Ukraina började i februari 2022. Under kriget har det vid flera tillfällen förts samtal om fred, och europeiska länder har velat ha en roll i dem. Läget förändras snabbt, så kontrollera gärna de senaste uppgifterna i en nyhetskälla innan lektionen.",
-      "source": "8 Sidor",
-      "link": "https://8sidor.se/varlden/2026/11/nya-samtal-om-fred/",
-      "originalTitle": "Nya samtal om fred"
+      "title": "Lättare att läsa tillsammans",
+      "studentSummary": "Petra Romberg och Susan Båge har skrivit en bok med korta texter som ska användas i delad läsning, shared reading. Då träffas personer, ofta på bibliotek, och lyssnar när någon läser en text högt.",
+      "teacherBackground": "Delad läsning är en metod där en grupp lyssnar på en text som läses högt och sedan pratar om den. Många bibliotek i Sverige har sådana läsgrupper. Metoden kan passa personer som tycker att det är svårt eller tråkigt att läsa själva.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9337344",
+      "originalTitle": "Lättare att läsa när man gör det tillsammans: ”Jag lär mig så mycket”"
     }
   ],
   "questions": {
@@ -85,63 +85,63 @@
         "news": 1
       },
       {
-        "q": "Nyheten om pizzaautomaten i Halmstad: Varför är flera pizzabagare oroliga?",
+        "q": "Nyheten om flygen i USA: Varför stoppades många tusen flyg i fredags?",
         "options": [
-          "De tror att pizzan från automaten är farlig att äta",
-          "De är rädda att de måste betala för automaten",
-          "De tycker att automaten låter för mycket på torget",
-          "De tror att automaten kan ta kunder från deras restauranger"
+          "Det var en kraftig storm över landet",
+          "Flygplatserna hade slut på bränsle",
+          "Piloterna strejkade för högre lön",
+          "Man bytte den teknik som styr flygen"
         ],
         "answer": 3,
-        "explanation": "Ingressen säger att pizzabagarna tror att automaten kan ta kunder från deras restauranger.",
+        "explanation": "Ingressen säger att flygen stoppades för att man bytte tekniken som styr flygen.",
         "news": 2
       },
       {
-        "q": "Nyheten om Musikhjälpen: Vad handlar årets insamling om?",
+        "q": "Nyheten om skogen som forskare har hittat: Vad är speciellt med den?",
         "options": [
-          "Psykisk hälsa i krig och kris",
-          "Rent vatten i länder med torka",
-          "Djur som har blivit övergivna",
-          "Barn som inte får gå i skolan"
+          "Det är en regnskog med flera ovanliga växter",
+          "Alla träd i skogen har dött",
+          "Det är den äldsta skogen i Europa",
+          "Den växer bara på vintern"
         ],
         "answer": 0,
-        "explanation": "Temat för årets insamling är ”För psykisk hälsa i krig och kris”.",
+        "explanation": "Rubriken och ingressen säger att forskare har hittat regnskog i Sverige och att det finns flera ovanliga växter där.",
         "news": 3
       },
       {
-        "q": "Nyheten om SMHI:s varning för snöoväder: Var i Sverige gäller varningen?",
+        "q": "Nyheten om svenska dataspel: Vad kan man säga om svenska spelföretag enligt nyheten?",
         "options": [
-          "Från söder om Skellefteå och uppåt längs kusten",
-          "I fjällen i västra Jämtland",
-          "Längs kusten i Skåne",
-          "I Stockholm och runt Mälaren"
+          "De gör populära spel och tjänar mycket pengar",
+          "De gör bara spel för små barn",
+          "De flesta har flyttat till andra länder",
+          "De säljer nästan inga spel"
         ],
         "answer": 0,
-        "explanation": "Ingressen säger att SMHI varnar för snöoväder från söder om Skellefteå och uppåt längs kusten.",
+        "explanation": "Ingressen säger att företagen gör populära spel och säljer för mycket pengar.",
         "news": 4
       },
       {
-        "q": "Nyheten om att allt fler använder AI: Vilket påstående stämmer med undersökningen?",
+        "q": "Nyheten om handbollsklubben i Forshaga: Vad händer för första gången i helgen?",
         "options": [
-          "Tre av fyra i Sverige använder AI minst en gång i veckan",
-          "De flesta i Sverige litar inte på svaren från AI",
-          "Bara en av fyra i Sverige har provat AI",
-          "Färre personer använder AI nu än tidigare"
+          "Klubben spelar sin sista match någonsin",
+          "Klubben spelar seriematcher i parahandboll",
+          "Klubben får en ny tränare från Norge",
+          "Klubben spelar en match i ett annat land"
         ],
-        "answer": 0,
-        "explanation": "Enligt ingressen använder tre av fyra AI varje vecka eller oftare, och de flesta litar på svaren. Allt fler använder AI.",
+        "answer": 1,
+        "explanation": "Ingressen säger att klubben för första gången ska ha seriematcher i parahandboll i helgen.",
         "news": 5
       },
       {
-        "q": "Nyheten om nya samtal om fred: Vad vill Ukrainas ledare?",
+        "q": "Nyheten om delad läsning: Hur går delad läsning till?",
         "options": [
-          "Att inga andra länder ska vara med",
-          "Att Europa ska vara med i samtalen",
-          "Att samtalen ska hållas i Sverige",
-          "Att samtalen ska vänta ett år"
+          "Man träffas och lyssnar när någon läser en text högt",
+          "Man tävlar om vem som läser snabbast",
+          "Man läser ensam hemma och skriver en recension",
+          "Man skriver en bok tillsammans på nätet"
         ],
-        "answer": 1,
-        "explanation": "Ingressen säger att Ukrainas ledare vill att Europa ska vara med i nya samtal om fred.",
+        "answer": 0,
+        "explanation": "Ingressen förklarar att personer träffas och lyssnar när läsledaren eller någon annan läser en text högt.",
         "news": 6
       }
     ],
@@ -159,40 +159,40 @@
         "explanation": "Diskrimineringsersättning är pengar som den som blivit diskriminerad kan få av den som diskriminerat."
       },
       {
-        "word": "väcker oro",
-        "context": "Automat som bakar pizza väcker oro hos pizzabagare.",
+        "word": "ovanliga",
+        "context": "Forskare har hittat regnskog i Sverige. Där finns flera ovanliga växter.",
         "options": [
-          "gör att någon blir hungrig",
-          "gör att någon vaknar tidigt",
-          "gör att någon blir orolig",
-          "gör någon glad och nöjd"
+          "som man kan äta",
+          "som inte finns på många ställen",
+          "giftiga",
+          "mycket stora"
         ],
-        "answer": 2,
-        "explanation": "Att något väcker oro betyder att det gör människor oroliga eller rädda för vad som ska hända."
+        "answer": 1,
+        "explanation": "Något som är ovanligt finns det inte mycket av, eller så finns det bara på några få platser."
       },
       {
-        "word": "insamling",
-        "context": "Temat för årets insamling är ”För psykisk hälsa i krig och kris”.",
+        "word": "seriematcher",
+        "context": "För första gången ska handbollsklubben i Forshaga i Värmland ha seriematcher i parahandboll i helgen.",
         "options": [
-          "när man städar och samlar skräp",
-          "ett möte där man röstar",
-          "när man samlar in pengar till något viktigt",
-          "en tävling i musik"
+          "matcher som spelas utomhus",
+          "matcher där lag möter varandra i en serie under en säsong",
+          "matcher som bara är träning",
+          "matcher som man ser på tv"
         ],
-        "answer": 2,
-        "explanation": "En insamling är när man ber många människor att ge pengar till ett visst ändamål."
+        "answer": 1,
+        "explanation": "I en serie spelar flera lag mot varandra under en säsong och samlar poäng. Matcherna kallas seriematcher."
       },
       {
-        "word": "litar på",
-        "context": "Och de flesta litar på svaren som AI ger.",
+        "word": "peppa",
+        "context": "”Ja, vi ska ha kul och peppa varandra”, säger Linda.",
         "options": [
-          "skrattar åt",
-          "glömmer bort",
-          "tror att något stämmer",
-          "är rädda för"
+          "tävla mot",
+          "lära känna",
+          "uppmuntra och ge energi",
+          "skämta om"
         ],
         "answer": 2,
-        "explanation": "Att lita på något betyder att man tror att det är sant eller pålitligt."
+        "explanation": "Att peppa någon betyder att uppmuntra personen så att hen får mer energi och mod."
       }
     ],
     "discussion": [
@@ -202,19 +202,19 @@
         "news": 1
       },
       {
-        "q": "Skulle du köpa pizza från en automat? Vilka fördelar och nackdelar finns det när maskiner gör jobb som människor brukar göra?",
-        "tips": "Ta upp exempel som eleverna känner igen, till exempel självutcheckning i butiker och beställningsskärmar på snabbmatsrestauranger. Samtalet kan handla om pris, tillgänglighet, jobb, kontakt mellan människor och småföretagares situation.",
-        "news": 2
+        "q": "Spelar du dataspel? Varför tror du att spel från Sverige blir populära i hela världen? Skulle du vilja jobba med spel?",
+        "tips": "Låt eleverna berätta om spel de gillar. Prata om vilka jobb som finns i spelbranschen, till exempel programmerare, grafiker, ljuddesigner och manusförfattare. Samtalet kan också handla om för- och nackdelar med att spela mycket.",
+        "news": 4
       },
       {
-        "q": "Musikhjälpen samlar in pengar för psykisk hälsa i krig och kris. Varför tror du att människor vill ge pengar till insamlingar? Hur kan man stötta någon som mår dåligt?",
-        "tips": "Håll samtalet allmänt och tryggt. Prata om varför psykisk hälsa är lika viktig som fysisk hälsa. Påminn om att elevhälsan finns på skolan om någon vill prata. Eleverna kan också diskutera andra sätt att hjälpa till, till exempel att engagera sig ideellt.",
-        "news": 3
-      },
-      {
-        "q": "Använder du AI? Till vad? Hur kan du kontrollera att svaren från AI stämmer?",
-        "tips": "Låt eleverna ge exempel på hur de använder AI i skolan och på fritiden. Prata om att AI kan ge felaktiga svar som låter säkra och om hur man kan jämföra med andra källor. Ta gärna upp skolans regler för AI.",
+        "q": "Varför är det viktigt att alla kan få träna och spela i ett lag? Vad kan man göra för att idrott ska passa alla?",
+        "tips": "Utgå från att Linda och Christian vill ha kul och peppa varandra. Prata om gemenskap, hälsa och glädje. Eleverna kan ge exempel på hur föreningar, skolor eller kommuner kan göra idrott tillgänglig för fler.",
         "news": 5
+      },
+      {
+        "q": "Är det lättare att förstå en text när man läser tillsammans med andra? Hur läser du helst – själv, högt, med ljudbok eller i grupp?",
+        "tips": "Låt eleverna jämföra olika sätt att läsa. Prata om att samtal om en text kan hjälpa en att förstå svåra ord och tankar. Tipsa gärna om skolbibliotekets eller kommunbibliotekets läsgrupper.",
+        "news": 6
       }
     ]
   }
