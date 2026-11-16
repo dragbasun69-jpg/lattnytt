@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Dans hjälper äldre med beroende",
+      "link": "https://www.sverigesradio.se/artikel/9342486",
+      "summary": "Äldre patienter som var beroende av alkohol eller droger fick dansa som hjälp för att må bättre. Under fem år fick de träna dans. Kjell som är nykter alkoholist valde att fortsätta med dansen.",
+      "date": "2026-11-16T10:39:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/b102aa4e-4d69-40ab-999e-e80050378099.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-16T11:35:21.506Z"
+    },
+    {
       "title": "Svenska spel är populära",
       "link": "https://8sidor.se/kultur/2026/11/svenska-spel-ar-populara/",
       "summary": "Många företag i Sverige jobbar med dataspel. De gör populära spel och säljer för mycket pengar.",
@@ -35,7 +45,7 @@
       "link": "https://8sidor.se/varlden/2026/11/xi-moter-trump-och-putin/",
       "summary": "Kinas ledare Xi Jinping ska möta USAs ledare Trump och ryska ledaren Putin. Mötet blir i slutet på veckan.",
       "date": "2026-11-16T09:04:28.000Z",
-      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "image": "https://8sidor.se/app/uploads/2026/11/xi-trump-putin.jpg",
       "source": "8 Sidor",
       "sourceId": "8sidor",
       "firstSeen": "2026-11-16T09:51:51.828Z"
