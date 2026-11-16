@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:33:56.429Z",
+  "updated": "2026-11-16T09:51:51.830Z",
   "sources": [
     {
       "id": "8sidor",
@@ -22,6 +22,116 @@
   ],
   "items": [
     {
+      "title": "Svenska spel är populära",
+      "link": "https://8sidor.se/kultur/2026/11/svenska-spel-ar-populara/",
+      "summary": "Många företag i Sverige jobbar med dataspel. De gör populära spel och säljer för mycket pengar.",
+      "date": "2026-11-16T09:41:28.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/spelbild.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-0"
+    },
+    {
+      "title": "Många flyg i USA stoppade",
+      "link": "https://8sidor.se/varlden/2026/11/manga-flyg-i-usa-stoppade/",
+      "summary": "Många tusen flyg blev stoppade i USA i fredags. Det berodde på att de bytte tekniken som styr flygen.",
+      "date": "2026-11-16T09:18:06.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/flygplats.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-1"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 16 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-16-november-5/",
+      "summary": "",
+      "date": "2026-11-16T09:13:43.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-2"
+    },
+    {
+      "title": "Xi möter Trump och Putin",
+      "link": "https://8sidor.se/varlden/2026/11/xi-moter-trump-och-putin/",
+      "summary": "Kinas ledare Xi Jinping ska möta USAs ledare Trump och ryska ledaren Putin. Mötet blir i slutet på veckan.",
+      "date": "2026-11-16T09:04:28.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-3"
+    },
+    {
+      "title": "Hala vägar i norr",
+      "link": "https://8sidor.se/sverige/2026/11/hala-vagar-i-norr/",
+      "summary": "Det är varning för hala vägar med is i Västerbotten och Västernorrland.",
+      "date": "2026-11-16T08:55:40.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/halka.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-4"
+    },
+    {
+      "title": "Svensk regnskog hittad",
+      "link": "https://8sidor.se/sverige/2026/11/svensk-regnskog-hittad/",
+      "summary": "Forskare har hittat regnskog i Sverige. Där finns flera ovanliga växter.",
+      "date": "2026-11-16T08:52:19.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/regnskog-webb.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-5"
+    },
+    {
+      "title": "Bebis frös ihjäl i Gaza",
+      "link": "https://8sidor.se/varlden/2026/11/bebis-fros-ihjal-i-gaza/",
+      "summary": "En bebis och flera andra har dött efter oväder i Gaza. Nu måste Israel släppa in hjälp, säger EU.",
+      "date": "2026-11-16T08:51:42.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261114-mogazahjalp1-dbfcd972-a001nh.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-6"
+    },
+    {
+      "title": "Partiet vill ha Andersson",
+      "link": "https://8sidor.se/politik/2026/11/partiet-vill-ha-andersson/",
+      "summary": "Centerpartiet vill ha en regering med Socialdemokraterna. Men de säger fortfarande nej till Vänsterpartiet i regeringen.",
+      "date": "2026-11-16T08:44:19.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/Centerpartiet.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-7"
+    },
+    {
+      "title": "Tidig jul i affärerna",
+      "link": "https://8sidor.se/din-vardag/2026/11/tidig-jul-i-affarerna/",
+      "summary": "Julen börjar tidigare i många affärer. Nu har många affärer tagit fram saker för julen.",
+      "date": "2026-11-16T08:38:25.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/jul1.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-8"
+    },
+    {
+      "title": "Spännande i Solna",
+      "link": "https://8sidor.se/sport/2026/11/spannande-i-solna/",
+      "summary": "Det blev en spännande match i Solna. Men till slut kunde Sveriges herrar vinna mot Bosnien Hercegovina.",
+      "date": "2026-11-16T08:36:40.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261116_nationsleague.jpg",
+      "sourceId": "8sidor",
+      "source": "8 Sidor",
+      "color": "#d62828",
+      "id": "8sidor-9"
+    },
+    {
       "title": "DO: Väktare diskriminerade flicka med assistanshund",
       "link": "https://www.sverigesradio.se/artikel/9340708",
       "summary": "Ett vaktbolag diskriminerade en flicka med assistanshund. Det säger myndigheten Diskiminerings-ombudsmannen, DO. Nu vill DO att bolaget ska betala 20 000 kronor i diskriminerings-ersättning till flickan.",
@@ -30,7 +140,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-0"
+      "id": "klartext-10"
     },
     {
       "title": "Automat som bakar pizza väcker oro hos pizzabagare",
@@ -41,7 +151,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-1"
+      "id": "radiosweden-11"
     },
     {
       "title": "Kommunen stoppade smink och hudvårdsprodukter i butiker i Södertälje",
@@ -52,7 +162,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-2"
+      "id": "radiosweden-12"
     },
     {
       "title": "De leder Musikhjälpen",
@@ -63,7 +173,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-3"
+      "id": "klartext-13"
     },
     {
       "title": "Advokater protesterar mot nya regler för asylsökande",
@@ -74,7 +184,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-4"
+      "id": "radiosweden-14"
     },
     {
       "title": "Stefan Holm kan straffas",
@@ -85,7 +195,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-5"
+      "id": "8sidor-15"
     },
     {
       "title": "Centerpartiet ska bestämma sig",
@@ -96,7 +206,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-6"
+      "id": "8sidor-16"
     },
     {
       "title": "Mycket snö i Norrland – problem på vägarna",
@@ -107,7 +217,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-7"
+      "id": "radiosweden-17"
     },
     {
       "title": "De fixade egna resor när personalregler satte stopp: ”Jättekul”",
@@ -118,7 +228,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-8"
+      "id": "klartext-18"
     },
     {
       "title": "Nya samtal om fred",
@@ -129,7 +239,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-9"
+      "id": "8sidor-19"
     },
     {
       "title": "Hunden Hjördis får pris",
@@ -140,7 +250,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-10"
+      "id": "8sidor-20"
     },
     {
       "title": "Politiker slutar i riksdagen",
@@ -151,7 +261,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-11"
+      "id": "8sidor-21"
     },
     {
       "title": "Nyheter på lätt svenska den 13 november",
@@ -162,7 +272,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-12"
+      "id": "8sidor-22"
     },
     {
       "title": "Poliserna varnar för snön",
@@ -173,7 +283,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-13"
+      "id": "8sidor-23"
     },
     {
       "title": "Hon fick inte skriva fritt",
@@ -184,7 +294,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-14"
+      "id": "8sidor-24"
     },
     {
       "title": "Dag med fotboll på schemat",
@@ -195,7 +305,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-15"
+      "id": "8sidor-25"
     },
     {
       "title": "Lätt att laga vego",
@@ -206,7 +316,7 @@
       "sourceId": "8sidor",
       "source": "8 Sidor",
       "color": "#d62828",
-      "id": "8sidor-16"
+      "id": "8sidor-26"
     },
     {
       "title": "Vänsterpartiet kräver fortfarande att få vara med i en regering",
@@ -217,7 +327,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-17"
+      "id": "radiosweden-27"
     },
     {
       "title": "Så vill övergångsregeringen använda Sveriges pengar",
@@ -228,7 +338,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-18"
+      "id": "klartext-28"
     },
     {
       "title": "Varning för snöoväder i norra Sverige",
@@ -239,7 +349,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-19"
+      "id": "klartext-29"
     },
     {
       "title": "Sista träffen för Seniorexperterna: ”Jag känner mig stolt”",
@@ -250,7 +360,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-20"
+      "id": "klartext-30"
     },
     {
       "title": "Finansministern presenterade budget utan nya satsningar",
@@ -261,7 +371,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-21"
+      "id": "radiosweden-31"
     },
     {
       "title": "Kritik mot stort AI-datacenter i Skellefteå",
@@ -272,7 +382,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-22"
+      "id": "radiosweden-32"
     },
     {
       "title": "Svenskt medborgarskap kan tas tillbaka i vissa fall",
@@ -283,7 +393,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-23"
+      "id": "radiosweden-33"
     },
     {
       "title": "Slagsmål när många ville få gratis choklad",
@@ -294,7 +404,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-24"
+      "id": "klartext-34"
     },
     {
       "title": "Linda och Christian laddar inför matcherna: ”Vi ska ha kul”",
@@ -305,7 +415,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-25"
+      "id": "klartext-35"
     },
     {
       "title": "Mycket snö kan falla i veckan – SMHI varnar",
@@ -316,7 +426,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-26"
+      "id": "klartext-36"
     },
     {
       "title": "300 skolor i Italien stängde efter bluffmejl om bombhot",
@@ -327,7 +437,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-27"
+      "id": "klartext-37"
     },
     {
       "title": "Varning för kraftigt snöfall i delar av Sverige",
@@ -338,7 +448,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-28"
+      "id": "radiosweden-38"
     },
     {
       "title": "Allt fler använder AI",
@@ -349,7 +459,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-29"
+      "id": "radiosweden-39"
     },
     {
       "title": "Granskning: Imamer erbjöd hjälp till män att skaffa flera fruar",
@@ -360,7 +470,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-30"
+      "id": "radiosweden-40"
     },
     {
       "title": "Så sparar du på elen",
@@ -371,7 +481,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-31"
+      "id": "radiosweden-41"
     },
     {
       "title": "Jenny julpyntar huset med 800 tomtar redan i november",
@@ -382,7 +492,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-32"
+      "id": "radiosweden-42"
     },
     {
       "title": "Höga elpriser i södra Sverige – Maria sparar på värmen",
@@ -393,7 +503,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-33"
+      "id": "klartext-43"
     },
     {
       "title": "Polisen tar mer saker från kriminella",
@@ -404,7 +514,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-34"
+      "id": "radiosweden-44"
     },
     {
       "title": "Vera var hemmasittare – nu går hon på folkhögskola: ”Det känns lätt”",
@@ -415,7 +525,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-35"
+      "id": "klartext-45"
     },
     {
       "title": "Drömmen blev sann – Daniel, 47, fick spela för Malmö FF",
@@ -426,7 +536,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-36"
+      "id": "klartext-46"
     },
     {
       "title": "Fler kvinnor med utländsk bakgrund startar företag",
@@ -437,7 +547,7 @@
       "sourceId": "radiosweden",
       "source": "Radio Sweden på lätt svenska",
       "color": "#1d4e89",
-      "id": "radiosweden-37"
+      "id": "radiosweden-47"
     },
     {
       "title": "Magdalena Andersson (S) vill bilda regering med C och MP",
@@ -448,7 +558,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-38"
+      "id": "klartext-48"
     },
     {
       "title": "Lättare att läsa när man gör det tillsammans: ”Jag lär mig så mycket”",
@@ -459,7 +569,7 @@
       "sourceId": "klartext",
       "source": "Klartext",
       "color": "#2a9d8f",
-      "id": "klartext-39"
+      "id": "klartext-49"
     }
   ]
 }
