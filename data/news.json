@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:26:29.276Z",
+  "updated": "2026-11-17T07:41:06.725Z",
   "sources": [
     {
       "id": "8sidor",
@@ -10,14 +10,14 @@
     {
       "id": "radiosweden",
       "name": "Radio Sweden på lätt svenska",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "error": "This operation was aborted"
     },
     {
       "id": "klartext",
       "name": "Klartext",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "error": "This operation was aborted"
     }
   ],
   "items": [
