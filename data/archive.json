@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "title": "Nyheter på lätt svenska den 17 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-17-november-6/",
+      "summary": "",
+      "date": "2026-11-17T09:14:28.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Epstein kan ha blivit mördad",
+      "link": "https://8sidor.se/varlden/2026/11/epstein-kan-ha-blivit-mordad/",
+      "summary": "Sexbrottslingen Jeffrey Epstein dog i ett fängelse år 2019. Nu säger forskare att han kan ha blivit mördad.",
+      "date": "2026-11-17T09:09:10.000Z",
+      "image": "https://8sidor.se/app/uploads/2021/12/epstein-nh.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Tusentals höns blev dödade",
+      "link": "https://8sidor.se/sverige/2026/11/tusentals-hons-blev-dodade/",
+      "summary": "En gård i Halland blev tvungen att döda 200 tusen höns. Djuren hade blivit smittade av ett farligt virus.",
+      "date": "2026-11-17T09:05:19.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/231108_hons.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Estelle jobbade med kungen",
+      "link": "https://8sidor.se/sverige/2026/11/estelle-jobbade-med-kungen/",
+      "summary": "Prinsessan Estelles skola har veckor med prao. Estelle har fått jobba med sin morfar kungen.",
+      "date": "2026-11-17T08:57:45.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/estelle-prao-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Pingviner får vaccin",
+      "link": "https://8sidor.se/varlden/2026/11/pingviner-far-vaccin/",
+      "summary": "Australien vaccinerar fem tusen dvärgpingviner. Vaccinet ska skydda djuren mot ett farligt virus.",
+      "date": "2026-11-17T08:56:07.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/ab1a3d7d-5f1a-387c-8b8c-944a5120ada9-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Politiker ändrar sig",
+      "link": "https://8sidor.se/politik/2026/11/politiker-andrar-sig-2/",
+      "summary": "Sverigedemokraten Rasmus Giertz skulle sluta i riksdagen. Nu har han ändrat sig.",
+      "date": "2026-11-17T08:41:15.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261113_giertz.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
+      "title": "Medalj i ishockey",
+      "link": "https://8sidor.se/sport/2026/11/medalj-i-ishockey/",
+      "summary": "Sveriges damer tog medalj i VM i ishockey. De vann mot Finland i matchen om brons.",
+      "date": "2026-11-17T07:40:46.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261117_damkronorna.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-17T09:18:56.867Z"
+    },
+    {
       "title": "Hundarnas rastgård ska bli tillgänglig för alla",
       "link": "https://www.sverigesradio.se/artikel/9343869",
       "summary": "Viveka och Johan Heilborn i Östersund ska se till att en hundrastgård där blir tillgänglig för alla. I en hundrastgård kan hundarna springa fritt och leka. Där behöver hundägarna inte vara oroliga att deras hund ska rymma.",
@@ -65,7 +135,7 @@
       "link": "https://www.sverigesradio.se/artikel/9342486",
       "summary": "Äldre patienter som var beroende av alkohol eller droger fick dansa som hjälp för att må bättre. Under fem år fick de träna dans. Kjell som är nykter alkoholist valde att fortsätta med dansen.",
       "date": "2026-11-16T10:39:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/b102aa4e-4d69-40ab-999e-e80050378099.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-16T11:35:21.506Z"
@@ -185,7 +255,7 @@
       "link": "https://www.sverigesradio.se/artikel/9340670",
       "summary": "I Halmstad kan man köpa pizza i en automat som står på ett torg. Det har väckt olika känslor hos människor. En del tycker att den är bra. Men flera pizzabagare är oroliga. De tror att automaten kan ta kunder från deras restauranger. Det rapporterar P4 Halland.",
       "date": "2026-11-13T15:22:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/41e3de5e-c59a-4c15-864f-d38023e3ec36.png?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -195,7 +265,7 @@
       "link": "https://www.sverigesradio.se/artikel/9340526",
       "summary": "I Södertälje har kommunen förbjudit butiker att sälja flera smink- och hudvårdsprodukter. Det rapporterar SVT Södertälje.",
       "date": "2026-11-13T14:35:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/5da07482-6803-4660-9f75-76a0549d1ea8.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -215,7 +285,7 @@
       "link": "https://www.sverigesradio.se/artikel/9340478",
       "summary": "Asylsökande får inte längre en egen jurist när de söker asyl. Sedan i somras får de i stället bara några timmar med allmän juridisk rådgivning. Men hjälpen handlar inte om deras eget ärende. Det har fått många migrationsadvokater att protestera.",
       "date": "2026-11-13T13:20:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/207e5eca-272d-417c-8f04-eb7559346e70.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -345,7 +415,7 @@
       "link": "https://www.sverigesradio.se/artikel/9339845",
       "summary": "Vänsterpartiet säger att de kan förhandla med Centerpartiet, för att kunna bilda en regering med de rödgröna partierna. Men Vänsterpartiet kräver fortfarande att få vara med i regeringen och ha ministrar. Och det har Centerpartiet sagt nej till.",
       "date": "2026-11-12T15:27:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/6d50aa14-14ec-4bab-9d8b-55fa778ab38f.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -385,7 +455,7 @@
       "link": "https://www.sverigesradio.se/artikel/9339469",
       "summary": "Idag presenterade finansminister Elisabeth Svantesson regeringens förslag på budget. Eftersom Sverige inte har någon ny regering så är det inga stora förändringar i budgeten.",
       "date": "2026-11-12T12:06:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/ab8c5283-6cf2-45a3-b18c-0681a60092cc.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -405,7 +475,7 @@
       "link": "https://www.sverigesradio.se/artikel/9339318",
       "summary": "Riksdagen röstade i går ja till en ändring i grundlagen. Ändringen gör det möjligt att i framtiden ta tillbaka ett svenskt medborgarskap.",
       "date": "2026-11-12T09:23:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/76c52e0d-2006-4b66-844f-5a27ca4d066e.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -455,7 +525,7 @@
       "link": "https://www.sverigesradio.se/artikel/9338929",
       "summary": "I flera delar av Sverige kan vinterns första snö komma de närmsta dagarna. Och vädermyndigheten SMHI varnar för kraftigt snöfall på en del platser.",
       "date": "2026-11-11T15:13:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/ab45394b-041b-476d-9bc7-3587e3880bd3.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -465,7 +535,7 @@
       "link": "https://www.sverigesradio.se/artikel/9338818",
       "summary": "Allt fler använder AI. Tre av fyra personer i Sverige använder AI varje vecka eller oftare. Och de flesta litar på svaren som AI ger. Det visar en ny undersökning från analysbolaget Insight Intelligence.",
       "date": "2026-11-11T15:05:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/2167ee5f-e44e-4c6a-bc16-02f3934e038d.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
@@ -475,7 +545,7 @@
       "link": "https://www.sverigesradio.se/artikel/9338693",
       "summary": "Imamer vid flera stora moskéer i Sverige har erbjudit män hjälp att skaffa en fru till. Det visar SVT:s program Uppdrag Granskning . Det är förbjudet att vara gift med flera personer i Sverige.",
       "date": "2026-11-11T12:36:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/5849cdb8-dfb6-4e29-a365-13bca183ac0a.jpg?w=1200&h=675&q=75",
+      "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
