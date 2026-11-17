@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-17T12:04:19.513Z",
+  "updated": "2026-11-17T13:27:02.021Z",
   "sources": [
     {
       "id": "8sidor",
       "name": "8 Sidor",
-      "ok": true,
-      "count": 10
+      "ok": false,
+      "error": "HTTP 502"
     },
     {
       "id": "radiosweden",
