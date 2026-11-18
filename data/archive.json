@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Årets julklapp är en plats i motionslopp",
+      "link": "https://www.sverigesradio.se/artikel/9345575",
+      "summary": "Årets julklapp är en plats i ett motionslopp. Det säger Handelns utredningsinstitut HUI. Varje år säger HUI vad de tycker är årets julklapp. För några år sedan var sällskapsspel årets julklapp. Andra exempel från tidigare år är tv-spel, spikmatta och hemstickade kläder.",
+      "date": "2026-11-18T15:19:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/524a0f47-db4e-4fa9-b518-8afa5fac886b.jpeg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-18T15:40:06.828Z"
+    },
+    {
+      "title": "Nu ska omröstningar i riksdagen fungera som vanligt igen",
+      "link": "https://www.sverigesradio.se/artikel/9345397",
+      "summary": "Partierna i riksdagen är överens igen om hur omröstningar ska gå till. Det har inte fungerat som vanligt de senaste sex månaderna.",
+      "date": "2026-11-18T15:17:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/4dc50bbb-2c57-4827-940d-b175299534f6.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-18T15:40:06.828Z"
+    },
+    {
+      "title": "Presidenterna i USA, Kina och Ryssland träffas på möte",
+      "link": "https://www.sverigesradio.se/artikel/9345557",
+      "summary": "USA:s president Donald Trump, Kinas president Xi Jinping och Ryssland president Vladimir Putin ska träffas på ett möte under torsdagen. Det blir ett historiskt möte. Mötet med de tre presidenterna börjar på torsdag morgon kinesisk tid. Det är redan natten mot torsdag, svensk tid.",
+      "date": "2026-11-18T15:10:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/55e8ce70-2961-45dd-ac2f-1df23b766075.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-18T15:40:06.828Z"
+    },
+    {
       "title": "Daglig verksamhet i Västervik spelade på Finlandsfärjan",
       "link": "https://www.sverigesradio.se/artikel/9344553",
       "summary": "På den dagliga verksamheten Studio Nostri i Västervik är det nästan alltid sång och musik. Deltagarna har spelat både på äldreboenden och Finlandsfärjan och gjort egna låtar i musikstudion. De tycker att det är roligt att uppträda. ”Man känner sig uppskattad”, säger Emelie Holgersson.",
