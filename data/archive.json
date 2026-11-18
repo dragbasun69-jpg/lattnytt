@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Regeringen vill stoppa ryssar",
+      "link": "https://8sidor.se/sport/2026/11/regeringen-vill-stoppa-ryssar/",
+      "summary": "Sveriges regering vill stoppa ryska idrottare från att komma till Sverige och tävla.",
+      "date": "2026-11-18T14:40:01.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261118_skidor.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-18T14:40:59.862Z"
+    },
+    {
+      "title": "Årets julklapp väcker blandade känslor",
+      "link": "https://www.sverigesradio.se/artikel/9345142",
+      "summary": "Varje år väljer företaget HUI Research ut \"årets julklapp\". I år tycker de att det är ett startnummer i ett motionslopp. Till exempel ett lopp där man springer, åker skidor eller simmar. Att man får ett startnummer betyder att man är anmäld till loppet och att avgiften är betald.",
+      "date": "2026-11-18T14:09:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/646fe175-b7a0-4b17-a03e-c18345b018d2.jpeg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-18T14:40:59.862Z"
+    },
+    {
+      "title": "Partier överens om röstning",
+      "link": "https://8sidor.se/politik/2026/11/partier-overens-om-rostning/",
+      "summary": "Det har varit bråk om hur partierna ska göra när de röstar i riksdagen. Men nu är de överens.",
+      "date": "2026-11-18T13:39:24.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261118_riksdagen.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-18T14:40:59.862Z"
+    },
+    {
       "title": "Alla partier utom SD vill ha lag som stoppar tonårsutvisningar",
       "link": "https://www.sverigesradio.se/artikel/9345104",
       "summary": "Riksdagen har sagt ja till att arbeta vidare med ett förslag. Förslaget är att stoppa vissa utvisningar av unga personer. De kallas ibland tonårsutvisningar.",
