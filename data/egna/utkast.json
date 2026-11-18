@@ -1,3 +1,128 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "2026-11-18-sverige-har-annu-ingen-ny-regering",
+      "title": "Sverige har ännu ingen ny regering",
+      "emoji": "🏛️",
+      "color": "#3b3f8f",
+      "paragraphs": [
+        "Valet till riksdagen var den 13 september. Men partierna har ännu inte kommit överens om en ny regering.",
+        "Talmannen Andreas Norlén leder arbetet med att få fram en ny regering. Den 3 november gav han Ulf Kristersson (M) ett uppdrag. Kristersson skulle ta reda på vilken regering som kan få stöd i riksdagen.",
+        "Den 17 november berättade Kristersson för talmannen hur det går. Han kunde inte ge ett färdigt svar. Centerpartiet förhandlar just nu med Socialdemokraterna, Vänsterpartiet och Miljöpartiet.",
+        "Talmannen gav partierna en vecka till. Den 24 eller 25 november ska han träffa alla partiledare igen. Talmannen vill att Sverige ska ha en ny regering i god tid före jul."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "Talmannen leder arbetet i riksdagen. Efter ett val pratar talmannen med alla partier och föreslår vem som ska bli statsminister."
+      },
+      "sources": [
+        {
+          "title": "Riksdagen: Talmannen har tagit emot rapport från Ulf Kristersson (17 november)",
+          "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/17/talmannen-har-tagit-emot-rapport-fran-ulf_cms0e51d148-fb67-47ff-bd7d-05705c69738fsv/"
+        },
+        {
+          "title": "Riksdagen: Talmannen ger besked om den fortsatta processen (10 november)",
+          "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/10/talmannen-ger-besked-om-den-fortsatta-processen_cms4af359f6-45b3-4573-92ba-f4995b5144dbsv/"
+        },
+        {
+          "title": "TV4: Talmannens besked",
+          "url": "https://www.tv4.se/artikel/qqQc5UedrZViUsvfGp2WX/talmannens-besked-da-ska-en-ny-regering-vara-pa-plats"
+        }
+      ],
+      "written": "2026-11-18T14:40:25.307Z"
+    },
+    {
+      "id": "2026-11-18-larm-i-alla-mobiler-den-7-december",
+      "title": "Larm i alla mobiler den 7 december",
+      "emoji": "📱",
+      "color": "#8f1d2c",
+      "paragraphs": [
+        "Måndagen den 7 december klockan 15.00 kommer många mobiler i Sverige att pipa högt. Det är ett test av ett nytt varningssystem. Det heter SE-Alert.",
+        "Med SE-Alert kan myndigheter skicka en varning direkt till mobilen. Det kan till exempel vara om farlig gas har läckt ut. Man behöver ingen app.",
+        "Mobilen visar ett meddelande, piper och vibrerar. Det händer även om mobilen står på ljudlöst. Texten är först på svenska och sedan på engelska. Klockan 15.05 kommer ett nytt meddelande om att testet är slut.",
+        "Samma dag testas också Hesa Fredrik. Det är tutor utomhus som varnar vid fara. Myndigheten för civilt försvar ansvarar för testet. Man behöver inte göra något när larmet kommer."
+      ],
+      "tip": {
+        "label": "Bra att veta",
+        "text": "Berätta om testet för yngre syskon och äldre släktingar, så att de inte blir rädda när mobilen piper."
+      },
+      "sources": [
+        {
+          "title": "Myndigheten för civilt försvar: SE-Alert testas i hela Sverige",
+          "url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/november/varningslarmet-se-alert-testas-i-hela-sverige/"
+        },
+        {
+          "title": "Sejfer: SE-Alert testas i hela Sverige den 7 december",
+          "url": "https://www.sejfer.se/nyheter/nyheter/2026/11/17/se-alert-testas-hela-sverige-7-december/"
+        },
+        {
+          "title": "The Local (engelska): Mobiler i Sverige piper den 7 december",
+          "url": "https://www.thelocal.se/20261117/mobile-phones-in-sweden-will-suddenly-beep-loudly-on-december-7th"
+        }
+      ],
+      "written": "2026-11-18T14:40:25.307Z"
+    },
+    {
+      "id": "2026-11-18-melodifestivalen-blir-enklare",
+      "title": "Melodifestivalen blir enklare",
+      "emoji": "🎤",
+      "color": "#6a1b7a",
+      "paragraphs": [
+        "Melodifestivalen är en tävling i SVT. Där väljer man vilken låt som ska tävla för Sverige i Eurovision Song Contest.",
+        "Nästa år blir tävlingen lite annorlunda. SVT tar bort finalkvalet. Finalkvalet var en extra chans för låtar som inte gick direkt till finalen. En sådan extra chans har funnits sedan 2002.",
+        "Det blir fem deltävlingar med sex låtar i varje. Två låtar från varje deltävling går direkt till finalen. Tittarnas röster avgör sedan vilka två låtar till som får vara med. Det blir tolv låtar i finalen.",
+        "SVT säger att tävlingen ska bli lättare att förstå för både tittare och artister. Programledare blir Björn Kjellman och Oscar Zia."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "En deltävling är en del av en större tävling. De bästa i deltävlingarna går vidare till finalen."
+      },
+      "sources": [
+        {
+          "title": "Musikindustrin: Inget finalkval i Melodifestivalen 2027",
+          "url": "https://www.musikindustrin.se/2026/11/17/inget-finalkval-i-melodifestivalen-2027/"
+        },
+        {
+          "title": "TV4: Melodifestivalen görs om",
+          "url": "https://www.tv4.se/artikel/8XfWkNOSI2jnbEVWqqzbB/melodifestivalen-goers-om-efter-24-ar"
+        },
+        {
+          "title": "Kvartal: SVT slopar finalkvalet",
+          "url": "https://kvartal.se/nyheter/artiklar/svt-slopar-finalkvalet-i-melodifestivalen/cG9zdDoyNjE3NjQ"
+        }
+      ],
+      "written": "2026-11-18T14:40:25.307Z"
+    },
+    {
+      "id": "2026-11-18-sveriges-fotbollslandslag-vann-sin-grupp",
+      "title": "Sveriges fotbollslandslag vann sin grupp",
+      "emoji": "⚽",
+      "color": "#1d5c2e",
+      "paragraphs": [
+        "Sveriges herrlandslag i fotboll har spelat i Nations League. Det är en tävling mellan landslag i Europa. Lagen spelar i olika divisioner.",
+        "Lördagen den 14 november vann Sverige mot Bosnien och Hercegovina med 3–2 hemma i Solna. Då var det klart att Sverige vann sin grupp. Viktor Gyökeres gjorde två av målen.",
+        "Tisdagen den 17 november spelade Sverige 1–1 mot Polen i Wrocław. Hugo Larsson gjorde Sveriges mål. Det var hans första mål i landslaget. Sverige förlorade ingen match i gruppen.",
+        "Eftersom Sverige vann gruppen får laget spela i division A nästa gång. Det är den högsta divisionen, där de bästa landslagen spelar."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "Ett landslag är ett lag med de bästa spelarna från ett land."
+      },
+      "sources": [
+        {
+          "title": "Svensk fotboll: Oavgjort i Nations League-avslutningen",
+          "url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/unl-pol-swe/"
+        },
+        {
+          "title": "Fotbollskanalen: Sverige säkrade gruppseger mot Bosnien",
+          "url": "https://www.fotbollskanalen.se/artiklar/sverige/nations-league-sverige-bosnien-hercegovina"
+        },
+        {
+          "title": "Tvmatchen: Polen–Sverige 1–1",
+          "url": "https://www.tvmatchen.nu/sport/fotboll/polen-sverige-1-1-17-november-2026/"
+        }
+      ],
+      "written": "2026-11-18T14:40:25.307Z"
+    }
+  ]
 }
