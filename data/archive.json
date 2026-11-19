@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "De vill stoppa jakten",
+      "link": "https://8sidor.se/sverige/2026/11/de-vill-stoppa-jakten/",
+      "summary": "Nästa år får jägare skjuta 72 vargar i Sverige. Naturskyddsföreningen vill stoppa det.",
+      "date": "2026-11-19T09:56:09.000Z",
+      "image": "https://8sidor.se/app/uploads/2025/01/varg.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-19T11:14:14.478Z"
+    },
+    {
+      "title": "Kommunen där alla partier är överens",
+      "link": "https://www.sverigesradio.se/artikel/9345964",
+      "summary": "Sverige har fortfarande ingen ny regering eftersom partierna inte har kommit överens. Men i Tranemo kommun är det tvärtom. Där har alla partier kommit överens om budgeten för nästa år.",
+      "date": "2026-11-19T09:45:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/04d6e9a6-51a6-4962-ac5e-fda111356e41.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-19T11:14:14.478Z"
+    },
+    {
       "title": "Nyheter på lätt svenska den 19 november",
       "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-19-november-5/",
       "summary": "",
@@ -11,9 +31,9 @@
       "firstSeen": "2026-11-19T09:21:55.321Z"
     },
     {
-      "title": "Ovanligt möte börjar i dag",
+      "title": "Ovanligt möte i dag",
       "link": "https://8sidor.se/varlden/2026/11/ovanligt-mote-borjar-i-dag/",
-      "summary": "Ledarna får USA, Kina och Ryssland har möte i Kina i dag. Det är mycket ovanligt.",
+      "summary": "Ledarna för USA, Kina och Ryssland har möte i Kina i dag. Det är mycket ovanligt.",
       "date": "2026-11-19T08:55:23.000Z",
       "image": "https://8sidor.se/app/uploads/2026/11/sdlHHoCFz8UMJY-nh.jpg",
       "source": "8 Sidor",
@@ -321,9 +341,9 @@
       "firstSeen": "2026-11-17T15:06:49.428Z"
     },
     {
-      "title": "Torsten från Karlstad samlar in miljoner – hyllas av prinsessan",
+      "title": "Torsten samlar in miljoner till forskning – hyllas av prinsessan",
       "link": "https://www.sverigesradio.se/artikel/9344379",
-      "summary": "Torsten Gabrielsson i Karlstad har sjukdomen ALS. På tre år har Torsten samlat in mer än fem miljoner kronor till forskning om hur man ska kunna bota ALS i framtiden. Nu har han tackats för sin insamling av Hjärnfonden och av kronprinsessan Victoria.",
+      "summary": "Torsten Gabrielsson i Karlstad har sjukdomen ALS. På tre år har Torsten samlat in mer än 5 miljoner kronor till forskning om hur man ska kunna bota ALS i framtiden. Nu har han tackats för sin insamling av Hjärnfonden och av kronprinsessan Victoria.",
       "date": "2026-11-17T14:30:00.000Z",
       "image": "https://image-api.sr.se/v1/static/AA/493/7b56dff3-a308-4fd8-9920-12797529a40f.jpg?w=1200&h=675&q=75",
       "source": "Klartext",
