@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Ny regler ska skydda igelkottar",
+      "link": "https://www.sverigesradio.se/artikel/9344652",
+      "summary": "Igelkotten har nu blivit fridlyst. Det innebär förändringar för alla med trädgård. Man ska till exempel inte köra robotgräsklipparen på kvällar och nätter eftersom den kan skada igelkottar. ”Jag tror inte att folk känner till det”, säger Henrik Johansson , naturvårdshandläggare på Gotland.",
+      "date": "2026-11-19T14:53:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/e6d4bf5e-8916-4af4-9d3f-9c3e5271baf6.png?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
+      "title": "Mötet i Kina är slut – oklart vad ledarna sa",
+      "link": "https://www.sverigesradio.se/artikel/9346313",
+      "summary": "Mötet mellan USA, Kina och Rysslands högsta ledare är slut. Det var Kinas president Xi Jinping, Rysslands president Vladimir Putin och USAs president Donald Trump som var med på mötet i Kina. Exakt vad som sas på mötet vet man inte. Men kinesisk statlig media berättar att ledarna kommit överens om några saker.",
+      "date": "2026-11-19T14:47:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/6ba45aec-4556-4661-ac53-1241c635efe7.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
+      "title": "Jenny säger ”hej” hundra gånger om dagen",
+      "link": "https://www.sverigesradio.se/artikel/9346317",
+      "summary": "Att säga hej kan göra dagen bättre för andra. Det säger Jenny Schyllert, som hälsar på ett hundratal kunder om dagen i en matbutik i Kristianstad.",
+      "date": "2026-11-19T14:33:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/71942ddb-7333-4882-a228-21a92d5bd0ff.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
+      "title": "Snart kan Linus flytta hemifrån: ”Känns pirrigt”",
+      "link": "https://www.sverigesradio.se/artikel/9345566",
+      "summary": "Linus Berggren i Mölndal har velat flytta hemifrån länge. Nu har han fått veta att han äntligen ska få en egen lägenhet i början av nästa år. Lena Berggren är Linus mamma. Hon undrar varför det har tagit så lång tid för kommunen att ge Linus en LSS-bostad.",
+      "date": "2026-11-19T14:16:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/387bef38-b98a-42b4-8036-57ccc5b84573.png?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
+      "title": "Domstol säger folkmord",
+      "link": "https://8sidor.se/varlden/2026/11/domstol-sager-folkmord/",
+      "summary": "En viktig domstol säger att landet Myanmar i Asien har gjort folkmord mot folket rohingyer.",
+      "date": "2026-11-19T13:38:04.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261119_icj.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
+      "title": "Det pratade ledarna om",
+      "link": "https://8sidor.se/varlden/2026/11/det-pratade-ledarna-om/",
+      "summary": "Ledarna för Kina, USA och Ryssland har haft ett möte. De pratade bland annat om kärnvapen och FN.",
+      "date": "2026-11-19T13:36:45.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/mo%CC%88te.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-19T15:13:00.637Z"
+    },
+    {
       "title": "Rättegång mot sex elever",
       "link": "https://8sidor.se/sverige/2026/11/rattegang-mot-sex-elever/",
       "summary": "Sex elever är misstänkta för brott mot andra elever på en skola i Sigtuna. Nu ska det bli en rättegång.",
@@ -134,7 +194,7 @@
       "title": "Presidenterna i USA, Kina och Ryssland träffas på möte",
       "link": "https://www.sverigesradio.se/artikel/9345557",
       "summary": "USA:s president Donald Trump, Kinas president Xi Jinping och Ryssland president Vladimir Putin ska träffas på ett möte under torsdagen. Det blir ett historiskt möte. Mötet med de tre presidenterna börjar på torsdag morgon kinesisk tid. Det är redan natten mot torsdag, svensk tid.",
-      "date": "2026-11-18T15:10:00.000Z",
+      "date": "2026-11-18T15:04:00.000Z",
       "image": "https://image-api.sr.se/v1/static/AA/493/55e8ce70-2961-45dd-ac2f-1df23b766075.jpg?w=1200&h=675&q=75",
       "source": "Klartext",
       "sourceId": "klartext",
