@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Han blir nya James Bond",
+      "link": "https://8sidor.se/kultur/2026/11/han-blir-nya-james-bond/",
+      "summary": "Nu är det klart vilken skådespelare som ska spela spionen James Bond. Det blir Robert Pattinson.",
+      "date": "2026-11-20T08:25:48.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/2026_pattinson.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T08:29:35.916Z"
+    },
+    {
+      "title": "Företag för AI slog rekord",
+      "link": "https://8sidor.se/varlden/2026/11/foretag-for-ai-slog-rekord/",
+      "summary": "Det blev rekord när aktier för företaget Anthropic började säljas på börsen i USA.",
+      "date": "2026-11-20T08:14:32.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/anthropic.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T08:29:35.916Z"
+    },
+    {
+      "title": "Drycken kan skada tänder",
+      "link": "https://8sidor.se/din-vardag/2026/11/drycken-kan-skada-tander/",
+      "summary": "Fler unga människor i Sverige har skador på tänderna jämfört med tidigare. Energidrycker kan ha gjort skadorna.",
+      "date": "2026-11-20T08:07:49.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/09/energidr.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T08:29:35.916Z"
+    },
+    {
       "title": "Sex äldre elever åtalas för brott mot yngre elever på gymnasieskola",
       "link": "https://www.sverigesradio.se/artikel/9346490",
       "summary": "Sex elever på gymnasiet Sigtunaskolan åtalas för brott mot flera andra elever på skolan. Enligt åklagaren ska de ha utsatt yngre elever för våld och kränkningar.",
