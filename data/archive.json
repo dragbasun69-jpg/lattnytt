@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "title": "Ryssar redan stoppade",
+      "link": "https://8sidor.se/sport/2026/11/ryssar-redan-stoppade/",
+      "summary": "Regeringen vill stoppa ryssar från att tävla i Sverige. Men det finns redan lagar som gör det.",
+      "date": "2026-11-20T09:41:25.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/sdluDiD5BrL1XU-nh.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Influensan har börjat",
+      "link": "https://8sidor.se/sverige/2026/11/influensan-har-borjat/",
+      "summary": "Årets influensa har börjat. Det är tidigare än vanligt. Många blir också sjuka av viruset corona.",
+      "date": "2026-11-20T09:39:23.000Z",
+      "image": "https://8sidor.se/app/uploads/2025/12/sjuka.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Influensan är redan här",
+      "link": "https://www.sverigesradio.se/artikel/9346854",
+      "summary": "Redan nu är det många som har smittats av influensa. Det brukar vara flest som är sjuka runt jul. Men i år kom influensan ovanligt tidigt till Sverige, säger Folkhälsomyndigheten. Spridningen är så stor att den räknas som en epidemi.",
+      "date": "2026-11-20T09:28:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/cacff412-2efc-4356-a0a8-a33aa426e341.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 20 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-20-november-5/",
+      "summary": "",
+      "date": "2026-11-20T08:57:58.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Ryssland attackerar broar",
+      "link": "https://8sidor.se/varlden/2026/11/ryssland-attackerar-broar/",
+      "summary": "Ryssland har attackerat flera broar i Ukrainas huvudstad Kiev. Minst sex människor har dött.",
+      "date": "2026-11-20T08:56:04.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/bro.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Många pratar om henne",
+      "link": "https://8sidor.se/kultur/2026/11/manga-pratar-om-henne/",
+      "summary": "Elizabeth Holmes lurade folk på pengar. Nu går det att se en hyllad film om henne.",
+      "date": "2026-11-20T08:50:00.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/Holmes.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
+      "title": "Snö i Stockholm",
+      "link": "https://8sidor.se/sverige/2026/11/sno-i-stockholm/",
+      "summary": "Det ska snöa i Stockholm. Det kan komma 15 centimeter snö.",
+      "date": "2026-11-20T08:45:42.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/2026_sno.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-20T10:20:52.743Z"
+    },
+    {
       "title": "Han blir nya James Bond",
       "link": "https://8sidor.se/kultur/2026/11/han-blir-nya-james-bond/",
       "summary": "Nu är det klart vilken skådespelare som ska spela spionen James Bond. Det blir Robert Pattinson.",
