@@ -1,9 +1,79 @@
 {
   "items": [
     {
+      "title": "Snö ger problem i trafiken",
+      "link": "https://www.sverigesradio.se/artikel/9348083",
+      "summary": "Det har snöat på flera platser i landet och det har blivit problem i trafiken. Tåg har blivit försenade och inställda.",
+      "date": "2026-11-23T10:12:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/8293a104-7aab-4271-8062-4e5663268e2b.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Inget avtal på möte om klimatet",
+      "link": "https://8sidor.se/varlden/2026/11/inget-avtal-pa-mote-om-klimatet/",
+      "summary": "Det stora mötet om klimatet är slut. Länderna kunde inte komma överens om ett nytt avtal.",
+      "date": "2026-11-23T09:40:05.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/klimatmote1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Unga protesterade i Sverige",
+      "link": "https://8sidor.se/sverige/2026/11/unga-protesterade-i-sverige/",
+      "summary": "Det har varit protester i flera svenska städer. Det är unga som vill ha en bättre framtid som protesterar.",
+      "date": "2026-11-23T09:23:56.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261120-demonstration2uv-e59f170f-a001nh.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 23 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-23-november-5/",
+      "summary": "",
+      "date": "2026-11-23T09:22:20.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Rappare dömd till fängelse",
+      "link": "https://8sidor.se/sverige/2026/11/rappare-domd-till-fangelse/",
+      "summary": "Rapparen 1 Cuz döms till sex månader i fängelset. Han straffas för brott med skatten.",
+      "date": "2026-11-23T09:16:33.000Z",
+      "image": "https://8sidor.se/app/uploads/2025/11/cuz.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Attack mot fartyg nära Finland",
+      "link": "https://8sidor.se/varlden/2026/11/attack-mot-fartyg-nara-finland/",
+      "summary": "Ett ryskt fartyg har blivit attackerat nära Finland i Östersjön. Fartyget började brinna.",
+      "date": "2026-11-23T09:12:06.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/ba%CC%8At.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
+      "title": "Snön ger problem i trafiken",
+      "link": "https://8sidor.se/sverige/2026/11/snon-ger-problem-i-trafiken/",
+      "summary": "Det är snöigt och halt norr om Uppsala. Experter varnar för problem i trafiken.",
+      "date": "2026-11-23T08:52:22.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/halka-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T10:27:00.324Z"
+    },
+    {
       "title": "Jag fick tillbaka tröjan",
       "link": "https://8sidor.se/kronika/2026/11/jag-fick-tillbaka-trojan/",
-      "summary": "Tack vare öppet köp fick jag tillbaka tröjan jag glömt på tunnelbanan. Det skriver 8 Sidors Sarah Green.",
+      "summary": "Tack vare öppet köp fick jag tillbaka tröjan jag glömde på tunnelbanan. Det skriver 8 Sidors Sarah Green.",
       "date": "2026-11-23T08:46:20.000Z",
       "image": "https://8sidor.se/app/uploads/2026/11/tunnelbanan.jpg",
       "source": "8 Sidor",
