@@ -1,0 +1,225 @@
+{
+  "id": "2026-v48",
+  "year": 2026,
+  "week": 48,
+  "title": "Nyhetsquiz vecka 48",
+  "period": "16–20 november 2026",
+  "siteUrl": "https://dragbasun69-jpg.github.io/lattnytt/",
+  "created": "2026-11-23T05:12:29.338Z",
+  "model": "manuellt",
+  "teacherIntro": "Veckans quiz bygger på sex nyheter från 16–20 november 2026 om konst, rymden, natur, hälsa, vardag och sport. Eleverna letar upp nyheterna på Lätt nytt och svarar med hjälp av rubrik och ingress. Ordfrågorna och diskussionsfrågorna kan användas för att fördjupa samtalet.",
+  "lessonTips": [
+    "Låt eleverna arbeta i par: en läser rubrik och ingress högt, den andra letar efter svaret.",
+    "Gå igenom ordfrågorna först om gruppen behöver stöd med svåra ord.",
+    "Be eleverna motivera sina svar genom att peka ut meningen i ingressen där svaret står.",
+    "Avsluta med en eller två diskussionsfrågor i helklass eller i små grupper."
+  ],
+  "news": [
+    {
+      "n": 1,
+      "title": "Hilma af Klints målning såld för rekordpris",
+      "studentSummary": "En liten målning av Hilma af Klint från 1920 har sålts för 108 miljoner kronor. Det är rekordmycket pengar. Målningen visar former, till exempel en cirkel, en trekant och tre fyrkanter.",
+      "teacherBackground": "Hilma af Klint var en svensk konstnär som levde mellan 1862 och 1944. Hon räknas i dag som en av pionjärerna inom abstrakt konst, och hennes verk har visats på stora museer i världen. Under sin livstid visade hon nästan aldrig sina abstrakta målningar offentligt. Läraren kan kontrollera vilket rekord försäljningen gäller i den fullständiga artikeln.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9347185",
+      "originalTitle": "Hilma af Klints målning såld för rekordmycket pengar"
+    },
+    {
+      "n": 2,
+      "title": "Voyager 1 har nått rekordlångt ut i rymden",
+      "studentSummary": "År 1977 skickades två rymdsonder ut i rymden. Först undersökte de Jupiter och Saturnus. Nu har Voyager 1 nått ett ljusdygn bort från jorden, alltså så långt som ljuset hinner på ett dygn.",
+      "teacherBackground": "Voyager 1 och Voyager 2 skickades upp av den amerikanska rymdstyrelsen Nasa. Voyager 1 är det föremål som människor har skickat längst bort från jorden. Sonderna har med sig en guldskiva med ljud och bilder från jorden, som en hälsning om någon skulle hitta dem. Ljuset färdas ungefär 300 000 kilometer per sekund, vilket kan hjälpa eleverna att förstå hur långt ett ljusdygn är.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9345450",
+      "originalTitle": "Nu har rymdsonden nått rekordlångt bort"
+    },
+    {
+      "n": 3,
+      "title": "Igelkotten har blivit fridlyst",
+      "studentSummary": "Igelkotten är nu fridlyst i Sverige. Det betyder nya regler för alla som har trädgård. Man ska till exempel inte köra robotgräsklipparen på kvällar och nätter, eftersom den kan skada igelkottar.",
+      "teacherBackground": "Att en art är fridlyst betyder i Sverige att det är förbjudet att till exempel döda, skada eller fånga djuren med avsikt. Igelkotten är aktiv främst på kvällar och nätter, och antalet igelkottar har minskat i flera europeiska länder. Läraren kan kontrollera exakt vad reglerna innebär hos Naturvårdsverket eller länsstyrelsen.",
+      "source": "Klartext",
+      "link": "https://www.sverigesradio.se/artikel/9344652",
+      "originalTitle": "Ny regler ska skydda igelkottar"
+    },
+    {
+      "n": 4,
+      "title": "Influensan kom ovanligt tidigt i år",
+      "studentSummary": "Många har redan smittats av influensa. Det brukar vara flest sjuka runt jul, men i år kom influensan ovanligt tidigt. Spridningen är så stor att den räknas som en epidemi, säger Folkhälsomyndigheten.",
+      "teacherBackground": "Influensa är en virussjukdom som sprids varje vinter i Sverige. Folkhälsomyndigheten följer hur smittan sprids och rekommenderar vaccin för bland andra äldre och personer i riskgrupper. En epidemi betyder att en sjukdom sprids till många människor i ett område under en viss tid, medan en pandemi sprids över hela världen.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9346854",
+      "originalTitle": "Influensan är redan här"
+    },
+    {
+      "n": 5,
+      "title": "Årets julklapp är ett startnummer",
+      "studentSummary": "Företaget HUI Research väljer varje år ut årets julklapp. I år är det ett startnummer i ett motionslopp, till exempel i löpning, skidåkning eller simning. Den som har ett startnummer är anmäld till loppet och har betalat avgiften.",
+      "teacherBackground": "HUI Research har utsett årets julklapp sedan slutet av 1980-talet. Valet ska spegla vad som är populärt och typiskt för tiden, och det ska vara något som många köper. Tidigare exempel är bland annat tv-spel, sällskapsspel och spikmatta. Valet kan väcka diskussion om konsumtion, motion och vad en bra present är.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9345142",
+      "originalTitle": "Årets julklapp väcker blandade känslor"
+    },
+    {
+      "n": 6,
+      "title": "Sveriges damer tog brons i ishockey-VM",
+      "studentSummary": "Sveriges damlandslag i ishockey tog brons i VM. Laget vann matchen om bronset mot Finland. Det var lagets första medalj på 19 år.",
+      "teacherBackground": "Damishockey har funnits i OS sedan 1998. Sveriges damlag tog silver i OS 2006, vilket är en av lagets största framgångar. Sverige och Finland är gamla rivaler inom ishockey, både på dam- och herrsidan.",
+      "source": "Radio Sweden på lätt svenska",
+      "link": "https://www.sverigesradio.se/artikel/9344178",
+      "originalTitle": "Sveriges damer tog brons i ishockey-VM"
+    }
+  ],
+  "questions": {
+    "mc": [
+      {
+        "q": "Varför blev det en nyhet när Hilma af Klints målning såldes?",
+        "options": [
+          "Den målades förra året och är helt ny.",
+          "Den visar ett landskap med träd och sjöar.",
+          "Den såldes för rekordmycket pengar, 108 miljoner kronor.",
+          "Det är den största målning hon har gjort."
+        ],
+        "answer": 2,
+        "explanation": "Rubriken säger att målningen såldes för rekordmycket pengar, och ingressen säger 108 miljoner kronor. Målningen är liten, från 1920 och visar former.",
+        "news": 1
+      },
+      {
+        "q": "Hur långt bort från jorden har rymdsonden Voyager 1 nått nu?",
+        "options": [
+          "Till planeten Jupiter.",
+          "Så långt som ljuset hinner på ett dygn.",
+          "Så långt som ljuset hinner på ett år.",
+          "Till månen och tillbaka."
+        ],
+        "answer": 1,
+        "explanation": "Ingressen säger att Voyager 1 har nått ett ljusdygn bort från jorden, alltså så långt som ljuset hinner nå på ett dygn.",
+        "news": 2
+      },
+      {
+        "q": "Nu när igelkotten är fridlyst: varför ska man inte köra robotgräsklipparen på kvällar och nätter?",
+        "options": [
+          "Den kan gå sönder när det är mörkt.",
+          "Den stör grannarna när de sover.",
+          "Den kan skada igelkottar.",
+          "Den använder för mycket el på natten."
+        ],
+        "answer": 2,
+        "explanation": "Ingressen säger att man inte ska köra robotgräsklipparen på kvällar och nätter eftersom den kan skada igelkottar.",
+        "news": 3
+      },
+      {
+        "q": "Vad är ovanligt med årets influensa, enligt Folkhälsomyndigheten?",
+        "options": [
+          "Den finns bara i Stockholm.",
+          "Nästan ingen har blivit smittad.",
+          "Den kom tidigare än vanligt.",
+          "Den kom senare än vanligt, efter jul."
+        ],
+        "answer": 2,
+        "explanation": "Ingressen säger att det brukar vara flest sjuka runt jul, men att influensan i år kom ovanligt tidigt.",
+        "news": 4
+      },
+      {
+        "q": "Årets julklapp är ett startnummer i ett motionslopp. Vad betyder det att ha ett startnummer?",
+        "options": [
+          "Man får gå först i kön i en butik.",
+          "Man får ett nytt telefonnummer.",
+          "Man har redan vunnit loppet.",
+          "Man är anmäld till loppet och har betalat avgiften."
+        ],
+        "answer": 3,
+        "explanation": "Ingressen förklarar att ett startnummer betyder att man är anmäld till loppet och att avgiften är betald.",
+        "news": 5
+      },
+      {
+        "q": "Varför var bronset i ishockey-VM extra stort för Sveriges damlandslag?",
+        "options": [
+          "Det var första gången laget var med i VM.",
+          "Laget vann alla sina matcher i VM.",
+          "Laget vann guld för första gången.",
+          "Det var lagets första medalj på 19 år."
+        ],
+        "answer": 3,
+        "explanation": "Ingressen säger att det var den första medaljen på 19 år. Laget kom trea och tog brons, inte guld.",
+        "news": 6
+      }
+    ],
+    "words": [
+      {
+        "word": "fridlyst",
+        "context": "Igelkotten har nu blivit fridlyst.",
+        "options": [
+          "skyddad enligt lag, man får inte skada eller fånga den",
+          "försvunnen från ett land",
+          "fri att jaga under hela året",
+          "lysande i mörkret"
+        ],
+        "answer": 0,
+        "explanation": "Ett fridlyst djur eller en fridlyst växt är skyddad enligt lag."
+      },
+      {
+        "word": "epidemi",
+        "context": "Spridningen är så stor att den räknas som en epidemi.",
+        "options": [
+          "en sjukdom som bara drabbar djur",
+          "när en sjukdom sprids till väldigt många människor",
+          "ett sjukhus för barn",
+          "ett nytt vaccin mot en sjukdom"
+        ],
+        "answer": 1,
+        "explanation": "En epidemi är när en smittsam sjukdom sprids till många människor under en viss tid."
+      },
+      {
+        "word": "rymdsond",
+        "context": "I början undersökte rymdsonderna planeterna Jupiter och Saturnus.",
+        "options": [
+          "en astronaut som bor i rymden",
+          "en farkost utan människor som skickas ut för att undersöka rymden",
+          "en stjärna som lyser starkt",
+          "ett teleskop som står på jorden"
+        ],
+        "answer": 1,
+        "explanation": "En rymdsond är en obemannad farkost som skickas ut i rymden för att samla in information."
+      },
+      {
+        "word": "avgift",
+        "context": "Att man får ett startnummer betyder att man är anmäld till loppet och att avgiften är betald.",
+        "options": [
+          "en present man får av någon",
+          "en tävling man vinner",
+          "en lista med namn",
+          "pengar man måste betala för något"
+        ],
+        "answer": 3,
+        "explanation": "En avgift är en summa pengar som man betalar för att få vara med i eller använda något."
+      }
+    ],
+    "discussion": [
+      {
+        "q": "Igelkotten har blivit fridlyst. Vad kan vanliga människor göra för att skydda djur och natur där de bor?",
+        "tips": "Samtalet kan handla om trädgårdar, parker, skräp och trafik. Eleverna kan också jämföra med regler om djur och natur i andra länder de känner till.",
+        "news": 3
+      },
+      {
+        "q": "Influensan sprids tidigt i år. Hur kan man minska risken att bli sjuk eller smitta andra?",
+        "tips": "Eleverna kan prata om att tvätta händerna, stanna hemma när man är sjuk och vaccin. Var försiktig så att ingen behöver berätta om egen sjukdom.",
+        "news": 4
+      },
+      {
+        "q": "Vad tycker du om att ett startnummer i ett motionslopp blev årets julklapp? Vad är en bra julklapp för dig?",
+        "tips": "Samtalet kan handla om saker kontra upplevelser, motion och hälsa, pengar och konsumtion. Det finns inga rätta svar. Tänk på att alla inte firar jul.",
+        "news": 5
+      },
+      {
+        "q": "En liten målning såldes för 108 miljoner kronor. Varför tror du att konst kan kosta så mycket pengar?",
+        "tips": "Eleverna kan diskutera vad som gör något värdefullt: att konstnären är känd, att verket är gammalt och unikt, eller att många vill köpa det. De kan också fundera på om konst borde finnas på museer för alla.",
+        "news": 1
+      }
+    ]
+  },
+  "kahoot": {
+    "uuid": "3eef6456-f4f5-4eba-99eb-7144eb333429",
+    "url": "https://create.kahoot.it/creator/3eef6456-f4f5-4eba-99eb-7144eb333429"
+  }
+}
