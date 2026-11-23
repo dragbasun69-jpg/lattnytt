@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Chef är tillbaka",
+      "link": "https://8sidor.se/varlden/2026/11/chef-ar-tillbaka/",
+      "summary": "Jensen Huang blev tvingad att sluta som chef för det stora företaget Nvidia. Men nu är han tillbaka.",
+      "date": "2026-11-23T15:08:49.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261123_jensenhuang.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-23T15:22:10.902Z"
+    },
+    {
+      "title": "Ryska båtar har attackerats",
+      "link": "https://www.sverigesradio.se/artikel/9348405",
+      "summary": "Under helgen har två ryska fartyg attackerats. Ett fraktfartyg i Östersjön och ett militärt fartyg utanför landet Libyen. Ukraina säger att de attackerat det militära fartyget. Inga personer ska ha skadats allvarligt i dessa attacker. Samtidigt fortsätter Ryssland att attackera många platser inne i Ukraina.",
+      "date": "2026-11-23T14:50:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/877b3ab2-a7b0-4ddc-8d5e-8b1df6c4b0b6.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-23T15:22:10.902Z"
+    },
+    {
+      "title": "Sverige kritiskt efter misslyckat klimatmöte",
+      "link": "https://www.sverigesradio.se/artikel/9348283",
+      "summary": "I går, söndag, avslutades FN:s stora klimatmöte COP31 i Turkiet. Men länderna kunde inte komma överens. Sverige, EU och flera andra länder sa nej till förslaget om ett avtal.",
+      "date": "2026-11-23T14:23:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/9608917e-7c90-4817-9b3b-6c48180a2f40.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-23T15:22:10.902Z"
+    },
+    {
       "title": "Världens länder kom inte överens om klimatet",
       "link": "https://www.sverigesradio.se/artikel/9348240",
       "summary": "Det har varit ett stort klimatmöte i Turkiet. Det var årets FN-möte som kallas för COP 31. När mötet tog slut igår så hade länderna inte kunnat komma överens om ett nytt avtal för att minska klimatförändringarna. Länder som säljer mycket olja vill fortsätta med det. Det tycker bland annat länderna i EU är fel.",
@@ -1428,26 +1458,6 @@
       "image": "https://image-api.sr.se/v1/static/AA/4916/e7ecb70b-6da8-4766-b530-53825c4804af.png?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Magdalena Andersson (S) vill bilda regering med C och MP",
-      "link": "https://www.sverigesradio.se/artikel/9337424",
-      "summary": "Socialdemokraternas partiledare Magdalena Andersson sa under söndagen att hon styra landet tillsammans med Centerpartiet och Miljöpartiet. För att det ska bli så behöver de stöd av Vänsterpartiet . Men Vänsterpartiet kommer inte släppa sina karv på att själva få sitta i regering tror Ekots politikexpert.",
-      "date": "2026-11-09T15:10:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/751f46cc-cdc7-43aa-9a66-7064240df0e9.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Lättare att läsa när man gör det tillsammans: ”Jag lär mig så mycket”",
-      "link": "https://www.sverigesradio.se/artikel/9337344",
-      "summary": "Petra Romberg och Susan Båge har skrivit en bok med korta texter. Boken ska användas i share reading – alltså, delad läsning. Shared reading finns på många bibliotek runt om i landet. Då träffas personer och lyssnar när läsledaren eller någon annan läser en text högt.",
-      "date": "2026-11-09T14:33:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/4ad4841e-b76f-4c94-a73e-996352c18b21.jpeg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
       "firstSeen": "2026-11-15T12:18:48.000Z"
     }
   ]
