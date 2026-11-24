@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Robin har juldekorerat sitt hus med över 36 000 lampor",
+      "link": "https://www.sverigesradio.se/artikel/9349115",
+      "summary": "Om några veckor är det jul. Många har pyntat sina hus med julbelysning. Robin Johansson i Svedala dekorerar sitt hus med väldigt många ljusslingor varje jul. I år är det totalt över 36 000 lampor. Hela husets framsida är täckt av ljusslingor, säger han till P4 Malmöhus.",
+      "date": "2026-11-24T15:16:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/89f155cc-14cc-466e-bce1-d0161cb1a547.jpeg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-24T15:18:34.314Z"
+    },
+    {
+      "title": "Chat GPT kan göra skolattacker lättare att planera",
+      "link": "https://www.sverigesradio.se/artikel/9349079",
+      "summary": "Personer i flera länder misstänks ha använt AI-verktyget Chat GPT när de planerat skolattacker och massmord. Företaget bakom Chat GPT, Open AI, säger att säkerheten har blivit bättre. Företaget säger bland annat att deras nya AI-modeller ska kunna upptäcka varningssignaler bättre.",
+      "date": "2026-11-24T15:03:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/76accce3-4175-4cb7-92de-0c741c4cc944.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-24T15:18:34.314Z"
+    },
+    {
+      "title": "Jacob vill att fixartjänst även ska hjälpa funktionsnedsatta",
+      "link": "https://www.sverigesradio.se/artikel/9349190",
+      "summary": "Jacob Rosenvind i Huddinge har en synnedsättning. Han vill kunna få hjälp hemma med saker som är svåra för honom att göra själv. Många kommuner har en fixartjänst för äldre personer. Då kan de få hjälp med till exempel gardiner, lampor och brandvarnare.",
+      "date": "2026-11-24T14:25:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/40b368b4-ca5e-4b73-8389-c5834e6cd6af.png?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-24T15:18:34.314Z"
+    },
+    {
+      "title": "Sång och musik med clowner väcker gamla minnen",
+      "link": "https://www.sverigesradio.se/artikel/9348875",
+      "summary": "Måndagar har länge varit en speciell dag för de äldre på dagverksamheten Gnistan i Habo. Då kommer sjukhus-clowner dit och sjunger och spelar musik tillsammans med de äldre. Clownen Herr Sväng heter egentligen Edvin Kiland. Han berättar att musiken hjälper de äldre att prata om minnen.",
+      "date": "2026-11-24T14:20:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/dd58f48a-41e2-49ae-84f4-4a7d05317f5e.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-24T15:18:34.314Z"
+    },
+    {
       "title": "Centerpartiet diskuterar med partierna till höger igen",
       "link": "https://www.sverigesradio.se/artikel/9348967",
       "summary": "Centerpartiet har börjat diskutera med partierna till höger igen. Det sa Centerpartiets ledare Elisabeth Thand Ringqvist till Ekot på måndagskvällen.",
@@ -1496,36 +1536,6 @@
       "summary": "Elpriserna i södra och mellersta Sverige ökar. Då är det många som försöker använda mindre el. Det finns flera sätt att göra det.",
       "date": "2026-11-11T10:17:00.000Z",
       "image": "https://image-api.sr.se/v1/static/AA/4916/0942c774-a163-4b69-99eb-b5131284e322.png?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Jenny julpyntar huset med 800 tomtar redan i november",
-      "link": "https://www.sverigesradio.se/artikel/9338092",
-      "summary": "Det är en och en halv månad kvar till julafton. Jenny Hein i Mölnlycke brukar dekorera sitt hus med mycket julpynt varje år. Hon brukar vara färdig redan en vecka in i november, men i år är hon försenad.",
-      "date": "2026-11-10T14:48:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/935a7f8f-ecec-450e-b244-d679de632242.jpg?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Höga elpriser i södra Sverige – Maria sparar på värmen",
-      "link": "https://www.sverigesradio.se/artikel/9338068",
-      "summary": "Elen kostar mycket nu för de som bor i södra Sverige. Priserna i november kan bli de högsta på flera år. En anledning är att kriget i mellanöstern gör naturgas dyrare. En annan anledning är att det just nu inte görs så mycket el i södra Sverige. Maria Anderberg bor i Kristianstad. Hon försöker spara på sin el.",
-      "date": "2026-11-10T14:17:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/c8754b4b-8f2a-40c1-9395-deadae0030ae.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Polisen tar mer saker från kriminella",
-      "link": "https://www.sverigesradio.se/artikel/9337947",
-      "summary": "För två år sedan ändrades lagen. Det gjorde det lättare för polis och åklagare att ta saker från kriminella. Sedan dess har antalet beslag ökat med ungefär 50 procent, enligt Åklagarmyndigheten.",
-      "date": "2026-11-10T13:57:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/1812ff6e-aadf-4c33-bcd2-4b6644233032.jpg?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
