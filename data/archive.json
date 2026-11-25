@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Kritik mot nytt hus för daglig verksamhet i Umeå",
+      "link": "https://www.sverigesradio.se/artikel/9349889",
+      "summary": "I Umeå bygger man just nu ett nytt femvåningshus . Där ska sju dagliga verksamheter få plats. FUB i Umeå tycker att ha så många dagliga verksamheter på ett ställe gör att det blir som förr i tiden. När det fanns stora institutioner. Politikerna i Umeå var överens om att huset skulle byggas. Nu tycker politikerna olika.",
+      "date": "2026-11-25T14:12:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/055bb5b9-ab67-4927-99dc-81ab2633da89.jpeg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-25T14:31:48.515Z"
+    },
+    {
+      "title": "Han är tillbaka i riksdagen",
+      "link": "https://8sidor.se/politik/2026/11/han-ar-tillbaka-i-riksdagen/",
+      "summary": "Politikern Mohamed Ali i Vänsterpartiet är tillbaka i riksdagen efter att han tagit en paus.",
+      "date": "2026-11-25T12:47:45.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/mohamedali.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T14:31:48.515Z"
+    },
+    {
+      "title": "Vänsterpartiet sa nej",
+      "link": "https://8sidor.se/politik/2026/11/vansterpartiet-sa-nej/",
+      "summary": "Vänsterpartiet sa nej till förslag om politik från Socialdemokraterna, Miljöpartiet och Centerpartiet.",
+      "date": "2026-11-25T12:34:50.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/Vansterpartiet-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T14:31:48.515Z"
+    },
+    {
       "title": "Undersökning: Stödet för Centerpartiet minskar",
       "link": "https://www.sverigesradio.se/artikel/9349810",
       "summary": "Det har gått över 70 dagar sedan valet, och det finns fortfarande ingen ny regering. Om partierna inte kommer överens så kan det till slut bli ett nytt val. Idag kom en ny undersökning om hur väljarna skulle rösta om det var nytt val nu. Den visar att stödet för Centerpartiet har minskat mycket.",
@@ -1645,16 +1675,6 @@
       "link": "https://www.sverigesradio.se/artikel/9338818",
       "summary": "Allt fler använder AI. Tre av fyra personer i Sverige använder AI varje vecka eller oftare. Och de flesta litar på svaren som AI ger. Det visar en ny undersökning från analysbolaget Insight Intelligence.",
       "date": "2026-11-11T15:05:00.000Z",
-      "image": "",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Granskning: Imamer erbjöd hjälp till män att skaffa flera fruar",
-      "link": "https://www.sverigesradio.se/artikel/9338693",
-      "summary": "Imamer vid flera stora moskéer i Sverige har erbjudit män hjälp att skaffa en fru till. Det visar SVT:s program Uppdrag Granskning . Det är förbjudet att vara gift med flera personer i Sverige.",
-      "date": "2026-11-11T12:36:00.000Z",
       "image": "",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
