@@ -1,3 +1,92 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "2026-11-25-riksdagen-rostar-om-kristersson-den-30-november",
+      "title": "Riksdagen röstar om Kristersson den 30 november",
+      "emoji": "🗳️",
+      "color": "#2a3d7a",
+      "paragraphs": [
+        "Sverige har fortfarande ingen ny regering efter valet den 13 september. Nu ska riksdagen rösta om en ny statsminister. Omröstningen är måndagen den 30 november klockan 13.",
+        "Talmannen Andreas Norlén föreslog Ulf Kristersson (M) den 24 november. Kristersson vill bilda en regering med fyra partier: Moderaterna, Centerpartiet, Kristdemokraterna och Liberalerna. Centerpartiet har ännu inte sagt om partiet vill vara med.",
+        "Det blir den tredje omröstningen om statsminister efter valet. Kristersson blir inte statsminister om minst 175 av riksdagens 349 ledamöter röstar nej. Den 3 november röstade riksdagen nej till Elisabeth Thand Ringqvist (C).",
+        "Talmannen får föreslå en statsminister högst fyra gånger. Om riksdagen säger nej fyra gånger blir det ett extraval. Talmannen vill att svenskarna ska få veta före jul om det blir en ny regering eller ett extraval."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "Ett extraval är ett val som görs innan det vanliga valet. Det blir extraval om riksdagen inte kan godkänna en ny statsminister."
+      },
+      "sources": [
+        {
+          "title": "Riksdagen: Talmannen lägger fram Ulf Kristersson (M) som förslag till statsminister (24 november)",
+          "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/24/talmannen-lagger-fram-ulf-kristersson-m-som_cmsb026a253-0745-4baf-835b-ad90ad447402sv/"
+        },
+        {
+          "title": "Riksdagen: Nej till Elisabeth Thand Ringqvist (C) som statsminister (3 november)",
+          "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/3/nej-till-elisabeth-thand-ringqvist-c-som_cms6afacb7c-be00-432a-b75e-37e169872323sv/"
+        },
+        {
+          "title": "SVT: Kristersson prövas som statsminister på måndag",
+          "url": "https://www.svt.se/nyheter/inrikes/talmannen-kristersson-provas-som-statsminister-pa-mandag"
+        },
+        {
+          "title": "TV4: Kristersson prövas som statsminister måndag 30 november",
+          "url": "https://www.tv4.se/artikel/4rilU7jFkYGdrd5PbBtbgN/kristersson-m-proevas-som-statsminister-pa-mandag"
+        }
+      ],
+      "written": "2026-11-25T14:38:48.669Z"
+    },
+    {
+      "id": "2026-11-25-mycket-sno-i-uppland",
+      "title": "Mycket snö i Uppland",
+      "emoji": "❄️",
+      "color": "#1d4e89",
+      "paragraphs": [
+        "Det har snöat mycket i östra Svealand de senaste dagarna. SMHI varnade för snö flera gånger.",
+        "Den 20 och 21 november fanns en gul varning för mycket snö i Stockholm och delar av Uppsala län.",
+        "Söndagen den 22 november kom en orange varning. Den gällde för norra delen av Uppsala län, längs vägen E4 från Uppsala till Tierp. Där väntades mycket snö och hård vind från söndag eftermiddag till lunch på måndagen den 23 november.",
+        "Snö och blåst kan göra det svårt att se och att köra bil. Därför kan det bli stora problem i trafiken. Bussar och tåg kan bli försenade."
+      ],
+      "tip": {
+        "label": "Bra att veta",
+        "text": "SMHI har tre färger på sina varningar. Gul betyder att vädret kan ställa till problem. Orange betyder att det kan bli stora problem. Röd är den högsta nivån. Kolla trafiken innan du åker när det snöar."
+      },
+      "sources": [
+        {
+          "title": "Corren (TT): Orange snövarning – risk för trafikkaos (22 november)",
+          "url": "https://www.corren.se/nyheter/inrikes/vader/artikel/orange-snovarning-risk-for-trafikkaos/lw6n4qyj"
+        },
+        {
+          "title": "TV4: Risk för trafikkaos (22 november)",
+          "url": "https://www.tv4.se/artikel/V3O0LlTlOFOXa9qcDm2HO/risk-foer-trafikkaos-det-kan-bli-riktigt-obehagligt"
+        },
+        {
+          "title": "NU: SMHI varnar för snö i Stockholm och Uppland (19 november)",
+          "url": "https://nu.se/smhi-gar-ut-med-varning-snokanon-slar-till-mot-stockholm-och-uppland/"
+        }
+      ],
+      "written": "2026-11-25T14:38:48.669Z"
+    },
+    {
+      "id": "2026-11-25-de-flesta-i-arskurs-3-klarade-de-nationella-proven",
+      "title": "De flesta i årskurs 3 klarade de nationella proven",
+      "emoji": "📝",
+      "color": "#5a3a12",
+      "paragraphs": [
+        "Varje vår gör elever i årskurs 3 nationella prov i svenska och matematik. Den 19 november kom Skolverket med statistik om proven från våren 2026.",
+        "Proven består av flera delar. I svenska klarade mellan 88 och 97 procent av eleverna de olika delarna.",
+        "I svenska som andraspråk klarade mellan 68 och 90 procent de olika delarna. I matematik klarade mellan 82 och 94 procent."
+      ],
+      "tip": {
+        "label": "Ord",
+        "text": "Nationella prov är prov som alla elever i Sverige gör i samma årskurs. Proven visar hur det går för eleverna i hela landet."
+      },
+      "sources": [
+        {
+          "title": "Skolverket: Statistik om nationella prov i årskurs 3 våren 2026 (19 november)",
+          "url": "https://www.skolverket.se/statistik-och-utvarderingar/statistik-om-forskola-och-skola/fler-statistiknyheter/statistik/2026-11-19-statistik-om-nationella-prov-i-arskurs-3-varen-2026"
+        }
+      ],
+      "written": "2026-11-25T14:38:48.669Z"
+    }
+  ]
 }
