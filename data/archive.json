@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Marie väljer Luleå i vinter i stället för Portugal",
+      "link": "https://www.sverigesradio.se/artikel/9349612",
+      "summary": "Marie Meritsdotter från Stockholm brukar vara i varma Portugal på vintrarna. Men i år åkte hon norrut istället. Hon kommer vara i Norrbotten i Sverige under vintern för första gången. Hon har fått många idéer om vad hon kan göra där.",
+      "date": "2026-11-25T11:02:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/28f25250-eebd-4fcb-a944-e603a1d027aa.jpeg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-25T11:12:28.930Z"
+    },
+    {
+      "title": "Busshållplatsen lugnar demenssjuka",
+      "link": "https://www.sverigesradio.se/artikel/9349622",
+      "summary": "Inne på äldreboendet i Hofors finns en busshållplats. Hållplatsen hjälper personer med demenssjukdom att glömma sin hemlängtan. När den demenssjuka saknar det gamla hemmet kan personalen gå med den boende till hållplatsen. Det är undersköterskan Sari Laksola Lövgren som kom med idén till hållplatsen.",
+      "date": "2026-11-25T10:26:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/0af5e8b4-69d4-4eb2-b81e-ab06ca0ad21a.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-25T11:12:28.930Z"
+    },
+    {
+      "title": "Kvinnor dör av våld",
+      "link": "https://8sidor.se/varlden/2026/11/kvinnor-dor-av-vald/",
+      "summary": "Mäns våld mot kvinnor är ett stort problem. Varje dag blir över hundra kvinnor i världen dödade.",
+      "date": "2026-11-25T10:16:04.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/kvinnor-skylt.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T11:12:28.930Z"
+    },
+    {
       "title": "Nyheter på lätt svenska den 25 november",
       "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-25-november-5/",
       "summary": "",
@@ -1616,16 +1646,6 @@
       "summary": "Imamer vid flera stora moskéer i Sverige har erbjudit män hjälp att skaffa en fru till. Det visar SVT:s program Uppdrag Granskning . Det är förbjudet att vara gift med flera personer i Sverige.",
       "date": "2026-11-11T12:36:00.000Z",
       "image": "",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Så sparar du på elen",
-      "link": "https://www.sverigesradio.se/artikel/9338553",
-      "summary": "Elpriserna i södra och mellersta Sverige ökar. Då är det många som försöker använda mindre el. Det finns flera sätt att göra det.",
-      "date": "2026-11-11T10:17:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/0942c774-a163-4b69-99eb-b5131284e322.png?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
