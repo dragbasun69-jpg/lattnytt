@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Nyheter på lätt svenska den 25 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-25-november-5/",
+      "summary": "",
+      "date": "2026-11-25T08:44:54.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
+      "title": "Riksdagen röstar om Kristersson",
+      "link": "https://8sidor.se/politik/2026/11/riksdagen-ska-rosta-om-kristersson/",
+      "summary": "På måndag ska riksdagen rösta om de vill ha Ulf Kristersson som statsminister.",
+      "date": "2026-11-25T08:43:21.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/uffe.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
+      "title": "Donald Trump hjälpte chef",
+      "link": "https://8sidor.se/varlden/2026/11/donald-trump-hjalpte-chef/",
+      "summary": "USAs ledare Donald Trump hjälpte till att få tillbaka chefen på det stora företaget Nvidia. Det var fel, tycker experter.",
+      "date": "2026-11-25T08:41:21.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/trumphuang.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
+      "title": "Paus för utvisningar",
+      "link": "https://8sidor.se/politik/2026/11/paus-for-utvisningar-2/",
+      "summary": "Migrationsverket pausar utvisningar av tonåringar från andra länder. Det säger chefen Maria Mindhammar.",
+      "date": "2026-11-25T08:39:46.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/migrationsverket-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
+      "title": "Odla egen amaryllis",
+      "link": "https://8sidor.se/din-vardag/2026/11/odla-egen-amaryllis/",
+      "summary": "Blomman amaryllis är populär på julen. Den går att odla själv i slutet av november.",
+      "date": "2026-11-25T07:59:56.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/amaryllis-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
+      "title": "Senegal mästare till sist",
+      "link": "https://8sidor.se/sport/2026/11/senegal-mastare-till-sist/",
+      "summary": "Först blev Senegal mästare i afrikansk fotboll. Sedan var de inte det. Nu är de mästare igen.",
+      "date": "2026-11-25T07:42:57.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/2026_senegal.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-25T09:29:16.526Z"
+    },
+    {
       "title": "Ingen köpte Batmans bil",
       "link": "https://8sidor.se/kultur/2026/11/ingen-kopte-batmans-bil/",
       "summary": "Ingen köpte batmobilen. Det är bilen som figuren Batman kör i filmer.",
