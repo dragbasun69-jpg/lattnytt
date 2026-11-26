@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Trafiklärare: Använd reflex i mörkret",
+      "link": "https://www.sverigesradio.se/artikel/9350917",
+      "summary": "Trafikläraren Kick Ohlsson är trött på att många går ute i mörkret utan reflexer. Hon säger att folk tror att de syns bättre än de gör. Men det kan vara svårt för den som kör bil att se människor som går eller cyklar över vägen utan reflex. Det säger hon till P4 Kronoberg.",
+      "date": "2026-11-26T15:16:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/858074d1-195c-4253-b687-150e40ddfecf.png?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-26T17:21:30.196Z"
+    },
+    {
       "title": "Höga elpriser kan göra det svårt för småföretag",
       "link": "https://www.sverigesradio.se/artikel/9350720",
       "summary": "Småföretag kan få det svårt när elpriserna stiger. Det säger organisationen Företagarna. De är kritiska till att småföretag inte får samma elstöd från staten som hushåll får.",
@@ -1728,16 +1738,6 @@
       "image": "https://8sidor.se/app/uploads/2026/11/kokbok.jpg",
       "source": "8 Sidor",
       "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Vänsterpartiet kräver fortfarande att få vara med i en regering",
-      "link": "https://www.sverigesradio.se/artikel/9339845",
-      "summary": "Vänsterpartiet säger att de kan förhandla med Centerpartiet, för att kunna bilda en regering med de rödgröna partierna. Men Vänsterpartiet kräver fortfarande att få vara med i regeringen och ha ministrar. Och det har Centerpartiet sagt nej till.",
-      "date": "2026-11-12T15:27:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/6d50aa14-14ec-4bab-9d8b-55fa778ab38f.jpg?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
     }
   ]
