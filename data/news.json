@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:11:05.428Z",
+  "updated": "2026-11-26T12:15:26.577Z",
   "sources": [
     {
       "id": "8sidor",
@@ -1934,28 +1934,6 @@
       "source": "Klartext",
       "color": "#2a9d8f",
       "id": "klartext-173"
-    },
-    {
-      "title": "Finansministern presenterade budget utan nya satsningar",
-      "link": "https://www.sverigesradio.se/artikel/9339469",
-      "summary": "Idag presenterade finansminister Elisabeth Svantesson regeringens förslag på budget. Eftersom Sverige inte har någon ny regering så är det inga stora förändringar i budgeten.",
-      "date": "2026-11-12T12:06:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/ab8c5283-6cf2-45a3-b18c-0681a60092cc.jpg?w=1200&h=675&q=75",
-      "sourceId": "radiosweden",
-      "source": "Radio Sweden på lätt svenska",
-      "color": "#1d4e89",
-      "id": "radiosweden-174"
-    },
-    {
-      "title": "Kritik mot stort AI-datacenter i Skellefteå",
-      "link": "https://www.sverigesradio.se/artikel/9339374",
-      "summary": "I Skellefteå planeras ett datacenter som beräknas dra lika mycket el som en kärnkraftsreaktor. Dataingenjören Robin Åsén har samlat in 5 000 namnunderskrifter mot byggplanerna.",
-      "date": "2026-11-12T12:01:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/b34ca0bd-5472-462f-bd40-f7fd788ae3ea.jpeg?w=1200&h=675&q=75",
-      "sourceId": "radiosweden",
-      "source": "Radio Sweden på lätt svenska",
-      "color": "#1d4e89",
-      "id": "radiosweden-175"
     }
   ]
 }
