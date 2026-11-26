@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Bråk i Centerpartiet",
+      "link": "https://8sidor.se/politik/2026/11/brak-i-centerpartiet/",
+      "summary": "Politiker i Centerpartiet är inte längre överens om vilken statsminister de vill ha. På måndag ska de rösta.",
+      "date": "2026-11-26T09:13:55.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/thandringqvist-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "FUB i Umeå protesterar",
+      "link": "https://8sidor.se/sverige/2026/11/fub-i-umea-protesterar/",
+      "summary": "Umeå kommun ska bygga en stor daglig verksamhet. Det är omodernt, protesterar organisationen FUB.",
+      "date": "2026-11-26T09:12:04.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/umea.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Möte om Ukraina i EU",
+      "link": "https://8sidor.se/varlden/2026/11/mote-om-ukraina-i-eu/",
+      "summary": "I dag ska EUs ledare prata om pengar till Ukraina. – Det kommer att bli bråkigt, säger Sveriges statsminister.",
+      "date": "2026-11-26T08:59:09.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/ulfk.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 26 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-26-november-5/",
+      "summary": "",
+      "date": "2026-11-26T08:29:30.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Finskt besök på 8 Sidor",
+      "link": "https://8sidor.se/8-sidor/2026/11/finskt-besok-pa-8-sidor/",
+      "summary": "Nyligen fick 8 Sidor besök av två journalister från Finland som jobbar med lättlästa nyheter.",
+      "date": "2026-11-26T08:15:27.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/lattabladet.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Hon är favorit i skidskytte",
+      "link": "https://8sidor.se/sport/2026/11/hon-ar-favorit-i-skidskytte/",
+      "summary": "Elvira Öberg från Sverige kan vinna hela världscupen i skidskytte. Det tror en expert.",
+      "date": "2026-11-26T08:03:41.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261124_elviraoberg2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Högre löner i Bangladesh",
+      "link": "https://8sidor.se/varlden/2026/11/hogre-loner-i-bangladesh/",
+      "summary": "Efter flera veckor av protester ska nu arbetare i Bangladesh få högre löner.",
+      "date": "2026-11-26T08:01:14.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/bangladesh-1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Olyckorna fortsätter öka",
+      "link": "https://8sidor.se/sverige/2026/11/olyckorna-fortsatter-oka/",
+      "summary": "Olyckor med elsparkcyklar fortsätter att öka i Sverige. Det visar siffror från myndigheten Transportstyrelsen.",
+      "date": "2026-11-26T08:01:00.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261125_elsparkcykel.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
       "title": "Migrationsverket pausar utvisningar av unga vuxna",
       "link": "https://www.sverigesradio.se/artikel/9350141",
       "summary": "Migrationsverket pausar utvisningar av vissa unga vuxna. Det gäller unga personer som har familj kvar i Sverige. Orsaken är att politikerna arbetar med en ny lag som ska ändra reglerna.",
@@ -1636,16 +1716,6 @@
       "summary": "I Skellefteå planeras ett datacenter som beräknas dra lika mycket el som en kärnkraftsreaktor. Dataingenjören Robin Åsén har samlat in 5 000 namnunderskrifter mot byggplanerna.",
       "date": "2026-11-12T12:01:00.000Z",
       "image": "https://image-api.sr.se/v1/static/AA/4916/b34ca0bd-5472-462f-bd40-f7fd788ae3ea.jpeg?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Svenskt medborgarskap kan tas tillbaka i vissa fall",
-      "link": "https://www.sverigesradio.se/artikel/9339318",
-      "summary": "Riksdagen röstade i går ja till en ändring i grundlagen. Ändringen gör det möjligt att i framtiden ta tillbaka ett svenskt medborgarskap.",
-      "date": "2026-11-12T09:23:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/76c52e0d-2006-4b66-844f-5a27ca4d066e.jpg?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-15T12:18:48.000Z"
