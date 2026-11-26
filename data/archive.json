@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Höga elpriser kan göra det svårt för småföretag",
+      "link": "https://www.sverigesradio.se/artikel/9350720",
+      "summary": "Småföretag kan få det svårt när elpriserna stiger. Det säger organisationen Företagarna. De är kritiska till att småföretag inte får samma elstöd från staten som hushåll får.",
+      "date": "2026-11-26T14:02:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/c29ff2e4-5bb2-4121-86b6-de1a8b23b0dd.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-26T15:18:34.118Z"
+    },
+    {
+      "title": "Många kan bli sjuka i influensa i jul",
+      "link": "https://www.sverigesradio.se/artikel/9350563",
+      "summary": "Influensaperioden började extra tidigt den här vintern . Det gör att det finns en risk att flest är sjuka under jul- och nyårshelgerna. För att slippa bli sjuk så tipsar läkaren Ingvar Eliasson om saker man kan gör. Han berättar också om hur man ska göra för att inte smitta andra.",
+      "date": "2026-11-26T13:54:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/b5b86845-4d78-4ecc-8083-2bfb526d474f.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-26T15:18:34.118Z"
+    },
+    {
       "title": "Bråk om vilken väg Centerpartiet ska ta",
       "link": "https://www.sverigesradio.se/artikel/9350711",
       "summary": "Det är bråk i Centerpartiet om vilken regering partiet ska stödja. En regering mer till höger eller mer till vänster.",
@@ -1718,36 +1738,6 @@
       "image": "https://image-api.sr.se/v1/static/AA/4916/6d50aa14-14ec-4bab-9d8b-55fa778ab38f.jpg?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Så vill övergångsregeringen använda Sveriges pengar",
-      "link": "https://www.sverigesradio.se/artikel/9339768",
-      "summary": "På torsdagen berättade regeringen om hur de vill använda Sveriges pengar nästa år. Ett sådant budgetförslag gör regeringen varje höst. I vanliga fall brukar regeringen berätta samtidigt vilka nya satsningar de vill göra och hur mycket pengar det kommer kosta. Men i år fungerar det annorlunda.",
-      "date": "2026-11-12T14:47:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/53daa7ed-7930-465c-b3b5-212926ed3aac.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Varning för snöoväder i norra Sverige",
-      "link": "https://www.sverigesradio.se/artikel/9339723",
-      "summary": "Vädermyndigheten SMHI varnar för ett riktigt snöoväder från söder om Skellefteå och uppåt längs kusten. Det kan komma omkring 80 centimeter snö och så blåser det mycket. Den här varningen gäller sedan 14-tiden på torsdagen och fram till sent fredag kväll.",
-      "date": "2026-11-12T14:28:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/cc80b0ea-019c-4b9e-a2dc-d7a09760845d.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Sista träffen för Seniorexperterna: ”Jag känner mig stolt”",
-      "link": "https://www.sverigesradio.se/artikel/9339700",
-      "summary": "I mer än sex år har Seniorexperterna i Karlstad träffats för att göra livet bättre för äldre med intellektuell funktionsnedsättning. Nu är projektet slut. Seniorexperterna lever själva med if. De har bland annat fått träffa politiker och andra som bestämmer för att prata om viktiga frågor.",
-      "date": "2026-11-12T14:26:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/7a2314eb-9f53-469e-8040-d6f92f818414.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
       "firstSeen": "2026-11-15T12:18:48.000Z"
     }
   ]
