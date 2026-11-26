@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Högt pris på el",
+      "link": "https://8sidor.se/sverige/2026/11/hogt-pris-pa-el-2/",
+      "summary": "Priset på el är det högsta sedan december år 2022. Även i norra Sverige är elen dyr.",
+      "date": "2026-11-26T10:54:34.000Z",
+      "image": "https://8sidor.se/app/uploads/2022/01/ledningarforel.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T11:11:05.423Z"
+    },
+    {
+      "title": "Olyckor med elsparkcyklar fortsätter att öka",
+      "link": "https://www.sverigesradio.se/artikel/9350470",
+      "summary": "Antalet olyckor med elsparkcyklar fortsätter att öka. Tre personer dog och nästan 3 000 skadades under första halvåret av 2026. Det är en ökning med 16 procent jämfört med samma period förra året.",
+      "date": "2026-11-26T10:15:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/18f32359-1272-438b-b058-47e4a1584ff8.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-26T11:11:05.423Z"
+    },
+    {
+      "title": "Vit panda fotad i Kina",
+      "link": "https://8sidor.se/varlden/2026/11/vit-panda-fotad-i-kina/",
+      "summary": "Världens enda vita panda finns i Kina. Den har blivit fotad för första gången på många år.",
+      "date": "2026-11-26T10:12:33.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/panda1.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-26T11:11:05.423Z"
+    },
+    {
       "title": "Bråk i Centerpartiet",
       "link": "https://8sidor.se/politik/2026/11/brak-i-centerpartiet/",
       "summary": "Politiker i Centerpartiet är inte längre överens om vilken statsminister de vill ha. På måndag ska de rösta.",
@@ -39,6 +69,16 @@
       "source": "8 Sidor",
       "sourceId": "8sidor",
       "firstSeen": "2026-11-26T09:26:31.591Z"
+    },
+    {
+      "title": "Martin, Felicia och Emil vill ha mer jobb",
+      "link": "https://www.sverigesradio.se/artikel/9344991",
+      "summary": "Den dagliga verksamheten i Lidköping vill ha mer jobb från olika företag . För ibland tar de bra jobben slut. Det arbetar tio personer på den dagliga verksamheten. Deras arbetsuppgifter är bland annat att sätta fast kranar i lock. De jobbar också med ta isär patroner så att de kan återvinnas.",
+      "date": "2026-11-26T08:21:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/eab8943e-fc91-46c9-9f4a-70a4e440a8bd.jpg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-26T11:11:05.423Z"
     },
     {
       "title": "Finskt besök på 8 Sidor",
