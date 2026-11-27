@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Ny lag om abort",
+      "link": "https://8sidor.se/politik/2026/11/ny-lag-om-abort/",
+      "summary": "Den 1 januari får Sverige en ny lag om abort.",
+      "date": "2026-11-27T13:06:10.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/gynstol.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T13:32:33.910Z"
+    },
+    {
       "title": "Thand Ringqvist vill att Centerpartiet röstar ja till Ulf Kristersson (M) som statsminister",
       "link": "https://www.sverigesradio.se/artikel/9351572",
       "summary": "Centerpartiets ledare Elisabeth Thand Ringqvist vill att partiet säger ja till Ulf Kristersson från Moderaterna som statsminister. Hon vill att Centerpartiet ska vara med i regeringen tillsammans med Moderaterna, Kristdemokraterna och Liberalerna. Centerpartiets partistyrelse och riksdagsgrupp säger också ja till det.",
@@ -515,7 +525,7 @@
       "link": "https://www.sverigesradio.se/artikel/9348967",
       "summary": "Centerpartiet har börjat diskutera med partierna till höger igen. Det sa Centerpartiets ledare Elisabeth Thand Ringqvist till Ekot på måndagskvällen.",
       "date": "2026-11-24T11:03:00.000Z",
-      "image": "",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/975817e4-6500-4649-bb88-df8b7f7d6319.jpg?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
       "firstSeen": "2026-11-24T11:06:57.589Z"
@@ -1728,36 +1738,6 @@
       "image": "https://image-api.sr.se/v1/static/AA/493/a50fd42f-ac0b-45d1-8864-4d49b0982df3.jpg?w=1200&h=675&q=75",
       "source": "Klartext",
       "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Advokater protesterar mot nya regler för asylsökande",
-      "link": "https://www.sverigesradio.se/artikel/9340478",
-      "summary": "Asylsökande får inte längre en egen jurist när de söker asyl. Sedan i somras får de i stället bara några timmar med allmän juridisk rådgivning. Men hjälpen handlar inte om deras eget ärende. Det har fått många migrationsadvokater att protestera.",
-      "date": "2026-11-13T13:20:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/207e5eca-272d-417c-8f04-eb7559346e70.jpg?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Stefan Holm kan straffas",
-      "link": "https://8sidor.se/sverige/2026/11/stefan-holm-kan-straffas/",
-      "summary": "Förre höjdhopparen Stefan Holm kan bli straffad. Det gäller bråket med journalisten Emil Persson.",
-      "date": "2026-11-13T12:49:30.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/09/260928_stefanholm.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Centerpartiet ska bestämma sig",
-      "link": "https://8sidor.se/politik/2026/11/centerpartiet-ska-bestamma-sig/",
-      "summary": "Politikerna i Centerpartiet ska tänka på vilken regering de vill ha. Nästa vecka berättar de.",
-      "date": "2026-11-13T12:47:03.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/thand.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
       "firstSeen": "2026-11-15T12:18:48.000Z"
     }
   ]
