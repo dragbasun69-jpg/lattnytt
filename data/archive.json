@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Viktigt möte om mänskliga rättigheter",
+      "link": "https://www.sverigesradio.se/artikel/9351675",
+      "summary": "Årets Mänskliga rättighetsdagar har precis avslutats. I år ordnades dom i Karlstad. På Mänskliga rättighetsdagarna möts människor för att lära sig och prata om att alla är lika mycket värda.",
+      "date": "2026-11-27T14:55:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/493/c08b3331-6f69-494d-ba39-578ee515a7a6.jpeg?w=1200&h=675&q=75",
+      "source": "Klartext",
+      "sourceId": "klartext",
+      "firstSeen": "2026-11-27T15:13:24.899Z"
+    },
+    {
+      "title": "Det behövs fler som arbetar med betong",
+      "link": "https://www.sverigesradio.se/artikel/9351682",
+      "summary": "Det väntas bli brist på arbetare som jobbar med betong. Därför startar en ny gymnasieutbildning i Torsby. Utbildningen ska ta emot elever från hela Sverige. Den startar hösten 2027.",
+      "date": "2026-11-27T14:30:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/c0d0d304-a80f-435c-be1a-3d58cce59839.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-27T15:13:24.899Z"
+    },
+    {
+      "title": "Succé direkt för svenskorna",
+      "link": "https://8sidor.se/sport/2026/11/succe-direkt-for-svenskorna/",
+      "summary": "Den första tävlingen i damernas världscup i skidor har varit. Det blev succé direkt för Sverige.",
+      "date": "2026-11-27T13:33:39.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/261127_ruka.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T15:13:24.899Z"
+    },
+    {
       "title": "Ny lag om abort",
       "link": "https://8sidor.se/politik/2026/11/ny-lag-om-abort/",
       "summary": "Den 1 januari får Sverige en ny lag om abort.",
@@ -91,7 +121,7 @@
       "firstSeen": "2026-11-27T09:26:12.394Z"
     },
     {
-      "title": "Musikhjälpen i Linköping",
+      "title": "Musikhjälp i Linköping",
       "link": "https://8sidor.se/kultur/2026/11/musikhjalpen-i-linkoping/",
       "summary": "Måndagen den 30 november börjar Musikhjälpen . Programmet är i staden Linköping.",
       "date": "2026-11-27T08:18:57.000Z",
@@ -1718,26 +1748,6 @@
       "image": "https://image-api.sr.se/v1/static/AA/4916/41e3de5e-c59a-4c15-864f-d38023e3ec36.png?w=1200&h=675&q=75",
       "source": "Radio Sweden på lätt svenska",
       "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Kommunen stoppade smink och hudvårdsprodukter i butiker i Södertälje",
-      "link": "https://www.sverigesradio.se/artikel/9340526",
-      "summary": "I Södertälje har kommunen förbjudit butiker att sälja flera smink- och hudvårdsprodukter. Det rapporterar SVT Södertälje.",
-      "date": "2026-11-13T14:35:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/5da07482-6803-4660-9f75-76a0549d1ea8.jpg?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "De leder Musikhjälpen",
-      "link": "https://www.sverigesradio.se/artikel/9340435",
-      "summary": "Det blir Fahra Abadi, Assia Dahir och Hampus Hedström som programleder Musikhjälpen i år. Sista november går programledarna in i buren på stora torget i Linköping. I en vecka ska de samla in så mycket pengar det bara går. Temat för årets insamling är ”För psykisk hälsa i krig och kris”.",
-      "date": "2026-11-13T14:24:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/a50fd42f-ac0b-45d1-8864-4d49b0982df3.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
       "firstSeen": "2026-11-15T12:18:48.000Z"
     }
   ]
