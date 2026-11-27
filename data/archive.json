@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Stormar i USA",
+      "link": "https://8sidor.se/varlden/2026/11/stormar-i-usa/",
+      "summary": "Många i USA är utan el efter stora stormar i landet. Samtidigt börjar den stora helgen Thanksgiving.",
+      "date": "2026-11-27T09:06:16.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/ovader-usa-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Nyheter på lätt svenska den 27 november",
+      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-27-november-5/",
+      "summary": "",
+      "date": "2026-11-27T08:47:10.000Z",
+      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Hon säger ja till Kristersson",
+      "link": "https://8sidor.se/politik/2026/11/hon-sager-ja-till-kristersson/",
+      "summary": "Centerpartiets ledare vill säga ja till Moderaternas ledare Ulf Kristersson som statsminister.",
+      "date": "2026-11-27T08:40:11.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/Centerpartiet2.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Rosengård är tillbaka",
+      "link": "https://8sidor.se/sport/2026/11/rosengard-ar-tillbaka/",
+      "summary": "Laget Rosengård åkte ur damallsvenskan i fotboll. Men nu får Rosengård komma tillbaka.",
+      "date": "2026-11-27T08:29:55.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/fcrosenga%CC%8Ard.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Musikhjälpen i Linköping",
+      "link": "https://8sidor.se/kultur/2026/11/musikhjalpen-i-linkoping/",
+      "summary": "Måndagen den 30 november börjar Musikhjälpen . Programmet är i staden Linköping.",
+      "date": "2026-11-27T08:18:57.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/2025_musikhjalpen.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Dags för tävlingar i skidor",
+      "link": "https://8sidor.se/sport/2026/11/dags-for-tavlingar-i-skidor/",
+      "summary": "Nu börjar världscupen i längdskidor. Moa Ilar är en av dem som tävlar för Sverige.",
+      "date": "2026-11-27T08:15:51.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/2026_moailar.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Många tänder ljus",
+      "link": "https://8sidor.se/din-vardag/2026/11/manga-tander-ljus-2/",
+      "summary": "Snart är det första advent. Många tänder ljus. Det blir viktigt att kolla att brandvarnaren fungerar.",
+      "date": "2026-11-27T08:13:47.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/adventsljusstake.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
+      "title": "Amir får kanske inte stanna",
+      "link": "https://8sidor.se/sverige/2026/11/amir-far-kanske-inte-stanna/",
+      "summary": "Amir Ansari cyklade i olympiska spelen år 2024. Nu kan han bli utvisad från Sverige.",
+      "date": "2026-11-27T08:04:23.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/amir.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T09:26:12.394Z"
+    },
+    {
       "title": "Trafiklärare: Använd reflex i mörkret",
       "link": "https://www.sverigesradio.se/artikel/9350917",
       "summary": "Trafikläraren Kick Ohlsson är trött på att många går ute i mörkret utan reflexer. Hon säger att folk tror att de syns bättre än de gör. Men det kan vara svårt för den som kör bil att se människor som går eller cyklar över vägen utan reflex. Det säger hon till P4 Kronoberg.",
@@ -1666,76 +1746,6 @@
       "summary": "Ukrainas ledare vill att Europa ska vara med i nya samtal om fred.",
       "date": "2026-11-13T09:50:08.000Z",
       "image": "https://8sidor.se/app/uploads/2026/11/samtal1.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Hunden Hjördis får pris",
-      "link": "https://8sidor.se/sverige/2026/11/hunden-hjordis-far-pris/",
-      "summary": "Hunden Hjördis får ett pris. Hon räddade livet på en kvinna som fick en stroke i hjärnan.",
-      "date": "2026-11-13T09:09:38.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/hjordis.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Politiker slutar i riksdagen",
-      "link": "https://8sidor.se/politik/2026/11/politiker-slutar-i-riksdagen/",
-      "summary": "Rasmus Giertz slutar jobba för Sverigedemokraterna i riksdagen. Flera kvinnor säger att han gjort sexuella saker som inte är okej.",
-      "date": "2026-11-13T08:58:15.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/261113_giertz.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Nyheter på lätt svenska den 13 november",
-      "link": "https://8sidor.se/lyssna/2026/11/nyheter-pa-latt-svenska-den-13-november-4/",
-      "summary": "",
-      "date": "2026-11-13T08:44:44.000Z",
-      "image": "https://8sidor.se/app/uploads/2020/03/APPIKON_8SIDOR_A01_RGB-2.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Poliserna varnar för snön",
-      "link": "https://8sidor.se/sverige/2026/11/poliserna-varnar-for-snon/",
-      "summary": "Poliserna säger att folk som bor där det snöar som mest bara ska ge sig ut på vägarna om de måste.",
-      "date": "2026-11-13T08:29:09.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/261113_skelleftea.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Hon fick inte skriva fritt",
-      "link": "https://8sidor.se/kultur/2026/11/hon-fick-inte-skriva-fritt/",
-      "summary": "Forskaren Pinar Selek från Turkiet har flytt till Frankrike för att kunna skriva fritt.",
-      "date": "2026-11-13T08:16:22.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/PhotoPinarSelek-parMujganArpat.2-stor.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Dag med fotboll på schemat",
-      "link": "https://8sidor.se/sverige/2026/11/dag-med-fotboll-pa-schemat/",
-      "summary": "Att röra sig är bra för hälsan. Flera dagliga verksamheter samlades för att spela fotboll. – Det här vill vi ha mer av, säger de.",
-      "date": "2026-11-13T08:15:41.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/41-8-fotboll.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Lätt att laga vego",
-      "link": "https://8sidor.se/din-vardag/2026/11/latt-att-laga-vego/",
-      "summary": "En del tror att det är svårt att laga vegetarisk mat. Men det kan faktiskt vara lätt.",
-      "date": "2026-11-13T08:12:55.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/kokbok.jpg",
       "source": "8 Sidor",
       "sourceId": "8sidor",
       "firstSeen": "2026-11-15T12:18:48.000Z"
