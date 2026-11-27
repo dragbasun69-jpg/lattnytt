@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Bensin och diesel kan ta slut på vissa mackar",
+      "link": "https://www.sverigesradio.se/artikel/9351398",
+      "summary": "Den 1 december blir bensin och diesel dyrare. Priset höjs med tre kronor per liter. Det beror på att en tillfällig sänkning av skatten tas bort. Nu tankar en del extra mycket innan priset höjs.",
+      "date": "2026-11-27T10:17:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/4916/b21a2867-f435-47fe-b198-d40df1ea3d87.jpg?w=1200&h=675&q=75",
+      "source": "Radio Sweden på lätt svenska",
+      "sourceId": "radiosweden",
+      "firstSeen": "2026-11-27T11:07:43.384Z"
+    },
+    {
+      "title": "Drömmen om ett vackert paket",
+      "link": "https://8sidor.se/kronika/2026/11/drommen-om-ett-vackert-paket/",
+      "summary": "Varje jul drömmer jag om vackra paket till jul. Men det blir aldrig så, skriver 8 Sidors Katrin Kasström.",
+      "date": "2026-11-27T09:39:21.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/julklapp-magnus-webb.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T11:07:43.384Z"
+    },
+    {
+      "title": "Hon ändrade USAs politik",
+      "link": "https://8sidor.se/kultur/2026/11/hon-andrade-usas-politik/",
+      "summary": "Judy Heumann kämpade för folk med funktionsnedsättningar. Hon ändrade politiken i USA. Nu finns en film om henne.",
+      "date": "2026-11-27T09:27:03.000Z",
+      "image": "https://8sidor.se/app/uploads/2026/11/webb-heumann-judy-2bild.jpg",
+      "source": "8 Sidor",
+      "sourceId": "8sidor",
+      "firstSeen": "2026-11-27T11:07:43.384Z"
+    },
+    {
       "title": "Stormar i USA",
       "link": "https://8sidor.se/varlden/2026/11/stormar-i-usa/",
       "summary": "Många i USA är utan el efter stora stormar i landet. Samtidigt börjar den stora helgen Thanksgiving.",
@@ -1716,36 +1746,6 @@
       "summary": "Politikerna i Centerpartiet ska tänka på vilken regering de vill ha. Nästa vecka berättar de.",
       "date": "2026-11-13T12:47:03.000Z",
       "image": "https://8sidor.se/app/uploads/2026/11/thand.jpg",
-      "source": "8 Sidor",
-      "sourceId": "8sidor",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Mycket snö i Norrland – problem på vägarna",
-      "link": "https://www.sverigesradio.se/artikel/9340216",
-      "summary": "Det snöar kraftigt på flera platser i norra Sverige. Snön gör att vägarna inte är säkra att köra på.",
-      "date": "2026-11-13T10:33:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/4916/5944b87b-af1a-4c27-8b8c-6aa2755862cc.png?w=1200&h=675&q=75",
-      "source": "Radio Sweden på lätt svenska",
-      "sourceId": "radiosweden",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "De fixade egna resor när personalregler satte stopp: ”Jättekul”",
-      "link": "https://www.sverigesradio.se/artikel/9340255",
-      "summary": "Regler för personalens arbetstider gör att personer på LSS-boenden kan ha svårt att åka på semester. Därför har systrarna Anna och Lisa Berglund börjat ordna särskilda semesterresor, där deltagarna kan få mycket stöd. Deltagarna betalar själva för resorna.",
-      "date": "2026-11-13T10:12:00.000Z",
-      "image": "https://image-api.sr.se/v1/static/AA/493/954ef7a2-40c7-4bfe-a3b5-95baad8a8484.jpg?w=1200&h=675&q=75",
-      "source": "Klartext",
-      "sourceId": "klartext",
-      "firstSeen": "2026-11-15T12:18:48.000Z"
-    },
-    {
-      "title": "Nya samtal om fred",
-      "link": "https://8sidor.se/varlden/2026/11/nya-samtal-om-fred/",
-      "summary": "Ukrainas ledare vill att Europa ska vara med i nya samtal om fred.",
-      "date": "2026-11-13T09:50:08.000Z",
-      "image": "https://8sidor.se/app/uploads/2026/11/samtal1.jpg",
       "source": "8 Sidor",
       "sourceId": "8sidor",
       "firstSeen": "2026-11-15T12:18:48.000Z"
